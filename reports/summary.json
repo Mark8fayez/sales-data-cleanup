@@ -1,0 +1,122 @@
+{
+  "files": [
+    {
+      "file": "orders_2026_01.csv",
+      "rows": 713,
+      "columns": 11
+    },
+    {
+      "file": "orders_2026_02.csv",
+      "rows": 847,
+      "columns": 11
+    },
+    {
+      "file": "orders_2026_03.xlsx",
+      "rows": 777,
+      "columns": 11
+    },
+    {
+      "file": "orders_2026_04.xlsx",
+      "rows": 792,
+      "columns": 11
+    },
+    {
+      "file": "orders_2026_05.csv",
+      "rows": 754,
+      "columns": 11
+    },
+    {
+      "file": "orders_2026_06.csv",
+      "rows": 815,
+      "columns": 11
+    }
+  ],
+  "rows_in": 4698,
+  "empty_rows": 43,
+  "rejected_rows": 136,
+  "rejected_recovered": 36,
+  "reject_reasons": {
+    "invalid or missing quantity": 93,
+    "invalid or missing unit_price": 40,
+    "invalid or missing quantity; invalid or missing unit_price": 3
+  },
+  "duplicates": {
+    "within_file": 130,
+    "across_files": 534,
+    "conflicting_orders": 28
+  },
+  "orders_out": 3855,
+  "customers_out": 350,
+  "merged_name_spellings": 66,
+  "orders_without_valid_phone": 91,
+  "orders_without_valid_email": 310,
+  "unmapped_cities": [],
+  "changes": {
+    "order_id": {
+      "standardized": 3514,
+      "unusable": 0,
+      "missing": 0
+    },
+    "order_date": {
+      "standardized": 3110,
+      "unusable": 0,
+      "missing": 0
+    },
+    "customer_name": {
+      "standardized": 1893,
+      "unusable": 0,
+      "missing": 0
+    },
+    "phone": {
+      "standardized": 3771,
+      "unusable": 34,
+      "missing": 75
+    },
+    "email": {
+      "standardized": 551,
+      "unusable": 137,
+      "missing": 253
+    },
+    "city": {
+      "standardized": 3427,
+      "unusable": 0,
+      "missing": 0
+    },
+    "product": {
+      "standardized": 0,
+      "unusable": 0,
+      "missing": 0
+    },
+    "quantity": {
+      "standardized": 475,
+      "unusable": 96,
+      "missing": 0
+    },
+    "unit_price": {
+      "standardized": 1998,
+      "unusable": 0,
+      "missing": 43
+    },
+    "payment_method": {
+      "standardized": 4655,
+      "unusable": 0,
+      "missing": 0
+    },
+    "status": {
+      "standardized": 3471,
+      "unusable": 0,
+      "missing": 0
+    }
+  },
+  "date_range": [
+    "2026-01-01",
+    "2026-06-30"
+  ],
+  "delivered_revenue_egp": 4347915.0,
+  "status_counts": {
+    "delivered": 3034,
+    "cancelled": 316,
+    "pending": 309,
+    "returned": 196
+  }
+}

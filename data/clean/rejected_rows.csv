@@ -1,0 +1,137 @@
+order_id,order_date,customer_name,phone,email,city,product,quantity,unit_price,payment_method,status,source_file,source_row,reject_reason,order_id_clean,order_kept_from_other_copy
+10233,2026-01-24,Nada Samir,1281029073,nada.samir33@gmail.com,Cairo City,Ceramic Dinner Set (24 pcs),-2,2400.0,cash,DELIVERED,orders_2026_01.csv,11,invalid or missing quantity,ORD-10233,False
+ord10464,2026-01-27,Youssef Hanna,+20 116-789-8694,youssef.hanna34@gmail.com,Alexandria,Storage Basket Set,0,365.0,Credit Card,delivered,orders_2026_01.csv,51,invalid or missing quantity,ORD-10464,True
+ORD-10305,2026-01-18,  Habiba   Ali ,012 8252 3968,habiba.ali56@yahoo.com, CAIRO ,Shower Curtain,1,,COD,DELIVERED,orders_2026_01.csv,55,invalid or missing unit_price,ORD-10305,False
+ord10417,2026-01-23,Mostafa Nasr,+201546920514,mostafa.nasr4@yahoo.com,Al Qahirah,Cotton Bed Sheet Set,-3,1450.0,Card,Completed,orders_2026_01.csv,66,invalid or missing quantity,ORD-10417,False
+ord10532,2026-01-18,sherif adel,+201277149951, SHERIF.ADEL38@OUTLOOK.COM,Alexandria,Wall Clock,0,360.0,Cash on Delivery,DELIVERED,orders_2026_01.csv,98,invalid or missing quantity,ORD-10532,False
+10482,2026-01-02,Tarek Ezzat,01041551377,tarek.ezzat72@yahoo.com,ALEXANDRIA,Electric Kettle 1.7L,0,1100.0,Card,Delivered,orders_2026_01.csv,100,invalid or missing quantity,ORD-10482,False
+ORD-10093,2026-01-26,NADA SAMIR,1247219209,nada.samir90@yahoo.com,ALEXANDRIA,Cotton Bed Sheet Set,-1,,COD,Completed,orders_2026_01.csv,104,invalid or missing quantity; invalid or missing unit_price,ORD-10093,True
+ORD 10665,2026-01-04,Nour Farouk,+20 127-249-8004,nour.farouk11@gmail.com,Giza,Memory Foam Pillow,0,650.0,mobile wallet,Completed,orders_2026_01.csv,106,invalid or missing quantity,ORD-10665,False
+ord10505,2026-01-13,Nour Zaki,1214972279,nour.zaki38@yahoo.com,El Giza,Wall Clock,-1,510.0,mobile wallet,Delivered,orders_2026_01.csv,142,invalid or missing quantity,ORD-10505,False
+ORD 10420,2026-01-14,Rana Abdelrahman,00201104237322,rana.abdelrahman74@outlook.com, CAIRO ,Memory Foam Pillow,0,750.0,Visa,Canceled,orders_2026_01.csv,146,invalid or missing quantity,ORD-10420,False
+10541,2026-01-12,Mariam Hanna,1091306093,mariam.hanna93@gmail.com,Tanta,Memory Foam Pillow,0,600.0,COD,Completed,orders_2026_01.csv,160,invalid or missing quantity,ORD-10541,False
+ord10102,2026-01-09,Moustafa Zaki,00201171826922,mostafa.zaki95@outlook.com,Al Qahirah,Cotton Bed Sheet Set,-1,1450.0,Visa,delivered,orders_2026_01.csv,184,invalid or missing quantity,ORD-10102,False
+ORD-10598,2026-01-21,Mennatallah Soliman,+201509794273,mennatallah.soliman89@gmail.com,giza ,Electric Kettle 1.7L,0,1150.0,Visa,Delivered,orders_2026_01.csv,187,invalid or missing quantity,ORD-10598,False
+10276,2026-01-28,Karim Farouk,1067719420,karim.farouk83@gmail.com,Al Qahirah,Non-stick Frying Pan 28cm,0,990.0,Credit Card,Delivered,orders_2026_01.csv,205,invalid or missing quantity,ORD-10276,True
+ORD-10323,2026-01-07,Aya Ezzat,00201186926431, AYA.EZZAT9@OUTLOOK.COM,Mansoura,Electric Kettle 1.7L,0,1250.0,COD,Delivered,orders_2026_01.csv,228,invalid or missing quantity,ORD-10323,False
+ORD 10283,2026-01-18,Nada Naguib,+201570325062,nada.naguib11@yahoo.com,Alex,Cotton Bed Sheet Set,0,1450.0,Credit Card,pending,orders_2026_01.csv,306,invalid or missing quantity,ORD-10283,False
+ord10270,2026-01-28,Nour Farouk,00201272498004, NOUR.FAROUK11@GMAIL.COM,El Giza,LED Desk Lamp,0,540.0,cash,Completed,orders_2026_01.csv,359,invalid or missing quantity,ORD-10270,True
+10320,2026-01-24,Nada Mahmoud,1217463800,nada.mahmoud72@gmail.com,tanta,Ceramic Dinner Set (24 pcs),0,2400.0,Visa,DELIVERED,orders_2026_01.csv,371,invalid or missing quantity,ORD-10320,False
+ORD 10152,2026-01-15,Mina Saeed,01081804602,mina.saeed49@outlook.com,Giza,LED Desk Lamp,1,,Card,Completed,orders_2026_01.csv,377,invalid or missing unit_price,ORD-10152,False
+ORD-10313,2026-01-07,youssef ramadan,+20 154-876-2794,youssef.ramadan66@outlook.com,Giza,Memory Foam Pillow,0,650.0,Wallet,Completed,orders_2026_01.csv,447,invalid or missing quantity,ORD-10313,False
+ord10681,2026-01-19,Dina Kamal,01599765071,dina.kamal57@yahoo.com,ALEXANDRIA,Non-stick Frying Pan 28cm,1,,COD,Completed,orders_2026_01.csv,499,invalid or missing unit_price,ORD-10681,False
+10617,2026-01-24,ibrahim shehata,012 4951 2272, IBRAHIM.SHEHATA22@OUTLOOK.COM,tanta,LED Desk Lamp,-1,540.0,Vodafone Cash,DELIVERED,orders_2026_01.csv,510,invalid or missing quantity,ORD-10617,False
+ORD-10684,2026-01-12,Nada Shehata,1155541117,nada.shehata44@yahoo.com,Mansoura,Shower Curtain,1,,cash,Delivered,orders_2026_01.csv,530,invalid or missing unit_price,ORD-10684,False
+ORD-10515,2026-01-31,  Sara   Fathy ,+201158450095,sara.fathy23@outlook.com,Tanta,Ceramic Dinner Set (24 pcs),1,,Cash on Delivery,Completed,orders_2026_01.csv,535,invalid or missing unit_price,ORD-10515,True
+ORD-10209,2026-01-09,Fatma Mansour,1024347841,fatma.mansour19@outlook.com,El Mansoura,Ceramic Dinner Set (24 pcs),0,2400.0,Cash on Delivery,delivered,orders_2026_01.csv,545,invalid or missing quantity,ORD-10209,False
+10141,2026-01-31,Ahmed Ezzat,01203886030,ahmed.ezzat24@yahoo.com,ALEXANDRIA,Cotton Bed Sheet Set,0,1450.0,Visa,Returned,orders_2026_01.csv,567,invalid or missing quantity,ORD-10141,True
+ord10673,2026-01-06,Amro Abdelrahman,00201211432787, AMR.ABDELRAHMAN32@GMAIL.COM,TANTA,Ceramic Dinner Set (24 pcs),1,,cash,DELIVERED,orders_2026_01.csv,613,invalid or missing unit_price,ORD-10673,False
+ord10605,2026-01-30,Tarek Soliman,+20 159-371-7532,tarek.soliman63@gmail.com,Cairo City,LED Desk Lamp,0,540.0,Credit Card,delivered,orders_2026_01.csv,642,invalid or missing quantity,ORD-10605,True
+ord10411,2026-01-15,rana abdelrahman,01104237322,rana.abdelrahman74@outlook.com, CAIRO ,Electric Kettle 1.7L,1,,Cash on Delivery,cancelled,orders_2026_01.csv,695,invalid or missing unit_price,ORD-10411,False
+ord10411,2026-01-15,rana abdelrahman,01104237322,rana.abdelrahman74@outlook.com, CAIRO ,Electric Kettle 1.7L,1,,Cash on Delivery,cancelled,orders_2026_01.csv,705,invalid or missing unit_price,ORD-10411,False
+10950,2026-02-28,Hana Nasr,+201525140847,hana.nasr86@outlook.com,Al Qahirah,Ceramic Dinner Set (24 pcs),0,2300.0,COD,delivered,orders_2026_02.csv,37,invalid or missing quantity,ORD-10950,True
+ORD 11248,2026-02-06,Amr Soliman,00201121738837,amr.soliman42@outlook.com,El Giza,Bath Towel Pack (4),0,780.0,cash,Delivered,orders_2026_02.csv,44,invalid or missing quantity,ORD-11248,False
+ORD-10755,2026-02-22,Sherif Fawzy,01206530784,,El Mansoura,Electric Kettle 1.7L,0,1150.0,Cash on Delivery,Delivered,orders_2026_02.csv,64,invalid or missing quantity,ORD-10755,False
+ORD 10466,2026-01-30,Nour Saeed,+201051343880,nour.saeed5@yahoo.com,Giza,Shower Curtain,3,,Card,delivered,orders_2026_02.csv,77,invalid or missing unit_price,ORD-10466,True
+10973,2026-02-15,Aya Fayez,1275227370,aya.fayez93@yahoo.com,Alex,Storage Basket Set,-3,315.0,Visa,Delivered,orders_2026_02.csv,192,invalid or missing quantity,ORD-10973,False
+ORD 10987,2026-02-01,Mohammed Ibrahim,011 2232 1899,mohamed.ibrahim53@yahoo.com,El Mansoura,LED Desk Lamp,-2,540.0,Card,Delivered,orders_2026_02.csv,201,invalid or missing quantity,ORD-10987,False
+ORD 10757,2026-02-07,AYA SHEHATA,015 7353 4128,aya.shehata58@gmail.com,Mansoura,Cotton Bed Sheet Set,1,,Visa,delivered,orders_2026_02.csv,225,invalid or missing unit_price,ORD-10757,False
+ord10791,2026-02-09,YOUSEF MAHMOUD,01580092958,youssef.mahmoud69@gmail.com,Tanta,Cotton Bed Sheet Set,2,,Visa,pending,orders_2026_02.csv,349,invalid or missing unit_price,ORD-10791,False
+ORD 11156,2026-02-18,MARINA EZZAT,+20 113-177-4346,marina.ezzat21@gmail.com,Mansoura,Non-stick Frying Pan 28cm,1,,mobile wallet,DELIVERED,orders_2026_02.csv,360,invalid or missing unit_price,ORD-11156,False
+ord11308,2026-02-17,yasmin samir,+201080115852,yasmin.samir61@yahoo.com,TANTA,Ceramic Dinner Set (24 pcs),-1,2300.0,Visa,cancelled,orders_2026_02.csv,366,invalid or missing quantity,ORD-11308,False
+ORD-10381,2026-01-26,laila naguib,00201131163805,laila.naguib60@outlook.com,Alex,Non-stick Frying Pan 28cm,0,890.0,Cash on Delivery,DELIVERED,orders_2026_02.csv,483,invalid or missing quantity,ORD-10381,True
+ORD-10689,2026-02-14,Khaled Fayez,011 3663 2757,khaled.fayez56@yahoo.com, CAIRO ,Electric Kettle 1.7L,1,,COD,Delivered,orders_2026_02.csv,550,invalid or missing unit_price,ORD-10689,False
+ORD 11024,2026-02-13,Marina Kamal,+20 101-682-1075, MARINA.KAMAL41@OUTLOOK.COM,cairo,Memory Foam Pillow,1,,Visa,Pending,orders_2026_02.csv,584,invalid or missing unit_price,ORD-11024,False
+ord11192,2026-02-24,  Kirollos   Fayez ,+201549304469, KIROLLOS.FAYEZ67@YAHOO.COM, CAIRO ,Ceramic Dinner Set (24 pcs),0,2300.0,Card,DELIVERED,orders_2026_02.csv,599,invalid or missing quantity,ORD-11192,False
+ord10909,2026-02-26,Yasmin Gamal,011 1619 4158,yasmin.gamal93@gmail.com,Alexandria,Electric Kettle 1.7L,1,,Cash on Delivery,pending,orders_2026_02.csv,687,invalid or missing unit_price,ORD-10909,True
+ORD 11020,2026-02-10,Yasmin Shehata,010 0816 3847,yasmin.shehata62@yahoo.com,mansoura,LED Desk Lamp,0,540.0,Cash on Delivery,delivered,orders_2026_02.csv,717,invalid or missing quantity,ORD-11020,False
+10818,2026-02-24,FATMA SOLIMAN,+201586075494, FATMA.SOLIMAN70@OUTLOOK.COM,mansoura,Memory Foam Pillow,-1,650.0,cash,cancelled,orders_2026_02.csv,781,invalid or missing quantity,ORD-10818,False
+ORD-10376,2026-01-30,  Fatma   Mansour ,+20 102-434-7841,fatma.mansour19@outlook.com,El Mansoura,LED Desk Lamp,1,,COD,Completed,orders_2026_02.csv,816,invalid or missing unit_price,ORD-10376,True
+ORD-11919,20/03/2026,Sara Mansour,00201278458327,sara.mansour49@outlook.com,alexandria,Ceramic Dinner Set (24 pcs),-1,"2,300.00 EGP",Card,Cancelled,orders_2026_03.xlsx,127,invalid or missing quantity,ORD-11919,False
+ORD 11427,06/03/2026,NOUR SAEED,010 5134 3880,nour.saeed5.yahoo.com,giza ,Cotton Bed Sheet Set,-1,"1,550.00 EGP",Cash on Delivery,DELIVERED,orders_2026_03.xlsx,158,invalid or missing quantity,ORD-11427,False
+11969,14/03/2026,  Kirollos   Ezzat ,00201557405358,kirollos.ezzat66@yahoo.com,cairo,Storage Basket Set,0,465.00 EGP,COD,Returned,orders_2026_03.xlsx,168,invalid or missing quantity,ORD-11969,False
+ord11553,12/03/2026,Tarek Gamal,1014366125,tarek.gamal96@outlook.com,GIZA,Memory Foam Pillow,-2,,cash,Canceled,orders_2026_03.xlsx,211,invalid or missing quantity; invalid or missing unit_price,ORD-11553,False
+ord10922,27/02/2026,  Mustafa   Soliman ,1255767881,,Giza,Cotton Bed Sheet Set,0,"1,450.00 EGP",Card,Completed,orders_2026_03.xlsx,215,invalid or missing quantity,ORD-10922,True
+11014,27/02/2026,Nour Ezzat,1562394301,nour.ezzat56@outlook.com,TANTA,Wall Clock,-1,360.00 EGP,cash,Delivered,orders_2026_03.xlsx,261,invalid or missing quantity,ORD-11014,True
+ORD-11761,23/03/2026,Rana Farouk,015 9719 7979,rana.farouk22@yahoo.com,El Giza,LED Desk Lamp,0,540.00 EGP,Cash on Delivery,DELIVERED,orders_2026_03.xlsx,293,invalid or missing quantity,ORD-11761,False
+11604,26/03/2026,Rana Shehata,01060362235,rana.shehata74@outlook.com,Giza,Bath Towel Pack (4),0,880.00 EGP,Cash on Delivery,DELIVERED,orders_2026_03.xlsx,295,invalid or missing quantity,ORD-11604,True
+ORD-11399,28/03/2026,HABIBA EZZAT,00201522366682,habiba.ezzat89@yahoo.com,ALEXANDRIA,Electric Kettle 1.7L,1,,Card,delivered,orders_2026_03.xlsx,343,invalid or missing unit_price,ORD-11399,True
+11702,22/03/2026,Nada Abdelrahman,01171291936,nada.abdelrahman53@outlook.com,GIZA,Wall Clock,-1,510.00 EGP,COD,Delivered,orders_2026_03.xlsx,382,invalid or missing quantity,ORD-11702,False
+ord11388,29/03/2026,Nada Samir,+201247219209,nada.samir90@yahoo.com,ALEXANDRIA,Bath Towel Pack (4),-1,780.00 EGP,Credit Card,In Progress,orders_2026_03.xlsx,508,invalid or missing quantity,ORD-11388,True
+ORD 11637,27/03/2026,Sara Fathy,+20 115-845-0095, SARA.FATHY23@OUTLOOK.COM,TANTA,Cotton Bed Sheet Set,0,"1,450.00 EGP",cash,Completed,orders_2026_03.xlsx,558,invalid or missing quantity,ORD-11637,True
+ORD-11982,19/03/2026,  Sara   Gamal ,00201062445234,sara.gamal37@outlook.com,tanta,Wall Clock,0,410.00 EGP,Credit Card,Canceled,orders_2026_03.xlsx,566,invalid or missing quantity,ORD-11982,False
+ORD 11545,13/03/2026,  Mariam   Ali ,+20 108-007-0438,mariam.ali56@yahoo.com,ALEXANDRIA,Memory Foam Pillow,1,,Cash on Delivery,delivered,orders_2026_03.xlsx,652,invalid or missing unit_price,ORD-11545,False
+ord11623,24/03/2026,habiba ramadan,+20 128-418-3695,habiba.ramadan41@gmail.com,El Mansoura,Memory Foam Pillow,2,,Credit Card,Delivered,orders_2026_03.xlsx,655,invalid or missing unit_price,ORD-11623,False
+ord11664,19/03/2026,fady adel,+201237393469,,Alex,Shower Curtain,-1,320.00 EGP,Visa,Delivered,orders_2026_03.xlsx,677,invalid or missing quantity,ORD-11664,False
+ORD-11806,07/03/2026,Sherif Saeed,+201021009452,sherif.saeed1@yahoo.com,El Mansoura,Wall Clock,0,410.00 EGP,Vodafone Cash,delivered,orders_2026_03.xlsx,733,invalid or missing quantity,ORD-11806,False
+11932,25/03/2026,Youssef Ramadan,00201548762794,youssef.ramadan66@outlook.com,El Giza,Shower Curtain,-2,320.00 EGP,Card,delivered,orders_2026_03.xlsx,761,invalid or missing quantity,ORD-11932,False
+ORD 12019,29/03/2026,reem fayez,01138553376,reem.fayez42@yahoo.com, CAIRO ,Shower Curtain,0,270.00 EGP,cash,Completed,orders_2026_03.xlsx,774,invalid or missing quantity,ORD-12019,True
+ORD 11673,14/03/2026,Hana Soliman,015 5624 0084,hana.soliman69.outlook.com,tanta,Ceramic Dinner Set (24 pcs),0,"2,400.00 EGP",Visa,pending,orders_2026_03.xlsx,776,invalid or missing quantity,ORD-11673,False
+12516,13/04/2026,  Aya   Shehata ,1573534128,aya.shehata58@gmail.com,El Mansoura,Storage Basket Set,-1,365.00 EGP,Cash on Delivery,cancelled,orders_2026_04.xlsx,44,invalid or missing quantity,ORD-12516,False
+ord12501,01/04/2026,Reem Nasr,+20 155-463-4663,reem.nasr25@gmail.com, CAIRO ,Cotton Bed Sheet Set,-2,"1,450.00 EGP",cash,Delivered,orders_2026_04.xlsx,77,invalid or missing quantity,ORD-12501,False
+ORD 12608,09/04/2026,Moustafa Zaki,011 7182 6922,mostafa.zaki95@outlook.com, CAIRO ,LED Desk Lamp,-1,540.00 EGP,Wallet,pending,orders_2026_04.xlsx,114,invalid or missing quantity,ORD-12608,False
+12088,25/04/2026,Habiba Kamal,01562336371,,tanta,LED Desk Lamp,-2,490.00 EGP,Credit Card,In Progress,orders_2026_04.xlsx,208,invalid or missing quantity,ORD-12088,False
+ORD 12274,19/04/2026,Amr Hassan,01032862209,amr.hassan61@outlook.com,Al Qahirah,Shower Curtain,-2,420.00 EGP,Vodafone Cash,DELIVERED,orders_2026_04.xlsx,242,invalid or missing quantity,ORD-12274,False
+ORD-11897,27/03/2026,Aya Zaki,1572613940,aya.zaki5@outlook.com, CAIRO ,Storage Basket Set,-1,315.00 EGP,cash,Completed,orders_2026_04.xlsx,268,invalid or missing quantity,ORD-11897,True
+ORD-11394,28/03/2026,Fatma Hanna,01219363237, FATMA.HANNA26@OUTLOOK.COM,tanta,Electric Kettle 1.7L,1,,cash,Refunded,orders_2026_04.xlsx,315,invalid or missing unit_price,ORD-11394,True
+ord12547,26/04/2026,nada abdelrahman,01171291936,nada.abdelrahman53@outlook.com,Giza,Non-stick Frying Pan 28cm,-2,840.00 EGP,Visa,Completed,orders_2026_04.xlsx,351,invalid or missing quantity,ORD-12547,True
+ORD 12327,13/04/2026,NADA FAROUK,00201220868105,nada.farouk28@yahoo.com,Al Qahirah,Cotton Bed Sheet Set,0,"1,550.00 EGP",cash,Delivered,orders_2026_04.xlsx,367,invalid or missing quantity,ORD-12327,False
+ORD 12351,30/04/2026,  Sherif   Gamal ,+20 152-875-4377,sherif.gamal70@gmail.com,TANTA,Shower Curtain,2,,cash,Delivered,orders_2026_04.xlsx,383,invalid or missing unit_price,ORD-12351,True
+ORD-12065,04/04/2026,SARA SOLIMAN,00201567498993,sara.soliman68@yahoo.com,El Giza,Cotton Bed Sheet Set,2,,COD,DELIVERED,orders_2026_04.xlsx,400,invalid or missing unit_price,ORD-12065,False
+12201,04/04/2026,rana hanna,010 3513 5070,,mansoura,Shower Curtain,1,,COD,DELIVERED,orders_2026_04.xlsx,421,invalid or missing unit_price,ORD-12201,False
+11920,27/03/2026,Omar Soliman,00201247197152,omar.soliman14@outlook.com,tanta,Non-stick Frying Pan 28cm,0,890.00 EGP,Vodafone Cash,Refunded,orders_2026_04.xlsx,427,invalid or missing quantity,ORD-11920,True
+ord12223,23/04/2026,AYA EZZAT,1567292380,aya.ezzat20.gmail.com,Mansoura,Cotton Bed Sheet Set,-4,,COD,Cancelled,orders_2026_04.xlsx,461,invalid or missing quantity; invalid or missing unit_price,ORD-12223,False
+12239,25/04/2026,Ibrahim Shehata,+20 124-951-2272,,Tanta,Ceramic Dinner Set (24 pcs),-2,"2,300.00 EGP",mobile wallet,DELIVERED,orders_2026_04.xlsx,480,invalid or missing quantity,ORD-12239,False
+ord11687,27/03/2026,Amr Abdelrahman,012 1143 2787,amr.abdelrahman32@gmail.com,TANTA,Cotton Bed Sheet Set,0,"1,450.00 EGP",COD,Delivered,orders_2026_04.xlsx,499,invalid or missing quantity,ORD-11687,True
+ORD-12469,15/04/2026,mahmoud samir,+20 157-197-1316,mahmoud.samir16@yahoo.com, CAIRO ,Bath Towel Pack (4),-3,780.00 EGP,mobile wallet,DELIVERED,orders_2026_04.xlsx,566,invalid or missing quantity,ORD-12469,False
+ORD 12479,22/04/2026,  Ahmed   Mansour ,1290436763,ahmed.mansour15@yahoo.com,Tanta,LED Desk Lamp,2,,Wallet,delivered,orders_2026_04.xlsx,616,invalid or missing unit_price,ORD-12479,False
+ORD 11853,30/03/2026,Fatma Mansour,+20 102-434-7841,fatma.mansour19.outlook.com,Mansoura,Bath Towel Pack (4),1,,cash,Delivered,orders_2026_04.xlsx,671,invalid or missing unit_price,ORD-11853,True
+12458,25/04/2026,MINA IBRAHIM,00201546381032,mina.ibrahim76@yahoo.com,mansoura,Electric Kettle 1.7L,-4,"1,150.00 EGP",Visa,cancelled,orders_2026_04.xlsx,673,invalid or missing quantity,ORD-12458,False
+ORD 12057,04/04/2026,  Mahmoud   Soliman ,01046488123,mahmoud.soliman57@outlook.com,ALEXANDRIA,Shower Curtain,2,,Cash on Delivery,Completed,orders_2026_04.xlsx,701,invalid or missing unit_price,ORD-12057,False
+ORD 12104,01/04/2026,mahmoud hassan,+20 121-755-8317,,El Giza,Storage Basket Set,3,,cash,DELIVERED,orders_2026_04.xlsx,713,invalid or missing unit_price,ORD-12104,False
+12644,19/04/2026,Mostafa Soliman,00201255767881,mostafa.soliman23@gmail.com,Giza,Cotton Bed Sheet Set,0,"1,550.00 EGP",Cash on Delivery,In Progress,orders_2026_04.xlsx,762,invalid or missing quantity,ORD-12644,False
+ORD-12971,"May 09, 2026",Ahmed Abdelrahman,01504670638, AHMED.ABDELRAHMAN17@GMAIL.COM,Giza,Non-stick Frying Pan 28cm,1,,mobile wallet,DELIVERED,orders_2026_05.csv,83,invalid or missing unit_price,ORD-12971,False
+ORD 12183,"Apr 29, 2026",Omar Hassan,01140455821,,ALEXANDRIA,Non-stick Frying Pan 28cm,0,890.0,Visa,Delivered,orders_2026_05.csv,119,invalid or missing quantity,ORD-12183,True
+ORD 13076,"May 14, 2026",Marina Soliman,01054362516,marina.soliman3@yahoo.com,Giza,LED Desk Lamp,1,,Vodafone Cash,delivered,orders_2026_05.csv,169,invalid or missing unit_price,ORD-13076,False
+ord12967,"May 15, 2026",kirollos kamal,+20 110-487-7451,kirollos.kamal51@yahoo.com,El Giza,Non-stick Frying Pan 28cm,1,,cash,In Progress,orders_2026_05.csv,210,invalid or missing unit_price,ORD-12967,False
+ord12915,"May 03, 2026",Laila Ibrahim,00201014716857,,giza ,Shower Curtain,0,EGP 420,cash,Pending,orders_2026_05.csv,219,invalid or missing quantity,ORD-12915,False
+ORD 13097,"May 13, 2026",  Rana   Adel ,00201110200074,rana.adel76@outlook.com,giza ,Memory Foam Pillow,1,,Visa,returned,orders_2026_05.csv,249,invalid or missing unit_price,ORD-13097,False
+ORD 12805,"May 28, 2026",Youssef Nasr,01238250360, YOUSSEF.NASR21@YAHOO.COM,tanta,Non-stick Frying Pan 28cm,-1,840.0,COD,delivered,orders_2026_05.csv,253,invalid or missing quantity,ORD-12805,True
+13068,"May 25, 2026",  Marina   Ibrahim ,01115228493,marina.ibrahim60@gmail.com,GIZA,Bath Towel Pack (4),1,,COD,DELIVERED,orders_2026_05.csv,257,invalid or missing unit_price,ORD-13068,False
+ORD 13120,"May 13, 2026",SHERIF GAMAL,+20 151-039-9639,sherif.gamal92@yahoo.com,Giza,Non-stick Frying Pan 28cm,1,,Cash on Delivery,DELIVERED,orders_2026_05.csv,281,invalid or missing unit_price,ORD-13120,False
+ord13065,"May 04, 2026",Sara Mansour,01278458327,sara.mansour49.outlook.com,alexandria,Wall Clock,-1,EGP 410,Wallet,delivered,orders_2026_05.csv,299,invalid or missing quantity,ORD-13065,False
+ord13159,"May 13, 2026",Marina Ibrahim,01115228493,marina.ibrahim60@gmail.com,giza ,Bath Towel Pack (4),-1,EGP 780,cash,cancelled,orders_2026_05.csv,331,invalid or missing quantity,ORD-13159,False
+12906,"May 03, 2026",Yasmine Ramadan,+20 126-351-9947,yasmin.ramadan71@outlook.com,alexandria,LED Desk Lamp,0,640.0,Cash on Delivery,Delivered,orders_2026_05.csv,367,invalid or missing quantity,ORD-12906,False
+ORD 12815,"May 24, 2026",hassan samir,00201125708194,hassan.samir28@outlook.com,El Mansoura,Wall Clock,0,410.0,Visa,delivered,orders_2026_05.csv,377,invalid or missing quantity,ORD-12815,False
+13095,"May 06, 2026",yasmine fathy,+201085726382,yasmin.fathy38@yahoo.com,Tanta,Electric Kettle 1.7L,-1,1150.0,cash,Cancelled,orders_2026_05.csv,407,invalid or missing quantity,ORD-13095,False
+ORD 12995,"May 29, 2026",Fady Fawzy,01518814949,fady.fawzy55@gmail.com,Alex,Wall Clock,-1,410.0,COD,returned,orders_2026_05.csv,409,invalid or missing quantity,ORD-12995,True
+ORD-12812,"May 30, 2026",fatma mansour,+201024347841,fatma.mansour19@outlook.com,Mansoura,Wall Clock,0,EGP 410,COD,Delivered,orders_2026_05.csv,480,invalid or missing quantity,ORD-12812,True
+12901,"May 05, 2026",Hana Girgis,00201210584397,hana.girgis33@gmail.com,Tanta,Wall Clock,-4,EGP 410,mobile wallet,Delivered,orders_2026_05.csv,496,invalid or missing quantity,ORD-12901,False
+12124,"Apr 29, 2026",  Dina   Kamal ,+20 108-915-2472,dina.kamal43@outlook.com,alexandria,LED Desk Lamp,-1,540.0,COD,Delivered,orders_2026_05.csv,510,invalid or missing quantity,ORD-12124,True
+ord12744,"May 31, 2026",AYA FAYEZ,+201015014631,aya.fayez47@yahoo.com,GIZA,Bath Towel Pack (4),1,,cash,Completed,orders_2026_05.csv,531,invalid or missing unit_price,ORD-12744,True
+ORD-13133,"May 23, 2026",Nour Ali,+20 107-427-0583,nour.ali38.outlook.com,Giza,Bath Towel Pack (4),-3,780.0,Cash on Delivery,Completed,orders_2026_05.csv,578,invalid or missing quantity,ORD-13133,False
+13251,"May 24, 2026",Karim Ali,+20 159-773-9173,karim.ali44@gmail.com,El Giza,Storage Basket Set,4 pcs,,Visa,Delivered,orders_2026_05.csv,651,invalid or missing unit_price,ORD-13251,False
+13142,"May 22, 2026",Laila Abdelrahman,00201572287061,laila.abdelrahman62@yahoo.com,alexandria,Wall Clock,-4,EGP 410,cash,Completed,orders_2026_05.csv,652,invalid or missing quantity,ORD-13142,False
+ORD-12262,"Apr 27, 2026",NOUR SOLIMAN,00201196316277,nour.soliman44@gmail.com,Alex,Electric Kettle 1.7L,1,,COD,Completed,orders_2026_05.csv,671,invalid or missing unit_price,ORD-12262,True
+ord13204,"May 18, 2026",Kirollos Abdelrahman,015 7148 1992,kirollos.abdelrahman91@gmail.com,tanta,Cotton Bed Sheet Set,0,1450.0,COD,Completed,orders_2026_05.csv,711,invalid or missing quantity,ORD-13204,False
+ord12973,"May 14, 2026",Yousef Zaki,01004164775,youssef.zaki32@gmail.com,Cairo,Electric Kettle 1.7L,0,1100.0,mobile wallet,delivered,orders_2026_05.csv,714,invalid or missing quantity,ORD-12973,False
+ORD 12842,"May 24, 2026",Dina Abdelrahman,00201509010480,dina.abdelrahman12@gmail.com, CAIRO ,Bath Towel Pack (4),0,780.0,Wallet,delivered,orders_2026_05.csv,730,invalid or missing quantity,ORD-12842,False
+ORD-13928,"Jun 19, 2026",KARIM FAYEZ,1509863756,karim.fayez11@yahoo.com,Tanta,Wall Clock,2,,Card,Pending,orders_2026_06.csv,14,invalid or missing unit_price,ORD-13928,False
+ORD-13568,"Jun 26, 2026",TAREK GAMAL,1014366125,tarek.gamal96.outlook.com,GIZA,Electric Kettle 1.7L,0,"EGP 1,250",cash,delivered,orders_2026_06.csv,17,invalid or missing quantity,ORD-13568,False
+ord13829,"Jun 20, 2026",Laila Ibrahim,+201546702542,laila.ibrahim53@yahoo.com,Alexandria,Memory Foam Pillow,-2,650.0,Vodafone Cash,DELIVERED,orders_2026_06.csv,97,invalid or missing quantity,ORD-13829,False
+ord13803,"Jun 04, 2026",Yasmin Fathy,+201085726382,yasmin.fathy38@yahoo.com,Tanta,LED Desk Lamp,2,,COD,DELIVERED,orders_2026_06.csv,123,invalid or missing unit_price,ORD-13803,False
+ORD-13823,"Jun 24, 2026",Amr Ibrahim,1136912022,amr.ibrahim80@outlook.com,Tanta,Non-stick Frying Pan 28cm,0,890.0,Credit Card,Delivered,orders_2026_06.csv,198,invalid or missing quantity,ORD-13823,False
+ORD-13953,"Jun 18, 2026",Nour Soliman,01196316277,nour.soliman44@gmail.com,ALEXANDRIA,Memory Foam Pillow,0,650.0,Card,delivered,orders_2026_06.csv,221,invalid or missing quantity,ORD-13953,False
+ORD 13638,"Jun 28, 2026",Nada Samir,+201247219209,nada.samir90@yahoo.com,ALEXANDRIA,LED Desk Lamp,-3,540.0,cash,DELIVERED,orders_2026_06.csv,277,invalid or missing quantity,ORD-13638,False
+ORD-13064,"May 26, 2026",Yasmin Ezzat,01089639081,yasmin.ezzat71@yahoo.com,Cairo,Bath Towel Pack (4),1,,Card,delivered,orders_2026_06.csv,279,invalid or missing unit_price,ORD-13064,True
+ord13440,"Jun 18, 2026",Nada Fawzy,+201195690391,nada.fawzy40@yahoo.com,ALEXANDRIA,LED Desk Lamp,3,,Wallet,delivered,orders_2026_06.csv,297,invalid or missing unit_price,ORD-13440,False
+ord13621,"Jun 07, 2026",Omar Ramadan,00201062464258,omar.ramadan40@gmail.com,Mansoura,Bath Towel Pack (4),-2,730.0,Credit Card,Pending,orders_2026_06.csv,349,invalid or missing quantity,ORD-13621,False
+ord12830,"May 28, 2026",Amr Soliman,+201121738837,amr.soliman42@outlook.com,El Giza,Storage Basket Set,0,365.0,COD,Delivered,orders_2026_06.csv,401,invalid or missing quantity,ORD-12830,True
+ORD-13823,"Jun 24, 2026",Amr Ibrahim,1136912022,amr.ibrahim80@outlook.com,Tanta,Non-stick Frying Pan 28cm,0,890.0,Credit Card,Delivered,orders_2026_06.csv,464,invalid or missing quantity,ORD-13823,False
+ORD 13628,"Jun 03, 2026",AYA ADEL,+201274411983,aya.adel17@gmail.com,mansoura,Ceramic Dinner Set (24 pcs),0,2400.0,Visa,delivered,orders_2026_06.csv,474,invalid or missing quantity,ORD-13628,False
+ORD 13294,"Jun 22, 2026",Nour Saeed,1051343880,nour.saeed5.yahoo.com,Giza,Ceramic Dinner Set (24 pcs),0,2300.0,mobile wallet,Completed,orders_2026_06.csv,486,invalid or missing quantity,ORD-13294,False
+ORD 13892,"Jun 01, 2026",MAHMOUD SOLIMAN,+201046488123,mahmoud.soliman57@outlook.com,ALEXANDRIA,Memory Foam Pillow,-1,650.0,COD,DELIVERED,orders_2026_06.csv,496,invalid or missing quantity,ORD-13892,False
+ord13652,"Jun 05, 2026",aya ibrahim,01061510041,aya.ibrahim80@outlook.com,Cairo City,Wall Clock,-1,EGP 510,mobile wallet,Completed,orders_2026_06.csv,506,invalid or missing quantity,ORD-13652,False
+13719,"Jun 26, 2026",MAHMOUD SAMIR,015 7197 1316, MAHMOUD.SAMIR16@YAHOO.COM,Cairo City,Non-stick Frying Pan 28cm,-1,840.0,cash,DELIVERED,orders_2026_06.csv,565,invalid or missing quantity,ORD-13719,False
+ORD-12961,"May 31, 2026",Aya Ezzat,011 8692 6431,aya.ezzat9@outlook.com,Mansoura,Electric Kettle 1.7L,0,"EGP 1,150",Cash on Delivery,Delivered,orders_2026_06.csv,720,invalid or missing quantity,ORD-12961,True
+13477,"Jun 08, 2026",  Nada   Mansour ,015 5517 7213,nada.mansour60@outlook.com,Cairo,Non-stick Frying Pan 28cm,-1,890.0,Credit Card,Delivered,orders_2026_06.csv,758,invalid or missing quantity,ORD-13477,False

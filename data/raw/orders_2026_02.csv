@@ -1,0 +1,848 @@
+Order ID,Order Date,Customer Name,Phone,Email,City,Product,Qty,Unit Price (EGP),Payment,Status
+ORD-10863,2026-02-11,Youssef Adel,+20 150-994-3140,youssef.adel74@outlook.com,Cairo,LED Desk Lamp,2,640.0,Vodafone Cash,delivered
+ORD-10936,2026-02-26,Fady Fawzy,00201518814949, FADY.FAWZY55@GMAIL.COM,alexandria,Non-stick Frying Pan 28cm,1,890.0,Vodafone Cash,Delivered
+ord10745,2026-02-27,Habiba Ali,01282523968,habiba.ali56@yahoo.com,Cairo City,Memory Foam Pillow,1,650.0,Vodafone Cash,DELIVERED
+ord10845,2026-02-06,Ibrahim Kamal,015 9876 2406,ibrahim.kamal94@gmail.com,El Giza,Memory Foam Pillow,1,650.0,cash,pending
+ORD 10974,2026-02-02,Reem Soliman,+20 101-442-8014,reem.soliman56@gmail.com,ALEXANDRIA,Ceramic Dinner Set (24 pcs),1,2300.0,mobile wallet,DELIVERED
+ORD-10751,2026-02-09,  Yasmin   Nasr ,+20 123-878-9478,yasmin.nasr91@gmail.com,Mansoura,LED Desk Lamp,1,640.0,Wallet,Canceled
+ORD 10111,2026-01-29,Khaled Zaki,01107045237,khaled.zaki13@yahoo.com,Alexandria,Ceramic Dinner Set (24 pcs),1 pcs,2300.0,Cash on Delivery,DELIVERED
+11087,2026-02-21,Habiba Gamal,1185585469,habiba.gamal36@outlook.com,mansoura,Non-stick Frying Pan 28cm,1,890.0,Cash on Delivery,cancelled
+ORD-10888,2026-02-09,AYA GAMAL,+201189889098,aya.gamal92@yahoo.com,El Giza,Ceramic Dinner Set (24 pcs),1,2300.0,Cash on Delivery,DELIVERED
+10750,2026-02-01,Fady Hassan,+20 154-210-3092,fady.hassan54@gmail.com,Mansoura,Ceramic Dinner Set (24 pcs),2,2300.0,cash,Delivered
+ORD 10866,2026-02-19,HASSAN SAEED,1214508768,hassan.saeed75@gmail.com,Alexandria,Wall Clock,2,410.0,cash,delivered
+10788,2026-02-23,Ibrahim Abdelrahman,015 3009 7636,ibrahim.abdelrahman14@yahoo.com,TANTA,Bath Towel Pack (4),2,780.0,Visa,Completed
+11072,2026-02-15,Mostafa Zaki,00201171826922,mostafa.zaki95@outlook.com, CAIRO ,Electric Kettle 1.7L,1,1150.0,cash,Completed
+ORD 11333,2026-02-04,Aya Adel,01274411983,aya.adel17@gmail.com,mansoura,Shower Curtain,1,320.0,Visa,Delivered
+ord11283,2026-02-13,  Laila   Abdelrahman ,N/A, LAILA.ABDELRAHMAN28@GMAIL.COM,Tanta,Bath Towel Pack (4),1,780.0,cash,delivered
+ORD 10040,2026-01-26,AHMED ADEL,+20 101-126-7237,ahmed.adel83@yahoo.com,El Giza,Shower Curtain,1,270.0,cash,DELIVERED
+ORD-11261,2026-02-26,HABIBA GAMAL,1185585469,habiba.gamal36@outlook.com,Mansoura,LED Desk Lamp,1,490.0,Card,Returned
+ord11302,2026-02-02,khaled zaki,00201107045237,khaled.zaki13@yahoo.com,Alexandria,Memory Foam Pillow,1,650.0,COD,DELIVERED
+ord11208,2026-02-07,Khaled Nasr,011 6418 0488,,tanta,Non-stick Frying Pan 28cm,2,890.0,cash,pending
+ORD 11135,2026-02-05,SARA IBRAHIM,01277277086, SARA.IBRAHIM55@OUTLOOK.COM,El Mansoura,Non-stick Frying Pan 28cm,1,890.0,COD,Completed
+ord10007,2026-01-30,  Fady   Fawzy ,1518814949,fady.fawzy55@gmail.com,ALEXANDRIA,Cotton Bed Sheet Set,4,1450.0,Cash on Delivery,DELIVERED
+11063,2026-02-27,Nada Samir,00201247219209,nada.samir90@yahoo.com,ALEXANDRIA,Electric Kettle 1.7L,1,1150.0,COD,Completed
+ORD-10814,2026-02-03,Laila Abdelrahman,+20 157-228-7061, LAILA.ABDELRAHMAN62@YAHOO.COM,Alex,Wall Clock,1,360.0,Cash on Delivery,returned
+ORD-10176,2026-01-31,  Mohammed   Ibrahim ,+20 112-232-1899,mohamed.ibrahim53.yahoo.com,Mansoura,Bath Towel Pack (4),1,780.0,COD,Completed
+ORD-10172,2026-01-31,AMR NASR,1163560289,amr.nasr86.gmail.com,TANTA,Storage Basket Set,2,365.0,cash,delivered
+ord10151,2026-01-31,Sara Fathy,+201158450095,sara.fathy23@outlook.com,Tanta,Memory Foam Pillow,1,750.0,Cash on Delivery,Completed
+11146,2026-02-07,Omar Hassan,00201140455821,omar.hassan28@gmail.com,ALEXANDRIA,Ceramic Dinner Set (24 pcs),1 pcs,2300.0,Visa,Refunded
+10070,2026-01-26,Karim Fayez,015 0986 3756,karim.fayez11.yahoo.com,TANTA,Shower Curtain,1,420.0,Cash on Delivery,Completed
+10735,2026-02-22,TAREK IBRAHIM,+20 152-317-3544,tarek.ibrahim92@yahoo.com,Al Qahirah,LED Desk Lamp,2,640.0,Credit Card,delivered
+11304,2026-02-21,SARA IBRAHIM,01135507920,sara.ibrahim81@outlook.com,El Giza,Cotton Bed Sheet Set,4,1450.0,mobile wallet,DELIVERED
+ORD-11123,2026-02-12,Marina Soliman,1054362516, MARINA.SOLIMAN3@YAHOO.COM,GIZA,Electric Kettle 1.7L,3,1250.0,COD,cancelled
+10052,2026-01-26,  Rana   Shehata ,+20 106-036-2235,rana.shehata74@outlook.com,giza ,Electric Kettle 1.7L,1,1150.0,cash,Completed
+10756,2026-02-26,Ahmad Ali,012 0753 2195,ahmed.ali38@yahoo.com,ALEXANDRIA,Non-stick Frying Pan 28cm,1,990.0,COD,Pending
+ORD 11158,2026-02-02,Rana Abdelrahman,+201104237322,rana.abdelrahman74@outlook.com,Al Qahirah,Bath Towel Pack (4),2,780.0,Vodafone Cash,Delivered
+ord10721,2026-02-22,Hassan Ramadan,+201017690330,hassan.ramadan2@yahoo.com,Giza,LED Desk Lamp,1,540.0,cash,delivered
+10950,2026-02-28,Hana Nasr,+201525140847,hana.nasr86@outlook.com,Al Qahirah,Ceramic Dinner Set (24 pcs),0,2300.0,COD,delivered
+ORD-11127,2026-02-14,MOSTAFA SAEED,+20 126-030-6604,mostafa.saeed66@gmail.com,mansoura,Memory Foam Pillow,1,650.0,Card,delivered
+10329,2026-01-31,Marina Soliman,+20 105-436-2516, MARINA.SOLIMAN3@YAHOO.COM,Giza,Bath Towel Pack (4),1,780.0,COD,Completed
+ord11082,2026-02-21,Fatma Nasr,+20 122-256-6390,fatma.nasr10@outlook.com,cairo,LED Desk Lamp,1,540.0,Cash on Delivery,DELIVERED
+ORD-10971,2026-02-19,Ibrahim Kamal,+201598762406,ibrahim.kamal94@gmail.com,GIZA,Bath Towel Pack (4),2,880.0,Cash on Delivery,DELIVERED
+ord10515,2026-01-31,sara fathy,00201158450095,sara.fathy23@outlook.com,TANTA,Ceramic Dinner Set (24 pcs),1,2300.0,Cash on Delivery,Completed
+11097,2026-02-11,Fatma Nasr,00201222566390,fatma.nasr10@outlook.com,cairo,Ceramic Dinner Set (24 pcs),1,2400.0,COD,Completed
+ORD 11248,2026-02-06,Amr Soliman,00201121738837,amr.soliman42@outlook.com,El Giza,Bath Towel Pack (4),0,780.0,cash,Delivered
+ord10822,2026-02-15,Youssef Abdelrahman,+201012315507,youssef.abdelrahman96@outlook.com,GIZA,LED Desk Lamp,3,640.0,Cash on Delivery,Delivered
+ORD-10349,2026-01-29,Hana Girgis,+201210584397,hana.girgis33@gmail.com,tanta,Cotton Bed Sheet Set,1,1450.0,Cash on Delivery,Delivered
+10768,2026-02-09,IBRAHIM EZZAT,012 9314 4504, IBRAHIM.EZZAT63@GMAIL.COM,cairo,Non-stick Frying Pan 28cm,1,890.0,Visa,returned
+ORD 11193,2026-02-26,REEM FAWZY,1172286705,reem.fawzy35@outlook.com,ALEXANDRIA,LED Desk Lamp,2,540.0,COD,Completed
+ORD 11028,2026-02-09,Reem Soliman,010 3106 8214,reem.soliman37@outlook.com,Alex,Ceramic Dinner Set (24 pcs),2,2300.0,Card,delivered
+ORD 11159,2026-02-09,MAHMOUD RAMADAN,+20 113-884-0994,mahmoud.ramadan11@gmail.com,cairo,Ceramic Dinner Set (24 pcs),1,2400.0,Credit Card,delivered
+ORD-11155,2026-02-05,  Aya   Mahmoud ,00201569067939, AYA.MAHMOUD1@OUTLOOK.COM,TANTA,Electric Kettle 1.7L,3,1100.0,cash,Completed
+ORD 10787,2026-02-12,Laila Zaki,00201286155337,laila.zaki39@yahoo.com,giza ,Non-stick Frying Pan 28cm,2,890.0,cash,DELIVERED
+ord10966,2026-02-25,tarek ramadan,1086707983,tarek.ramadan86@yahoo.com,tanta,Wall Clock,2,410.0,Cash on Delivery,delivered
+ORD 11069,2026-02-14,yasmin fathy,01085726382,yasmin.fathy38@yahoo.com,Tanta,Bath Towel Pack (4),1,780.0,Cash on Delivery,delivered
+ORD 10833,2026-02-04,khaled hassan,00201213298711,khaled.hassan92@outlook.com,ALEXANDRIA,LED Desk Lamp,2,540.0,COD,DELIVERED
+ORD 10666,2026-01-31,Fady Hassan,00201542103092,fady.hassan54@gmail.com,mansoura,Wall Clock,1,410.0,COD,DELIVERED
+10836,2026-02-27,Sherif Hassan,00201251482483,sherif.hassan31@yahoo.com,ALEXANDRIA,Shower Curtain,2,320.0,Credit Card,Canceled
+ord10926,2026-02-02,  Rana   Nasr ,00201505858241,rana.nasr41@outlook.com,mansoura,Wall Clock,2,410.0,Credit Card,Delivered
+ord11191,2026-02-08,Mariam Shehata,01256775103, MARIAM.SHEHATA90@OUTLOOK.COM,tanta,Memory Foam Pillow,1,650.0,cash,Completed
+ORD 11220,2026-02-28,Mohamed Ibrahim,1122321899,mohamed.ibrahim53@yahoo.com,Mansoura,Shower Curtain,1 pcs,320.0,cash,delivered
+ORD 10969,2026-02-11,NOUR SAMIR,+201213492385, NOUR.SAMIR25@YAHOO.COM,giza ,Bath Towel Pack (4),1,780.0,Card,DELIVERED
+10724,2026-02-04,HABIBA FAROUK,+201106895666,habiba.farouk33@yahoo.com,Al Qahirah,Shower Curtain,2 pcs,320.0,Card,Delivered
+ORD 10704,2026-02-15,MARIAM SHEHATA,1256775103,mariam.shehata90@outlook.com,TANTA,Shower Curtain,1,320.0,COD,In Progress
+ORD-10755,2026-02-22,Sherif Fawzy,01206530784,,El Mansoura,Electric Kettle 1.7L,0,1150.0,Cash on Delivery,Delivered
+ord10456,2026-01-27,Sherif Adel,01277149951, SHERIF.ADEL38@OUTLOOK.COM,alexandria,Shower Curtain,2,420.0,cash,delivered
+ORD-10943,2026-02-09,Khaled Fayez,00201136632757,,cairo,Non-stick Frying Pan 28cm,1,990.0,COD,Completed
+ORD-10663,2026-01-29,rana shehata,01225320492,rana.shehata90@gmail.com,tanta,Wall Clock,1 pcs,410.0,Vodafone Cash,Cancelled
+ORD-11313,2026-02-22,laila abdelrahman,,laila.abdelrahman62@yahoo.com,Alexandria,Storage Basket Set,2 pcs,465.0,Visa,DELIVERED
+10979,2026-02-19,sara fathy,+201158450095,sara.fathy23@outlook.com,Tanta,Electric Kettle 1.7L,1,1150.0,COD,DELIVERED
+ORD-11298,2026-02-28,  Mina   Naguib ,01122978158, MINA.NAGUIB85@OUTLOOK.COM,TANTA,Electric Kettle 1.7L,2,1150.0,Cash on Delivery,Delivered
+10789,2026-02-03,Yousef Hanna,+201167898694,youssef.hanna34@gmail.com,alexandria,Electric Kettle 1.7L,1 pcs,1100.0,cash,Completed
+ORD-10779,2026-02-12,SARA FAROUK,012 5088 5459,sara.farouk36@yahoo.com,Alexandria,Shower Curtain,1,320.0,Wallet,In Progress
+ORD 11151,2026-02-18,dina abdelrahman,00201509010480,dina.abdelrahman12@gmail.com,Cairo,Shower Curtain,1 pcs,320.0,Cash on Delivery,Completed
+10923,2026-02-15,YOUSSEF HANNA,1167898694,youssef.hanna34@gmail.com,alexandria,Storage Basket Set,2,465.0,Wallet,DELIVERED
+10875,2026-02-14,AYA FAYEZ,00201015014631,,El Giza,Storage Basket Set,3,365.0,COD,returned
+ord10942,2026-02-25,mostafa ramadan,01186128115,mostafa.ramadan82@outlook.com,Cairo,Storage Basket Set,1,315.0,COD,DELIVERED
+ORD 10466,2026-01-30,Nour Saeed,+201051343880,nour.saeed5@yahoo.com,Giza,Shower Curtain,3,,Card,delivered
+ord10891,2026-02-19,Amr Abdelrahman,+20 121-143-2787,amr.abdelrahman32@gmail.com,TANTA,Storage Basket Set,1,465.0,Cash on Delivery,delivered
+ORD-10387,2026-01-28,yasmin fayez,011 4937 0777, YASMIN.FAYEZ87@OUTLOOK.COM,Mansoura,Cotton Bed Sheet Set,1,1450.0,Vodafone Cash,delivered
+ORD-10695,2026-02-21,RANA ABDELRAHMAN,1124272734, RANA.ABDELRAHMAN89@OUTLOOK.COM,Giza,Electric Kettle 1.7L,4,1100.0,Visa,DELIVERED
+11071,2026-02-05,sherif adel,1277149951,sherif.adel38@outlook.com,Alex,Memory Foam Pillow,2,750.0,Cash on Delivery,Returned
+ORD 11060,2026-02-10,Sherif Gamal,01528754377,sherif.gamal70@gmail.com,Tanta,Cotton Bed Sheet Set,1,1450.0,Vodafone Cash,Canceled
+10847,2026-02-11,  Aya   Adel ,012 7441 1983,aya.adel17@gmail.com,El Mansoura,Bath Towel Pack (4),1,780.0,cash,Delivered
+ord10694,2026-02-03,Yasmine Fayez,1012086184,yasmin.fayez51@outlook.com,Mansoura,LED Desk Lamp,2 pcs,640.0,COD,DELIVERED
+ORD-11330,2026-02-10,aya fawzy,+20 116-687-6068, AYA.FAWZY66@YAHOO.COM,Mansoura,Electric Kettle 1.7L,1,1250.0,mobile wallet,Completed
+ORD-11320,2026-02-15,dina kamal,015 9976 5071, DINA.KAMAL57@YAHOO.COM,Alexandria,Wall Clock,1,410.0,Cash on Delivery,Refunded
+10803,2026-02-13,  Karim   Shehata ,00201182558242, KARIM.SHEHATA6@OUTLOOK.COM,tanta,Memory Foam Pillow,1 pcs,600.0,Cash on Delivery,Canceled
+ORD-10723,2026-02-24,MARINA FAROUK,00201555804273,marina.farouk8@gmail.com,Mansoura,Memory Foam Pillow,1 pcs,650.0,Credit Card,Completed
+11157,2026-02-03,Rana Hanna,+201035135070,rana.hanna34@outlook.com,mansoura,Bath Towel Pack (4),1,780.0,Visa,DELIVERED
+ORD 10737,2026-02-25,Reem Fayez,00201161308842,reem.fayez71@gmail.com,El Mansoura,Bath Towel Pack (4),1,730.0,COD,Completed
+10834,2026-02-10,Hassan Saeed,01214508768,hassan.saeed75@gmail.com,alexandria,Ceramic Dinner Set (24 pcs),1,2300.0,Cash on Delivery,DELIVERED
+10776,2026-02-11,Nour Abdelrahman,012 8246 7167,nour.abdelrahman69@gmail.com,tanta,Electric Kettle 1.7L,1,1150.0,Credit Card,delivered
+10904,2026-02-18,mostafa saeed,+20 126-030-6604,mostafa.saeed66.gmail.com,mansoura,Shower Curtain,2,420.0,mobile wallet,delivered
+10809,2026-02-04,FATMA MAHMOUD,00201513383077,fatma.mahmoud68@yahoo.com,Cairo City,Ceramic Dinner Set (24 pcs),1,2300.0,Vodafone Cash,Completed
+ORD-10778,2026-02-09,Hana Soliman,+201556240084,hana.soliman69@outlook.com,TANTA,Ceramic Dinner Set (24 pcs),2,2300.0,COD,Canceled
+ord11009,2026-02-05,SHERIF FATHY,+201141708177,sherif.fathy71@gmail.com,Tanta,Bath Towel Pack (4),1,730.0,Wallet,Completed
+ORD-10812,2026-02-20,Youssef Zaki,010 0416 4775, YOUSSEF.ZAKI32@GMAIL.COM, CAIRO ,Bath Towel Pack (4),1,780.0,COD,delivered
+ord10769,2026-02-28,Amr Abdelrahman,01211432787,amr.abdelrahman32@gmail.com,Tanta,Wall Clock,3,410.0,Wallet,DELIVERED
+ord10483,2026-01-28,Habiba Hanna,1575283645,habiba.hanna2@gmail.com,cairo,Bath Towel Pack (4),1 pcs,780.0,Cash on Delivery,delivered
+ord10590,2026-01-31,Reem Samir,1188429450,reem.samir11@yahoo.com,Tanta,Memory Foam Pillow,1,650.0,Credit Card,Canceled
+ord11365,2026-02-03,laila zaki,+20 128-615-5337,laila.zaki39@yahoo.com,GIZA,Non-stick Frying Pan 28cm,1,840.0,Card,delivered
+10773,2026-02-27,Tarek Gamal,01014366125,tarek.gamal96.outlook.com,giza ,Shower Curtain,2,320.0,COD,DELIVERED
+ORD 10805,2026-02-21,YASMIN SAMIR,00201080115852,yasmin.samir61@yahoo.com,tanta,Cotton Bed Sheet Set,4,1450.0,Wallet,In Progress
+10808,2026-02-03,Hana Fawzy,00201294196727,hana.fawzy88@outlook.com,Cairo City,Shower Curtain,3,320.0,Cash on Delivery,Completed
+ORD 11367,2026-02-16,Ibrahim Shehata,1249512272, IBRAHIM.SHEHATA22@OUTLOOK.COM,tanta,Wall Clock,2,510.0,cash,cancelled
+ORD 11256,2026-02-24,Karim Fayez,00201509863756,karim.fayez11@yahoo.com,Tanta,Non-stick Frying Pan 28cm,2,840.0,mobile wallet,delivered
+ORD 10623,2026-01-27,Youssef Nasr,01238250360,youssef.nasr21@yahoo.com,tanta,Electric Kettle 1.7L,1 pcs,1150.0,Cash on Delivery,cancelled
+11130,2026-02-20,Nada Farouk,+201220868105,nada.farouk28@yahoo.com,Cairo City,Shower Curtain,1,320.0,cash,Delivered
+ORD 11108,2026-02-10,Mariam Ezzat,015 2580 5259,,tanta,Non-stick Frying Pan 28cm,3,890.0,COD,Delivered
+ord10730,2026-02-26,Tarek Ezzat,00201041551377,tarek.ezzat72@yahoo.com,Alexandria,LED Desk Lamp,1,540.0,cash,DELIVERED
+ORD-11219,2026-02-23,laila hassan,1274359498, LAILA.HASSAN74@YAHOO.COM,Mansoura,Non-stick Frying Pan 28cm,1,840.0,Cash on Delivery,Delivered
+ord11054,2026-02-06,  Laila   Soliman ,00201181478884,laila.soliman46@gmail.com,giza ,Cotton Bed Sheet Set,3,1450.0,Cash on Delivery,DELIVERED
+ORD-10679,2026-01-29,NOUR ZAKI,+201214972279,nour.zaki38@yahoo.com,El Giza,LED Desk Lamp,1,640.0,cash,Completed
+ORD 10995,2026-02-08,Karim Shehata,011 8255 8242,karim.shehata6@outlook.com,Tanta,Non-stick Frying Pan 28cm,3,890.0,COD,Delivered
+ORD 10557,2026-01-26,  Ahmad   Ramadan ,015 3684 0133,ahmed.ramadan2@outlook.com,cairo,Bath Towel Pack (4),1 pcs,730.0,Cash on Delivery,Completed
+10800,2026-02-06,Marina Farouk,+201555804273,marina.farouk8@gmail.com,Mansoura,Electric Kettle 1.7L,2,1150.0,Credit Card,delivered
+10739,2026-02-14,Rana Shehata,012 8999 1136,rana.shehata96@outlook.com,Tanta,Bath Towel Pack (4),1,780.0,Visa,DELIVERED
+ORD 11178,2026-02-09,Reem Shehata,+201010633503,reem.shehata3.yahoo.com,giza ,Memory Foam Pillow,2,650.0,Credit Card,Cancelled
+11090,2026-02-15,Rana Ramadan,011 8261 3013,rana.ramadan73@yahoo.com,El Mansoura,Wall Clock,1,410.0,Wallet,Completed
+ORD-11195,2026-02-18,Nada Samir,+20 128-102-9073,nada.samir33@gmail.com,Cairo City,LED Desk Lamp,3,640.0,cash,DELIVERED
+ORD-10023,2026-01-28,  Aya   Hassan ,011 3561 7024,aya.hassan7@gmail.com,Mansoura,LED Desk Lamp,1,540.0,cash,Delivered
+ORD-10793,2026-02-15,Mahmoud Fathy,+20 150-022-6999,mahmoud.fathy67@outlook.com,Giza,Bath Towel Pack (4),1,880.0,cash,delivered
+11229,2026-02-11,  Fatma   Mahmoud ,+20 151-338-3077,fatma.mahmoud68@yahoo.com,cairo,Shower Curtain,1,320.0,COD,In Progress
+ORD-10774,2026-02-24,Sherif Mahmoud,+20 109-874-0608,sherif.mahmoud24@yahoo.com,TANTA,Storage Basket Set,2,365.0,Credit Card,Completed
+ORD 11366,2026-02-12,Rana Kamal,+20 154-575-4284,rana.kamal21@yahoo.com,alexandria,Cotton Bed Sheet Set,1,1400.0,Visa,delivered
+ORD-11252,2026-02-27,Tarek Ibrahim,1523173544,tarek.ibrahim92@yahoo.com,Cairo,Electric Kettle 1.7L,1,1150.0,Cash on Delivery,Completed
+10860,2026-02-01,Ahmad Abdelrahman,015 0467 0638,ahmed.abdelrahman17@gmail.com,GIZA,Cotton Bed Sheet Set,1,1450.0,Cash on Delivery,cancelled
+10828,2026-02-19,Karim Fawzy,+20 113-552-0201,karim.fawzy85@gmail.com,El Giza,LED Desk Lamp,1,640.0,Cash on Delivery,Canceled
+ORD 11073,2026-02-07,Yasmine Ramadan,1263519947,yasmin.ramadan71.outlook.com,alexandria,Ceramic Dinner Set (24 pcs),2,2300.0,COD,Completed
+ORD 11203,2026-02-11,AYA IBRAHIM,010 6151 0041, AYA.IBRAHIM80@OUTLOOK.COM,cairo,Cotton Bed Sheet Set,3,1400.0,Card,pending
+ord10817,2026-02-27,Youssef Ali,+20 114-128-6958,youssef.ali77@outlook.com,TANTA,Storage Basket Set,1,465.0,Cash on Delivery,DELIVERED
+ORD 10455,2026-01-29,laila naguib,011 3116 3805, LAILA.NAGUIB60@OUTLOOK.COM,alexandria,Bath Towel Pack (4),1,780.0,Cash on Delivery,Canceled
+ord10897,2026-02-01,omar nasr,00201004216175, OMAR.NASR43@GMAIL.COM,tanta,Ceramic Dinner Set (24 pcs),3,2300.0,cash,Completed
+ord10849,2026-02-12,  Ibrahim   Kamal ,+201598762406,ibrahim.kamal94@gmail.com,GIZA,Shower Curtain,2,320.0,Cash on Delivery,delivered
+ORD-10761,2026-02-08,Nada Abdelrahman,+20 104-137-3735,,Alexandria,Ceramic Dinner Set (24 pcs),1,2400.0,cash,In Progress
+11084,2026-02-16,REEM NASR,+20 155-463-4663,reem.nasr25@gmail.com,Cairo City,Wall Clock,1,510.0,Card,Delivered
+ORD 11176,2026-02-20,Sara Kamal,01196414756,sara.kamal90@yahoo.com,mansoura,Cotton Bed Sheet Set,1,1550.0,COD,Delivered
+ORD 10795,2026-02-09,Mennatallah Girgis,+20 100-608-0513,mennatallah.girgis5@gmail.com,ALEXANDRIA,Electric Kettle 1.7L,2,1150.0,COD,Delivered
+10852,2026-02-03,Sherif Adel,010 7646 0539,sherif.adel32@outlook.com,Tanta,Wall Clock,1,410.0,COD,In Progress
+10796,2026-02-11,Mustafa Nasr,015 4692 0514,mostafa.nasr4@yahoo.com, CAIRO ,Ceramic Dinner Set (24 pcs),2,2300.0,Vodafone Cash,Delivered
+ORD-11285,2026-02-01,hassan samir,+201125708194, HASSAN.SAMIR28@OUTLOOK.COM,Mansoura,Memory Foam Pillow,1 pcs,600.0,Vodafone Cash,Delivered
+ord11104,2026-02-16,nour shehata,011 1890 8276,nour.shehata13@gmail.com,ALEXANDRIA,Shower Curtain,1,270.0,Credit Card,delivered
+ORD-10700,2026-02-09,Omar Farouk,011 1690 1217,,Cairo,Electric Kettle 1.7L,1,1250.0,Cash on Delivery,delivered
+ord10924,2026-02-13,Mina Saeed,+20 108-180-4602,mina.saeed49@outlook.com,El Giza,Cotton Bed Sheet Set,3 pcs,1400.0,COD,cancelled
+ORD 11316,2026-02-23,  Mostafa   Soliman ,1255767881,mostafa.soliman23@gmail.com,GIZA,Electric Kettle 1.7L,3,1250.0,cash,Delivered
+ORD-11299,2026-02-08,Mahmoud Ramadan,+201138840994,mahmoud.ramadan11@gmail.com,Cairo City,Memory Foam Pillow,3,650.0,COD,DELIVERED
+ord11199,2026-02-21,Hana Ibrahim,+201599595101,hana.ibrahim6@yahoo.com, CAIRO ,Bath Towel Pack (4),1,730.0,COD,Delivered
+ORD-10710,2026-02-25,  Youssef   Nasr ,012 3825 0360,youssef.nasr21@yahoo.com,tanta,Cotton Bed Sheet Set,2,1550.0,Wallet,delivered
+ORD 10831,2026-02-24,Mennatallah Girgis,1006080513,mennatallah.girgis5@gmail.com,ALEXANDRIA,Storage Basket Set,3,365.0,COD,Delivered
+ORD-10830,2026-02-20,Tarek Ibrahim,+201523173544, TAREK.IBRAHIM92@YAHOO.COM,Cairo City,Storage Basket Set,4,315.0,COD,delivered
+ord10920,2026-02-21,Rana Abdelrahman,+20 110-423-7322,rana.abdelrahman74@outlook.com,Cairo City,Memory Foam Pillow,1,650.0,cash,Completed
+11117,2026-02-28,Ahmed Saeed,1255259205, AHMED.SAEED86@OUTLOOK.COM,Giza,Wall Clock,1,410.0,Cash on Delivery,DELIVERED
+ord10941,2026-02-03,  Hana   Ali ,00201537028180,hana.ali25@gmail.com,Mansoura,Cotton Bed Sheet Set,1,1400.0,cash,delivered
+ord10869,2026-02-28,Laila Ibrahim,00201546702542, LAILA.IBRAHIM53@YAHOO.COM,Alexandria,Shower Curtain,1,320.0,Card,Pending
+11234,2026-02-27,Mennatallah Ramadan,+20 120-370-4481,mennatallah.ramadan15@yahoo.com,giza ,LED Desk Lamp,2,640.0,COD,Delivered
+,,,,,,,,,,
+ORD-10956,2026-02-18,Sherif Adel,+201076460539,sherif.adel32@outlook.com,TANTA,Electric Kettle 1.7L,1 pcs,1100.0,COD,Completed
+ORD-11114,2026-02-22,nour ezzat,01017268907,nour.ezzat13@yahoo.com,alexandria,Wall Clock,1 pcs,410.0,Visa,In Progress
+ORD-10775,2026-02-21,yousef fayez,01584743076,youssef.fayez39@yahoo.com,tanta,Ceramic Dinner Set (24 pcs),2,2300.0,cash,delivered
+ord11137,2026-02-17,sara ibrahim,+20 127-727-7086, SARA.IBRAHIM55@OUTLOOK.COM,mansoura,Cotton Bed Sheet Set,2,1450.0,COD,Completed
+10513,2026-01-30,dina girgis,012 2208 4778,dina.girgis33@yahoo.com,Alexandria,Ceramic Dinner Set (24 pcs),1,2300.0,COD,delivered
+ord11095,2026-02-23,Aya Shehata,015 5934 5683,aya.shehata87@gmail.com,tanta,Shower Curtain,1,270.0,Cash on Delivery,Completed
+10460,2026-01-30,Tarek Ibrahim,+20 152-317-3544,tarek.ibrahim92@yahoo.com, CAIRO ,Electric Kettle 1.7L,1,1250.0,Cash on Delivery,DELIVERED
+ORD-11022,2026-02-16,Yusuf Abdelrahman,010 1231 5507,youssef.abdelrahman96@outlook.com,GIZA,Bath Towel Pack (4),3,780.0,cash,Pending
+ORD-10276,2026-01-28,Karim Farouk,01067719420,,Cairo City,Non-stick Frying Pan 28cm,1,990.0,Card,DELIVERED
+ORD 11112,2026-02-23,fady adel,00201237393469, FADY.ADEL9@YAHOO.COM,ALEXANDRIA,Wall Clock,1,510.0,Card,delivered
+ord10699,2026-02-25,Youssef Hanna,+20 116-789-8694,youssef.hanna34@gmail.com,alexandria,Ceramic Dinner Set (24 pcs),1,2300.0,Vodafone Cash,Delivered
+ORD 11102,2026-02-09,Nour Ezzat,00201017268907,nour.ezzat13@yahoo.com,Alex,Wall Clock,1,360.0,Vodafone Cash,Delivered
+ord10972,2026-02-07,Nada Mahmoud,+20 121-746-3800,nada.mahmoud72@gmail.com,Tanta,Shower Curtain,1,320.0,cash,delivered
+ORD 10910,2026-02-23,FADY MANSOUR,01209869264, FADY.MANSOUR50@OUTLOOK.COM,Mansoura,LED Desk Lamp,1,540.0,Card,Pending
+ord10946,2026-02-17,KHALED SAMIR,01078319168,khaled.samir62@gmail.com,tanta,Ceramic Dinner Set (24 pcs),3,2250.0,Vodafone Cash,delivered
+11246,2026-02-10,Hassan Mansour,015 1488 3373, HASSAN.MANSOUR37@OUTLOOK.COM,TANTA,Electric Kettle 1.7L,2,1100.0,Cash on Delivery,returned
+,,,,,,,,,,
+ORD 11280,2026-02-19,Hana Fawzy,01294196727,hana.fawzy88@outlook.com,Cairo,Non-stick Frying Pan 28cm,1,990.0,mobile wallet,Pending
+ord10929,2026-02-04,NOUR SOLIMAN,1196316277,nour.soliman44@gmail.com,Alexandria,Non-stick Frying Pan 28cm,1,840.0,Credit Card,Delivered
+ORD 10706,2026-02-06,Aya Zaki,01572613940,aya.zaki5@outlook.com,Cairo City,Bath Towel Pack (4),1,730.0,Wallet,Delivered
+11133,2026-02-23,NOUR SOLIMAN,+20 119-631-6277,nour.soliman44@gmail.com,alexandria,LED Desk Lamp,2,640.0,COD,Delivered
+ORD-11317,2026-02-24,Aya Fayez,01275227370,aya.fayez93@yahoo.com,ALEXANDRIA,Wall Clock,1,410.0,Visa,cancelled
+10780,2026-02-01,Mina Hanna,1121931511,mina.hanna60@yahoo.com,Alexandria,Non-stick Frying Pan 28cm,3,990.0,Vodafone Cash,delivered
+ORD 10911,2026-02-28,SHERIF FATHY,01141708177, SHERIF.FATHY71@GMAIL.COM,tanta,Memory Foam Pillow,1,650.0,cash,Completed
+ORD-11342,2026-02-26,Fady Ezzat,N/A,fady.ezzat7@outlook.com,El Mansoura,Cotton Bed Sheet Set,2 pcs,1450.0,cash,Completed
+ORD 10263,2026-01-31,Aya Shehata,+20 157-353-4128,,El Mansoura,Cotton Bed Sheet Set,1,1550.0,Card,Completed
+ORD-11291,2026-02-09,Mariam Shehata,01226738452,mariam.shehata50@yahoo.com,cairo,LED Desk Lamp,2,540.0,cash,Completed
+ord11013,2026-02-02,Aya Saeed,01571555103,aya.saeed44@outlook.com,ALEXANDRIA,Non-stick Frying Pan 28cm,4,890.0,Cash on Delivery,DELIVERED
+ORD-10165,2026-01-26,Rana Gamal,015 8532 0121,rana.gamal47@gmail.com,ALEXANDRIA,Wall Clock,4,410.0,Visa,Completed
+ORD 11295,2026-02-17,mina saeed,+201081804602,mina.saeed49@outlook.com,giza ,Wall Clock,2,410.0,Credit Card,Delivered
+ORD 11100,2026-02-13,laila gamal,+201012388090,laila.gamal82@yahoo.com,Alexandria,Non-stick Frying Pan 28cm,2,840.0,Credit Card,Completed
+10997,2026-02-24,Khaled Adel,1194813972, KHALED.ADEL28@GMAIL.COM,Mansoura,Ceramic Dinner Set (24 pcs),1,2400.0,Cash on Delivery,delivered
+ORD-11182,2026-02-12,Mina Ibrahim,+201546381032,mina.ibrahim76@yahoo.com,mansoura,Shower Curtain,1,320.0,Cash on Delivery,DELIVERED
+11335,2026-02-01,salma farouk,1001037490,salma.farouk64@outlook.com,Mansoura,Wall Clock,1,410.0,cash,DELIVERED
+ORD-11217,2026-02-15,Mohamed Gamal,011 1744 7248,mohamed.gamal70@yahoo.com,Giza,Ceramic Dinner Set (24 pcs),1,2400.0,COD,pending
+10973,2026-02-15,Aya Fayez,1275227370,aya.fayez93@yahoo.com,Alex,Storage Basket Set,-3,315.0,Visa,Delivered
+ord11006,2026-02-08,Hana Fawzy,1294196727,hana.fawzy88@outlook.com,Cairo City,Cotton Bed Sheet Set,2,1400.0,Credit Card,Completed
+10930,2026-02-05,YASMIN NASR,+201238789478,yasmin.nasr91@gmail.com,mansoura,Storage Basket Set,1,365.0,Card,DELIVERED
+ORD 10928,2026-02-20,ahmed mansour,012 9043 6763,ahmed.mansour15@yahoo.com,TANTA,Shower Curtain,1,270.0,cash,Delivered
+ord11061,2026-02-25,IBRAHIM NAGUIB,011 3127 2553,ibrahim.naguib43@gmail.com,tanta,Bath Towel Pack (4),2,780.0,Visa,Delivered
+ord11078,2026-02-25,  Mennatallah   Ramadan ,01024800912,mennatallah.ramadan18@yahoo.com,alexandria,Shower Curtain,2,320.0,Visa,returned
+ord10850,2026-02-05,  Marina   Soliman ,+201054362516,marina.soliman3@yahoo.com,El Giza,Non-stick Frying Pan 28cm,1,890.0,mobile wallet,Refunded
+,,,,,,,,,,
+ord10324,2026-01-27,Youssef Ali,+201141286958,youssef.ali77@outlook.com,Tanta,Storage Basket Set,1,365.0,Visa,DELIVERED
+ORD 10987,2026-02-01,Mohammed Ibrahim,011 2232 1899,mohamed.ibrahim53@yahoo.com,El Mansoura,LED Desk Lamp,-2,540.0,Card,Delivered
+10701,2026-02-17,  Laila   Fathy ,012 6829 9645,laila.fathy91@yahoo.com,Mansoura,Ceramic Dinner Set (24 pcs),1 pcs,2300.0,Wallet,delivered
+ord11160,2026-02-21,  Nour   Girgis ,015 5875 5000,nour.girgis11@outlook.com,Cairo City,Shower Curtain,3,420.0,Card,DELIVERED
+ord10443,2026-01-27,Marina Samir,1041949529,marina.samir55@yahoo.com,alexandria,Wall Clock,1,410.0,cash,delivered
+ORD-11257,2026-02-21,fatma naguib,+20 100-380-8225,fatma.naguib11@gmail.com,Tanta,Cotton Bed Sheet Set,3,1400.0,Credit Card,Completed
+10925,2026-02-02,Mennatallah Zaki,+201044099326,mennatallah.zaki87@outlook.com,El Mansoura,LED Desk Lamp,2,540.0,Visa,DELIVERED
+ORD-11007,2026-02-20,Laila Abdelrahman,+201139823450,laila.abdelrahman28@gmail.com,TANTA,Non-stick Frying Pan 28cm,1,890.0,Cash on Delivery,delivered
+ORD-10202,2026-01-26,Hassan Saeed,01214508768,hassan.saeed75@gmail.com,alexandria,Non-stick Frying Pan 28cm,1,890.0,Card,delivered
+10999,2026-02-07,Mahmoud Hassan,01217558317,mahmoud.hassan82@yahoo.com,giza ,Non-stick Frying Pan 28cm,1,890.0,Credit Card,Delivered
+11166,2026-02-20,Tarek Gamal,00201014366125,tarek.gamal96@outlook.com,giza ,Cotton Bed Sheet Set,1,1400.0,Cash on Delivery,Completed
+ORD 10933,2026-02-05,Dina Hassan,012 4145 5302,dina.hassan24.gmail.com,ALEXANDRIA,Ceramic Dinner Set (24 pcs),1,2300.0,Wallet,delivered
+ORD-10166,2026-01-30,MARINA KAMAL,N/A,marina.kamal41@outlook.com,cairo,Bath Towel Pack (4),1,780.0,COD,DELIVERED
+11035,2026-02-07,  Dina   Hanna ,+201095482622,dina.hanna67@gmail.com,ALEXANDRIA,Ceramic Dinner Set (24 pcs),1 pcs,2250.0,Visa,delivered
+ord11086,2026-02-01,Aya Ramadan,00201295232912,aya.ramadan9@outlook.com,tanta,Ceramic Dinner Set (24 pcs),1,2300.0,cash,DELIVERED
+10960,2026-02-17,Tarek Girgis,012 5342 3225,tarek.girgis41@outlook.com,Alex,Wall Clock,2,410.0,Cash on Delivery,pending
+ord11254,2026-02-19,Aya Adel,+201260896652,aya.adel65@outlook.com,El Mansoura,Memory Foam Pillow,1,650.0,Visa,pending
+ORD 11314,2026-02-04,Aya Zaki,00201572613940,aya.zaki5@outlook.com,Al Qahirah,Memory Foam Pillow,2,650.0,Credit Card,DELIVERED
+ORD 11041,2026-02-13,Reem Soliman,010 1442 8014, REEM.SOLIMAN56@GMAIL.COM,Alex,Cotton Bed Sheet Set,1,1450.0,COD,pending
+ORD 10122,2026-01-28,Salma Ali,01040049524,salma.ali73@outlook.com,Al Qahirah,Cotton Bed Sheet Set,3,1450.0,cash,Delivered
+ORD-10733,2026-02-18,salma ali,+201040049524,salma.ali73@outlook.com, CAIRO ,Ceramic Dinner Set (24 pcs),3,2300.0,cash,Returned
+10823,2026-02-12,SHERIF HASSAN,+201251482483,sherif.hassan31@yahoo.com,Alex,Storage Basket Set,4,365.0,COD,Cancelled
+ord10727,2026-02-08,FADY HASSAN,00201542103092, FADY.HASSAN54@GMAIL.COM,Mansoura,LED Desk Lamp,3 pcs,490.0,Cash on Delivery,delivered
+ORD 10998,2026-02-21,Ibrahim Shehata,00201249512272,ibrahim.shehata22@outlook.com,tanta,Wall Clock,2,510.0,cash,Delivered
+,,,,,,,,,,
+ORD 10757,2026-02-07,AYA SHEHATA,015 7353 4128,aya.shehata58@gmail.com,Mansoura,Cotton Bed Sheet Set,1,,Visa,delivered
+ORD-10099,2026-01-26,Nour Farouk,01111631697,nour.farouk36@yahoo.com,giza ,Ceramic Dinner Set (24 pcs),2,2250.0,cash,DELIVERED
+ORD 11346,2026-02-28,Kerollos Kamal,00201104877451,kirollos.kamal51@yahoo.com,El Giza,LED Desk Lamp,2,540.0,Cash on Delivery,Delivered
+ORD-10874,2026-02-10,karim shehata,00201182558242,karim.shehata6@outlook.com,Tanta,Bath Towel Pack (4),1,780.0,Cash on Delivery,Delivered
+ORD-10303,2026-01-27,FATMA SOLIMAN,+201586075494,fatma.soliman70@outlook.com,El Mansoura,Storage Basket Set,1,465.0,Cash on Delivery,Completed
+ORD-10801,2026-02-19,khaled girgis,+201075329037,khaled.girgis26@outlook.com,Tanta,Non-stick Frying Pan 28cm,1,990.0,Wallet,Delivered
+ORD-11236,2026-02-22,Mina Naguib,,mina.naguib85@outlook.com,Tanta,Non-stick Frying Pan 28cm,4,890.0,cash,cancelled
+ord10770,2026-02-10,mariam adel,01190152735,mariam.adel83@yahoo.com,mansoura,Electric Kettle 1.7L,3,1150.0,Wallet,Completed
+ORD-10527,2026-01-30,nada ezzat,+20 105-170-0055,nada.ezzat74@gmail.com,Alexandria,Bath Towel Pack (4),2,780.0,Visa,Completed
+ORD-10984,2026-02-08,sherif mahmoud,015 1789 6471,sherif.mahmoud60@outlook.com,tanta,Cotton Bed Sheet Set,1,1550.0,mobile wallet,delivered
+ORD 10600,2026-01-27,karim ali,015 9773 9173,karim.ali44@gmail.com,Giza,Cotton Bed Sheet Set,1,1400.0,Credit Card,DELIVERED
+10855,2026-02-12,NADA FAROUK,1220868105,nada.farouk28@yahoo.com,Cairo City,Bath Towel Pack (4),2,880.0,COD,DELIVERED
+ORD 10101,2026-01-29,  Yasmin   Fathy ,01085726382, YASMIN.FATHY38@YAHOO.COM,TANTA,Wall Clock,2 pcs,410.0,Credit Card,Delivered
+ORD-11163,2026-02-07,Kirollos Abdelrahman,1567493234,kirollos.abdelrahman8@gmail.com,tanta,Ceramic Dinner Set (24 pcs),1,2300.0,COD,Completed
+11238,2026-02-14,MENNATALLAH HANNA,00201533999198,mennatallah.hanna5@outlook.com,giza ,Wall Clock,4,410.0,COD,delivered
+ORD-10563,2026-01-27,Dina Hanna,1095482622,dina.hanna67@gmail.com,ALEXANDRIA,Storage Basket Set,1,465.0,Credit Card,DELIVERED
+11076,2026-02-21,Dina Ibrahim,+20 150-186-8130,dina.ibrahim34@outlook.com,Cairo,Wall Clock,1,410.0,cash,Completed
+10988,2026-02-13,Mariam Hanna,1091306093, MARIAM.HANNA93@GMAIL.COM,Tanta,Non-stick Frying Pan 28cm,1,840.0,cash,DELIVERED
+11031,2026-02-19,karim zaki,1059549527, KARIM.ZAKI22@OUTLOOK.COM,Alex,Shower Curtain,2 pcs,270.0,Card,delivered
+10892,2026-02-11,FATMA IBRAHIM,+201146952151,fatma.ibrahim40@outlook.com,El Mansoura,Cotton Bed Sheet Set,1,1400.0,cash,DELIVERED
+ORD-10881,2026-02-23,Khaled Ramadan,00201207507864,,alexandria,Ceramic Dinner Set (24 pcs),1 pcs,2300.0,Cash on Delivery,Completed
+ORD-11250,2026-02-24,hana soliman,01556240084,hana.soliman69@outlook.com,tanta,Shower Curtain,1,320.0,cash,DELIVERED
+10736,2026-02-17,habiba girgis,00201516240908,habiba.girgis32@gmail.com, CAIRO ,Ceramic Dinner Set (24 pcs),1,2300.0,COD,Completed
+ORD 11359,2026-02-22,Mahmoud Hassan,+201217558317,mahmoud.hassan82@yahoo.com,giza ,Memory Foam Pillow,1,650.0,Cash on Delivery,Delivered
+11251,2026-02-23,Mennatallah Ramadan,+20 120-370-4481,mennatallah.ramadan15@yahoo.com,GIZA,Memory Foam Pillow,1,750.0,Credit Card,Canceled
+ORD-11107,2026-02-26,TAREK RAMADAN,+20 108-670-7983,tarek.ramadan86@yahoo.com,TANTA,Bath Towel Pack (4),1,780.0,Cash on Delivery,pending
+ORD 10939,2026-02-23,  Nour   Ali ,010 7427 0583,nour.ali38@outlook.com,El Giza,Non-stick Frying Pan 28cm,1,890.0,Card,delivered
+ORD-11033,2026-02-01,  Marina   Farouk ,1555804273,marina.farouk8@gmail.com,El Mansoura,Electric Kettle 1.7L,2,1100.0,Visa,Completed
+ORD 10772,2026-02-27,Mostafa Nasr,+20 154-692-0514,mostafa.nasr4@yahoo.com,Cairo City,Memory Foam Pillow,1,650.0,cash,pending
+11115,2026-02-08,khaled fayez,00201136632757,khaled.fayez56@yahoo.com,Cairo,Wall Clock,1,410.0,mobile wallet,Delivered
+ord11262,2026-02-28,Nada Naguib,+20 154-858-6340,nada.naguib29@gmail.com,TANTA,Storage Basket Set,1,365.0,Cash on Delivery,Pending
+ord11267,2026-02-15,  Khaled   Hassan ,+201213298711,khaled.hassan92.outlook.com,alexandria,Electric Kettle 1.7L,1 pcs,1150.0,COD,In Progress
+ORD-11062,2026-02-04,Omar Soliman,00201247197152,omar.soliman14@outlook.com,Tanta,Non-stick Frying Pan 28cm,1 pcs,890.0,Credit Card,Completed
+ord10720,2026-02-18,RANA KAMAL,+20 154-575-4284,rana.kamal21@yahoo.com,ALEXANDRIA,Non-stick Frying Pan 28cm,1,890.0,cash,Delivered
+ord10912,2026-02-22,Dina Kamal,+201572144402,dina.kamal86.gmail.com,giza ,Storage Basket Set,2,365.0,cash,DELIVERED
+ord10586,2026-01-26,Khaled Samir,+201078319168,khaled.samir62@gmail.com,TANTA,Electric Kettle 1.7L,1,1150.0,Cash on Delivery,delivered
+ord11036,2026-02-07,OMAR NASR,00201004216175,omar.nasr43@gmail.com,Tanta,Ceramic Dinner Set (24 pcs),2,2300.0,mobile wallet,DELIVERED
+ORD-10303,2026-01-27,FATMA SOLIMAN,+201586075494,fatma.soliman70@outlook.com,El Mansoura,Storage Basket Set,1,465.0,Cash on Delivery,Completed
+ORD 11050,2026-02-24,NADA SHEHATA,+201155541117,nada.shehata44@yahoo.com,mansoura,Memory Foam Pillow,1,650.0,Wallet,DELIVERED
+ORD-11200,2026-02-01,Marina Ezzat,1170138498,marina.ezzat49@yahoo.com,El Mansoura,Bath Towel Pack (4),1,880.0,cash,delivered
+ORD 10488,2026-01-29,Marina Samir,010 4194 9529,marina.samir55@yahoo.com,Alexandria,Electric Kettle 1.7L,3,1100.0,Vodafone Cash,delivered
+ORD 10009,2026-01-28,Karim Fayez,1509863756, KARIM.FAYEZ11@YAHOO.COM,TANTA,LED Desk Lamp,1,640.0,mobile wallet,delivered
+11181,2026-02-24,  Sherif   Fathy ,1141708177,sherif.fathy71@gmail.com,tanta,Shower Curtain,1,320.0,COD,Pending
+ord10991,2026-02-06,RANA NASR,+201505858241,rana.nasr41@outlook.com,mansoura,Memory Foam Pillow,1,650.0,Card,Delivered
+ORD-11093,2026-02-19,Hana Ali,1537028180,hana.ali25@gmail.com,mansoura,Non-stick Frying Pan 28cm,1,990.0,COD,delivered
+11113,2026-02-23,Hana Ibrahim,01599595101,hana.ibrahim6@yahoo.com,Al Qahirah,Cotton Bed Sheet Set,2 pcs,1450.0,Card,DELIVERED
+ord10535,2026-01-29,Dina Girgis,1222084778,dina.girgis33@yahoo.com,Alexandria,Wall Clock,1,410.0,COD,DELIVERED
+ord11275,2026-02-01,Mina Ibrahim,+201546381032,mina.ibrahim76@yahoo.com,El Mansoura,Memory Foam Pillow,2,650.0,Visa,delivered
+ord11310,2026-02-22,Karim Girgis,+20 108-884-2638,karim.girgis44@outlook.com,El Giza,Cotton Bed Sheet Set,1,1400.0,COD,delivered
+10491,2026-01-30,Dina Adel,+20 120-607-2331,dina.adel52@gmail.com,Tanta,Electric Kettle 1.7L,1,1250.0,Card,Delivered
+ORD-10445,2026-01-27,Nada Ezzat,00201051700055, NADA.EZZAT74@GMAIL.COM,Alex,Cotton Bed Sheet Set,1,1400.0,Cash on Delivery,DELIVERED
+ORD 10945,2026-02-11,Kirollos Fayez,00201147623800,kirollos.fayez34@yahoo.com,ALEXANDRIA,Memory Foam Pillow,1,650.0,cash,Completed
+ORD-10947,2026-02-26,ibrahim shehata,00201249512272,ibrahim.shehata22@outlook.com,Tanta,Ceramic Dinner Set (24 pcs),1,2300.0,Cash on Delivery,DELIVERED
+ord10963,2026-02-09,Nada Farouk,1220868105,nada.farouk28@yahoo.com, CAIRO ,Wall Clock,2,410.0,Credit Card,cancelled
+ord11131,2026-02-08,FATMA GIRGIS,00201595125446,fatma.girgis73@yahoo.com,Mansoura,Shower Curtain,1,420.0,cash,Completed
+ORD-10490,2026-01-28,Rana Abdelrahman,+201104237322,rana.abdelrahman74@outlook.com,Cairo,Storage Basket Set,2,365.0,cash,delivered
+ORD 11301,2026-02-13,Hassan Ali,011 5634 8030,hassan.ali82@outlook.com,Mansoura,Ceramic Dinner Set (24 pcs),1,2300.0,COD,DELIVERED
+10951,2026-02-26,Tarek Girgis,+20 153-661-9573,tarek.girgis25@gmail.com,ALEXANDRIA,LED Desk Lamp,2,540.0,Credit Card,Delivered
+11286,2026-02-08,  Rana   Naguib ,00201077267850,,Cairo,Shower Curtain,1,320.0,COD,Cancelled
+ord10937,2026-02-23,Yasmin Shehata,01077789079,yasmin.shehata47@outlook.com,Giza,Storage Basket Set,3,465.0,Card,Pending
+ORD-10026,2026-01-30,  Ibrahim   Shehata ,00201249512272,ibrahim.shehata22@outlook.com,Tanta,Non-stick Frying Pan 28cm,4,840.0,Visa,DELIVERED
+ORD-11129,2026-02-17,Mahmoud Samir,+201571971316,mahmoud.samir16@yahoo.com, CAIRO ,Bath Towel Pack (4),2,780.0,Card,DELIVERED
+11005,2026-02-13,dina ibrahim,01052405812,dina.ibrahim61@gmail.com,El Mansoura,LED Desk Lamp,2,540.0,Visa,Delivered
+ORD 11336,2026-02-19,Dina Gamal,1047928328, DINA.GAMAL9@YAHOO.COM,GIZA,Non-stick Frying Pan 28cm,1,990.0,Visa,DELIVERED
+ord10975,2026-02-10,Nour Farouk,01111631697,nour.farouk36@yahoo.com,Giza,Shower Curtain,1,420.0,Cash on Delivery,Completed
+ORD 11324,2026-02-20,salma soliman,1195537400,salma.soliman91@outlook.com,El Giza,Electric Kettle 1.7L,2,1150.0,cash,DELIVERED
+ord11281,2026-02-05,Fatma Mansour,+20 102-434-7841,fatma.mansour19@outlook.com,El Mansoura,Electric Kettle 1.7L,1,1250.0,COD,In Progress
+ORD 10902,2026-02-11,kirollos fayez,011 4762 3800,kirollos.fayez34@yahoo.com,ALEXANDRIA,Bath Towel Pack (4),1,880.0,Wallet,DELIVERED
+ord11350,2026-02-01,  Reem   Fayez ,00201161308842,,mansoura,Ceramic Dinner Set (24 pcs),1 pcs,2400.0,Credit Card,DELIVERED
+ORD 11110,2026-02-03,Fady Ezzat,00201109369750,fady.ezzat36@yahoo.com,Alex,Cotton Bed Sheet Set,1,1450.0,COD,Canceled
+10274,2026-01-27,Mariam Adel,00201190152735,,El Mansoura,Cotton Bed Sheet Set,2,1550.0,Vodafone Cash,DELIVERED
+ORD-10711,2026-02-22,Rana Shehata,01289991136,rana.shehata96@outlook.com,Tanta,Ceramic Dinner Set (24 pcs),1,2300.0,Wallet,Cancelled
+ORD-10885,2026-02-15,Sherif Adel,00201076460539,sherif.adel32@outlook.com,tanta,Storage Basket Set,2,465.0,Visa,Completed
+ORD-11309,2026-02-11,Khaled Nasr,1164180488,khaled.nasr20@yahoo.com,TANTA,Ceramic Dinner Set (24 pcs),1,2300.0,Cash on Delivery,Delivered
+ORD 10703,2026-02-20,Dina Kamal,015 9976 5071,dina.kamal57@yahoo.com,ALEXANDRIA,Wall Clock,2,510.0,Card,delivered
+ORD 11030,2026-02-06,sara ibrahim,1277277086,sara.ibrahim55@outlook.com,mansoura,Shower Curtain,1 pcs,320.0,COD,DELIVERED
+ORD-11155,2026-02-05,  Aya   Mahmoud ,00201569067939, AYA.MAHMOUD1@OUTLOOK.COM,TANTA,Electric Kettle 1.7L,3,1100.0,cash,Completed
+11260,2026-02-21,Maryam Shehata,1256775103,mariam.shehata90@outlook.com,Tanta,LED Desk Lamp,1 pcs,540.0,cash,Delivered
+11306,2026-02-13,Fatma Ramadan,+201055137801, FATMA.RAMADAN46@OUTLOOK.COM,El Mansoura,Shower Curtain,1,320.0,COD,Delivered
+ORD 10258,2026-01-28,Nour Zaki,1214972279,nour.zaki38@yahoo.com,El Giza,Ceramic Dinner Set (24 pcs),3,2300.0,Cash on Delivery,Cancelled
+ORD-11092,2026-02-07,mohammed soliman,+20 122-821-0242,mohamed.soliman56@outlook.com,tanta,Cotton Bed Sheet Set,1,1450.0,Card,pending
+ORD 11233,2026-02-16,Sara Gamal,1062445234,,Tanta,Ceramic Dinner Set (24 pcs),1,2300.0,Card,Delivered
+ord10913,2026-02-05,  Nada   Samir ,1281029073,nada.samir33@gmail.com,Cairo City,Memory Foam Pillow,3,650.0,Credit Card,Refunded
+ORD-10927,2026-02-28,Yasmin Fayez,+201012086184,yasmin.fayez51@outlook.com,mansoura,Non-stick Frying Pan 28cm,2,990.0,cash,DELIVERED
+ORD 11225,2026-02-25,Amro Ibrahim,00201136912022,amr.ibrahim80@outlook.com,TANTA,Storage Basket Set,1,365.0,Wallet,Canceled
+,,,,,,,,,,
+ORD-10748,2026-02-21,Mennatallah Zaki,+201044099326,mennatallah.zaki87@outlook.com,El Mansoura,Memory Foam Pillow,1,650.0,cash,delivered
+11049,2026-02-12,MARINA SOLIMAN,+20 105-436-2516,,El Giza,Memory Foam Pillow,3,650.0,Vodafone Cash,pending
+10680,2026-01-27,  Nada   Samir ,1247219209,nada.samir90@yahoo.com,alexandria,Storage Basket Set,1,315.0,Card,DELIVERED
+ORD 11067,2026-02-23,TAREK ABDELRAHMAN,+20 157-379-3389,tarek.abdelrahman22@yahoo.com,tanta,Non-stick Frying Pan 28cm,3,890.0,Credit Card,Canceled
+ord10982,2026-02-12,fatma mahmoud,00201513383077,fatma.mahmoud68@yahoo.com,Al Qahirah,LED Desk Lamp,1 pcs,540.0,cash,delivered
+ord11369,2026-02-19,Laila Abdelrahman,+201139823450,laila.abdelrahman28@gmail.com,tanta,Memory Foam Pillow,1,750.0,cash,Completed
+ORD-10716,2026-02-06,Marina Gamal,01092647902,marina.gamal48@gmail.com,El Mansoura,Memory Foam Pillow,4,650.0,Cash on Delivery,Completed
+ord11122,2026-02-01,  Nada   Nasr ,011 9340 3697,nada.nasr67@yahoo.com, CAIRO ,LED Desk Lamp,2,540.0,COD,DELIVERED
+ord11288,2026-02-09,Mariam Ramadan,00201184322033, MARIAM.RAMADAN13@OUTLOOK.COM,Cairo City,Memory Foam Pillow,2,650.0,Cash on Delivery,delivered
+10407,2026-01-28,MINA HANNA,1121931511,mina.hanna60@yahoo.com,Alexandria,Ceramic Dinner Set (24 pcs),1,2300.0,Wallet,Delivered
+ORD 11105,2026-02-05,KARIM FAYEZ,015 0986 3756,,TANTA,Ceramic Dinner Set (24 pcs),1,2300.0,Credit Card,Delivered
+10996,2026-02-11,hassan saeed,1214508768,hassan.saeed75@gmail.com,ALEXANDRIA,Cotton Bed Sheet Set,2,1400.0,mobile wallet,Delivered
+10208,2026-01-29,  Omar   Ramadan ,00201036521025,omar.ramadan57@outlook.com,Mansoura,Bath Towel Pack (4),1,780.0,COD,Completed
+ORD 10749,2026-02-14,Ahmed Ezzat,01203886030,ahmed.ezzat24@yahoo.com,alexandria,Non-stick Frying Pan 28cm,1,990.0,Credit Card,Delivered
+ord10890,2026-02-11,Nada Samir,1281029073,nada.samir33@gmail.com,cairo,Shower Curtain,1,270.0,Cash on Delivery,Completed
+ORD 11064,2026-02-20,  Mina   Ibrahim ,12345,mina.ibrahim76@yahoo.com,El Mansoura,Cotton Bed Sheet Set,1,1400.0,Credit Card,DELIVERED
+,,,,,,,,,,
+ORD 11140,2026-02-12,DINA GIRGIS,1222084778,dina.girgis33@yahoo.com,ALEXANDRIA,LED Desk Lamp,1,490.0,Visa,delivered
+ord11070,2026-02-24,LAILA FATHY,00201268299645,laila.fathy91@yahoo.com,El Mansoura,Wall Clock,1,410.0,COD,Delivered
+ord10668,2026-01-27,Fady Ali,00201105624520,fady.ali41.yahoo.com,tanta,Non-stick Frying Pan 28cm,2,890.0,Credit Card,DELIVERED
+ORD-10867,2026-02-27,Omar Ramadan,+20 103-652-1025,omar.ramadan57@outlook.com,mansoura,Shower Curtain,1,270.0,Cash on Delivery,delivered
+ord11247,2026-02-01,Mennatallah Nasr,+20 118-805-4615, MENNATALLAH.NASR89@GMAIL.COM,cairo,Cotton Bed Sheet Set,2,1550.0,Card,cancelled
+ORD 11088,2026-02-17,Fatma Mahmoud,015 1338 3077,fatma.mahmoud68@yahoo.com, CAIRO ,Memory Foam Pillow,1,750.0,Vodafone Cash,Completed
+ORD-11173,2026-02-21,fady ezzat,+201109369750,fady.ezzat36@yahoo.com,ALEXANDRIA,Bath Towel Pack (4),1,780.0,Visa,delivered
+10718,2026-02-23,Nour Hassan,01297448913, NOUR.HASSAN39@OUTLOOK.COM,Tanta,Bath Towel Pack (4),1,730.0,COD,Delivered
+ORD-11177,2026-02-05,Mohamed Samir,+20 123-959-7485,mohamed.samir73@outlook.com,GIZA,Shower Curtain,2,420.0,cash,Cancelled
+11126,2026-02-06,  Mohamed   Samir ,1239597485,mohamed.samir73@outlook.com,El Giza,Cotton Bed Sheet Set,1,1450.0,Wallet,Pending
+ORD-10605,2026-01-30,Tarek Soliman,015 9371 7532,tarek.soliman63@gmail.com,Cairo,LED Desk Lamp,2,540.0,Visa,delivered
+ORD-11230,2026-02-23,Habiba Gamal,1185585469,habiba.gamal36@outlook.com,mansoura,Wall Clock,4,410.0,Credit Card,Delivered
+ORD-10318,2026-01-30,Hassan Ali,1156348030,,El Mansoura,Bath Towel Pack (4),1,780.0,Cash on Delivery,Completed
+10722,2026-02-22,Omar Ramadan,00201062464258,omar.ramadan40@gmail.com,El Mansoura,Wall Clock,1,410.0,Visa,delivered
+,,,,,,,,,,
+ord10938,2026-02-11,Sherif Gamal,+20 151-039-9639,sherif.gamal92@yahoo.com,giza ,Shower Curtain,1,270.0,Vodafone Cash,delivered
+ord11095,2026-02-23,Aya Shehata,015 5934 5683,aya.shehata87@gmail.com,tanta,Shower Curtain,1,270.0,Cash on Delivery,Completed
+ORD 11271,2026-02-19,MARINA NAGUIB,+201155684858,marina.naguib84@gmail.com,Mansoura,Non-stick Frying Pan 28cm,1,840.0,Wallet,Delivered
+ORD-10965,2026-02-28,Ibrahim Abdelrahman,01530097636,ibrahim.abdelrahman14@yahoo.com,tanta,Ceramic Dinner Set (24 pcs),1,2300.0,Cash on Delivery,Completed
+ORD 10771,2026-02-15,ibrahim hanna,00201288882576,ibrahim.hanna62@outlook.com,Mansoura,Ceramic Dinner Set (24 pcs),1,2300.0,Cash on Delivery,Canceled
+ORD 10838,2026-02-06,  Fady   Mansour ,00201209869264,fady.mansour50@outlook.com,El Mansoura,Non-stick Frying Pan 28cm,1,890.0,Cash on Delivery,In Progress
+ord10791,2026-02-09,YOUSEF MAHMOUD,01580092958,youssef.mahmoud69@gmail.com,Tanta,Cotton Bed Sheet Set,2,,Visa,pending
+ORD-10645,2026-01-26,Yasmine Nasr,+20 123-878-9478,yasmin.nasr91@gmail.com,El Mansoura,Ceramic Dinner Set (24 pcs),4,2300.0,Visa,delivered
+ord10693,2026-02-14,  Ahmed   Adel ,+201011267237,ahmed.adel83@yahoo.com,giza ,Electric Kettle 1.7L,1,1150.0,Card,DELIVERED
+11039,2026-02-16,Sherif Hassan,00201251482483,sherif.hassan31@yahoo.com,ALEXANDRIA,LED Desk Lamp,2,490.0,Card,Completed
+ORD-11318,2026-02-12,Amr Abdelrahman,+20 103-850-4300,amr.abdelrahman61.outlook.com,GIZA,Ceramic Dinner Set (24 pcs),1 pcs,2400.0,mobile wallet,Delivered
+ORD 10799,2026-02-16,Mina Mansour,1237969333,mina.mansour50@yahoo.com,alexandria,Wall Clock,1 pcs,410.0,COD,delivered
+ORD-11227,2026-02-05,Fady Fawzy,, FADY.FAWZY55@GMAIL.COM,Alexandria,Memory Foam Pillow,1 pcs,600.0,Visa,Completed
+11109,2026-02-21,LAILA ABDELRAHMAN,1139823450,laila.abdelrahman28@gmail.com,tanta,Memory Foam Pillow,1,650.0,cash,Pending
+ORD 10737,2026-02-25,Reem Fayez,00201161308842,reem.fayez71@gmail.com,El Mansoura,Bath Towel Pack (4),1,730.0,COD,Completed
+11083,2026-02-06,Youssef Abdelrahman,01012315507,youssef.abdelrahman96@outlook.com,El Giza,Wall Clock,2,360.0,Card,DELIVERED
+ord10698,2026-02-02,Laila Abdelrahman,1572287061,laila.abdelrahman62@yahoo.com,Alexandria,Bath Towel Pack (4),1,730.0,Card,DELIVERED
+ORD 11156,2026-02-18,MARINA EZZAT,+20 113-177-4346,marina.ezzat21@gmail.com,Mansoura,Non-stick Frying Pan 28cm,1,,mobile wallet,DELIVERED
+ORD 10935,2026-02-28,NADA FAWZY,011 9569 0391,,Alex,Wall Clock,1,410.0,Visa,Pending
+10484,2026-01-29,LAILA NAGUIB,+20 113-116-3805, LAILA.NAGUIB60@OUTLOOK.COM,Alexandria,Memory Foam Pillow,1,750.0,COD,delivered
+ORD 10260,2026-01-29,Karim Abdelrahman,+201226477373,karim.abdelrahman23@outlook.com,El Giza,Bath Towel Pack (4),4,780.0,COD,Returned
+ord10566,2026-01-29,Mariam Ezzat,015 2580 5259, MARIAM.EZZAT32@YAHOO.COM,Tanta,Storage Basket Set,2,365.0,COD,delivered
+ORD 10782,2026-02-09,AMR HASSAN,01032862209,amr.hassan61@outlook.com, CAIRO ,Storage Basket Set,1 pcs,365.0,Card,Completed
+ord11308,2026-02-17,yasmin samir,+201080115852,yasmin.samir61@yahoo.com,TANTA,Ceramic Dinner Set (24 pcs),-1,2300.0,Visa,cancelled
+ORD-11272,2026-02-09,  Habiba   Kamal ,+20 156-233-6371,habiba.kamal27@yahoo.com,tanta,Wall Clock,1,510.0,Visa,Cancelled
+ord10839,2026-02-07,Salma Soliman,00201195537400, SALMA.SOLIMAN91@OUTLOOK.COM,giza ,Non-stick Frying Pan 28cm,1,840.0,cash,delivered
+ORD-11000,2026-02-13,NOUR HANNA,+20 106-934-0535,nour.hanna25.gmail.com,Giza,Cotton Bed Sheet Set,1,1400.0,COD,DELIVERED
+ORD 11103,2026-02-06,Aya Ezzat,,aya.ezzat9@outlook.com,Mansoura,Shower Curtain,2,420.0,Vodafone Cash,Completed
+ORD-10495,2026-01-31,Omar Ramadan,+20 103-652-1025,omar.ramadan57@outlook.com,El Mansoura,Shower Curtain,1,320.0,cash,delivered
+11244,2026-02-04,rana shehata,+20 128-999-1136,rana.shehata96@outlook.com,TANTA,LED Desk Lamp,4,540.0,Credit Card,DELIVERED
+ORD 10764,2026-02-06,Marina Fayez,00201192692016,marina.fayez61@outlook.com,mansoura,Memory Foam Pillow,4 pcs,650.0,Wallet,Delivered
+ORD-11185,2026-02-17,Mina Naguib,1122978158,mina.naguib85@outlook.com,Tanta,Shower Curtain,2,320.0,cash,DELIVERED
+ord10653,2026-01-28,AMR SOLIMAN,+201121738837,amr.soliman42@outlook.com,GIZA,LED Desk Lamp,2,490.0,cash,In Progress
+ORD 11001,2026-02-12,Karim Zaki,+201285758349,karim.zaki65@outlook.com,giza ,Storage Basket Set,1,365.0,Visa,delivered
+ord11331,2026-02-05,Dina Kamal,+20 157-214-4402,dina.kamal86@gmail.com,giza ,Storage Basket Set,2 pcs,365.0,Visa,DELIVERED
+ord11240,2026-02-21,Reem Fayez,1161308842,reem.fayez71@gmail.com,El Mansoura,Shower Curtain,2,270.0,Credit Card,pending
+10216,2026-01-29,fatma hassan,00201565793759,fatma.hassan14@yahoo.com,ALEXANDRIA,Non-stick Frying Pan 28cm,2,890.0,cash,Completed
+ORD-10412,2026-01-28,AHMED RAMADAN,+20 153-684-0133,ahmed.ramadan2@outlook.com,Cairo,Bath Towel Pack (4),3,780.0,Cash on Delivery,DELIVERED
+ORD-10859,2026-02-03,DINA IBRAHIM,1052405812,dina.ibrahim61@gmail.com,Mansoura,Non-stick Frying Pan 28cm,1 pcs,990.0,Card,Delivered
+ORD 11149,2026-02-10,Amr Mansour,1172394227,amr.mansour68@gmail.com,tanta,Ceramic Dinner Set (24 pcs),4,2250.0,Card,Cancelled
+ORD-10729,2026-02-10,  Yasmin   Samir ,010 8011 5852,yasmin.samir61@yahoo.com,tanta,Ceramic Dinner Set (24 pcs),2,2250.0,cash,DELIVERED
+ord10841,2026-02-04,Laila Hassan,012 7435 9498,laila.hassan74@yahoo.com,Mansoura,Non-stick Frying Pan 28cm,1,890.0,Credit Card,pending
+ORD-10210,2026-01-29,yasmin shehata,+201077789079,yasmin.shehata47@outlook.com,El Giza,Shower Curtain,2,270.0,Vodafone Cash,Completed
+ORD 11128,2026-02-17,DINA ABDELRAHMAN,1509010480,dina.abdelrahman12@gmail.com, CAIRO ,Shower Curtain,1,270.0,COD,Cancelled
+11016,2026-02-15,Mariam Ezzat,+20 152-580-5259,mariam.ezzat32@yahoo.com,TANTA,Storage Basket Set,1,365.0,Vodafone Cash,DELIVERED
+10988,2026-02-13,Mariam Hanna,1091306093, MARIAM.HANNA93@GMAIL.COM,Tanta,Non-stick Frying Pan 28cm,1,840.0,cash,DELIVERED
+ORD-10758,2026-02-06,Mahmoud Soliman,+20 104-648-8123,mahmoud.soliman57@outlook.com,alexandria,Wall Clock,3 pcs,410.0,Cash on Delivery,Canceled
+ord11328,2026-02-05,KARIM FATHY,01291839693,karim.fathy77@gmail.com,TANTA,Electric Kettle 1.7L,1 pcs,1100.0,Cash on Delivery,Delivered
+ord11136,2026-02-17,Sherif Zaki,00201230532691, SHERIF.ZAKI96@GMAIL.COM,mansoura,Shower Curtain,2,320.0,Cash on Delivery,Delivered
+ORD 10339,2026-01-31,Hana Ali,N/A,hana.ali25@gmail.com,El Mansoura,LED Desk Lamp,1,540.0,cash,Completed
+11068,2026-02-27,Salma Ali,+201040049524,salma.ali73@outlook.com,Cairo,Electric Kettle 1.7L,3,1150.0,cash,Pending
+ord10872,2026-02-24,Sherif Mahmoud,N/A, SHERIF.MAHMOUD60@OUTLOOK.COM,Tanta,Cotton Bed Sheet Set,3,1450.0,Cash on Delivery,pending
+ORD 10889,2026-02-06,Mennatallah Gamal,010 2831 7637,mennatallah.gamal73@outlook.com,alexandria,Bath Towel Pack (4),2,780.0,Cash on Delivery,DELIVERED
+ORD-10508,2026-01-27,Reem Fawzy,+20 117-228-6705,reem.fawzy35@outlook.com,Alex,LED Desk Lamp,1,640.0,Visa,Completed
+11015,2026-02-24,Mahmoud Mansour,+201588787891,mahmoud.mansour48@gmail.com,tanta,Ceramic Dinner Set (24 pcs),1,2300.0,Cash on Delivery,Completed
+ord10154,2026-01-27,  Reem   Soliman ,00201014428014,reem.soliman56@gmail.com,Alex,Electric Kettle 1.7L,1,1150.0,Card,DELIVERED
+11352,2026-02-05,tarek ramadan,00201086707983,tarek.ramadan86@yahoo.com,TANTA,Bath Towel Pack (4),3,780.0,Vodafone Cash,DELIVERED
+10923,2026-02-15,YOUSSEF HANNA,1167898694,youssef.hanna34@gmail.com,alexandria,Storage Basket Set,2,465.0,Wallet,DELIVERED
+ORD 10071,2026-01-30,OMAR HASSAN,011 4045 5821,omar.hassan28@gmail.com,Alexandria,Wall Clock,1,410.0,Credit Card,Completed
+ORD-11042,2026-02-20,marina soliman,,marina.soliman3@yahoo.com,giza ,Bath Towel Pack (4),1,780.0,Credit Card,Pending
+ORD-10880,2026-02-13,Dina Ibrahim,+201501868130,dina.ibrahim34@outlook.com,Cairo City,Non-stick Frying Pan 28cm,1,890.0,Visa,Delivered
+11241,2026-02-03,  Khaled   Zaki ,+20 110-704-5237,khaled.zaki13@yahoo.com,ALEXANDRIA,Memory Foam Pillow,1 pcs,650.0,Visa,delivered
+ORD 11255,2026-02-06,marina ezzat,00201170138498,marina.ezzat49@yahoo.com,mansoura,Bath Towel Pack (4),2,780.0,COD,Completed
+ord10877,2026-02-10,Marina Kamal,010 1682 1075,marina.kamal41@outlook.com, CAIRO ,Storage Basket Set,1,365.0,cash,Cancelled
+ord11134,2026-02-21,Aya Saeed,+201571555103,aya.saeed44@outlook.com,Alexandria,Storage Basket Set,1 pcs,315.0,Cash on Delivery,Delivered
+ORD 10887,2026-02-13,NOUR GIRGIS,01558755000,nour.girgis11@outlook.com, CAIRO ,Bath Towel Pack (4),1,730.0,COD,Completed
+10781,2026-02-07,  Kirollos   Fayez ,,kirollos.fayez24@outlook.com,Mansoura,LED Desk Lamp,2,540.0,Credit Card,delivered
+11356,2026-02-13,Laila Fawzy,12345,,alexandria,LED Desk Lamp,2 pcs,540.0,Vodafone Cash,DELIVERED
+ORD-11334,2026-02-15,Marina Gamal,+201092647902,marina.gamal48@gmail.com,El Mansoura,Bath Towel Pack (4),1 pcs,780.0,COD,In Progress
+ORD-11080,2026-02-21,Kerollos Ezzat,1557405358,kirollos.ezzat66@yahoo.com,cairo,LED Desk Lamp,3,540.0,Visa,Delivered
+ord10687,2026-02-03,Aya Shehata,+20 155-934-5683,,tanta,Storage Basket Set,1,365.0,Cash on Delivery,In Progress
+ord10826,2026-02-07,Mahmoud Ezzat,+201056267415,mahmoud.ezzat85@outlook.com,tanta,Wall Clock,1,410.0,Cash on Delivery,DELIVERED
+10807,2026-02-18,Reem Soliman,01014428014,reem.soliman56@gmail.com,Alexandria,Memory Foam Pillow,1,650.0,COD,delivered
+ORD 10003,2026-01-28,Fady Ali,01105624520,fady.ali41@yahoo.com,TANTA,Bath Towel Pack (4),1,780.0,COD,DELIVERED
+10156,2026-01-31,Youssef Abdelrahman,010 1231 5507, YOUSSEF.ABDELRAHMAN96@OUTLOOK.COM,giza ,Cotton Bed Sheet Set,3,1550.0,Cash on Delivery,DELIVERED
+ORD 10258,2026-01-28,Nour Zaki,1214972279,nour.zaki38@yahoo.com,El Giza,Ceramic Dinner Set (24 pcs),3,2300.0,Cash on Delivery,Cancelled
+ORD-10857,2026-02-23,  Aya   Ezzat ,00201186926431,aya.ezzat9@outlook.com,mansoura,LED Desk Lamp,3 pcs,540.0,Wallet,Completed
+ORD-11055,2026-02-22,fady adel,+201237393469,fady.adel9.yahoo.com,Alex,LED Desk Lamp,2,640.0,Cash on Delivery,Completed
+ord10734,2026-02-05,Nada Abdelrahman,+20 117-129-1936,nada.abdelrahman53@outlook.com,GIZA,Shower Curtain,2,320.0,Card,Completed
+ORD-10691,2026-02-10,Mennatallah Girgis,+20 123-164-5597, MENNATALLAH.GIRGIS50@GMAIL.COM,Alexandria,Storage Basket Set,1,365.0,Card,delivered
+11094,2026-02-13,KHALED ZAKI,00201107045237, KHALED.ZAKI13@YAHOO.COM,ALEXANDRIA,Electric Kettle 1.7L,3,1150.0,Wallet,DELIVERED
+ORD 11232,2026-02-20,REEM SAMIR,+201188429450,reem.samir11@yahoo.com,tanta,Storage Basket Set,1,365.0,Vodafone Cash,DELIVERED
+ORD 11038,2026-02-03,KARIM FAYEZ,+20 150-986-3756,karim.fayez11@yahoo.com,Tanta,Electric Kettle 1.7L,1,1100.0,Card,Completed
+ORD-10922,2026-02-27,MUSTAFA SOLIMAN,+201255767881,mostafa.soliman23@gmail.com,El Giza,Cotton Bed Sheet Set,1,1450.0,Card,pending
+10388,2026-01-28,  Laila   Zaki ,00201506927215,laila.zaki27@yahoo.com,TANTA,Storage Basket Set,1,465.0,COD,Delivered
+ORD 10893,2026-02-01,mennatallah hanna,+201061045700,mennatallah.hanna12@yahoo.com,Alex,Non-stick Frying Pan 28cm,1,990.0,cash,Completed
+11099,2026-02-25,Sara Kamal,01025176902,sara.kamal67@yahoo.com,Tanta,Bath Towel Pack (4),1,780.0,COD,Delivered
+ord10895,2026-02-07,Mohamed Soliman,+201228210242,mohamed.soliman56@outlook.com,Tanta,Wall Clock,1,410.0,Cash on Delivery,Cancelled
+ORD 11202,2026-02-03,Kerollos Abdelrahman,00201567493234,kirollos.abdelrahman8@gmail.com,Tanta,Electric Kettle 1.7L,1,1250.0,Cash on Delivery,pending
+10726,2026-02-16,DINA IBRAHIM,+20 105-240-5812,dina.ibrahim61@gmail.com,El Mansoura,Shower Curtain,1,320.0,cash,delivered
+ord10906,2026-02-27,sherif fawzy,+201206530784,sherif.fawzy7@yahoo.com,mansoura,Shower Curtain,1,320.0,Credit Card,Cancelled
+10899,2026-02-19,fady fawzy,+201518814949, FADY.FAWZY55@GMAIL.COM,Alexandria,Wall Clock,1,410.0,Visa,DELIVERED
+11223,2026-02-16,NOUR HANNA,,nour.hanna25@gmail.com,giza ,Storage Basket Set,2,365.0,COD,Delivered
+ord11360,2026-02-04,Khaled Fayez,011 3663 2757,khaled.fayez56@yahoo.com, CAIRO ,Non-stick Frying Pan 28cm,2 pcs,890.0,COD,DELIVERED
+ORD 11169,2026-02-07,Rana Ramadan,1182613013,rana.ramadan73@yahoo.com,El Mansoura,Memory Foam Pillow,1,750.0,Credit Card,Returned
+ORD 11175,2026-02-03,Aya Ezzat,00201221810655,aya.ezzat51@outlook.com,Alexandria,Bath Towel Pack (4),1,780.0,mobile wallet,In Progress
+ord10827,2026-02-06,MENNATALLAH NASR,011 8805 4615,mennatallah.nasr89@gmail.com,cairo,Memory Foam Pillow,2,650.0,cash,pending
+ORD-11370,2026-02-02,Sherif Fawzy,+201206530784,sherif.fawzy7@yahoo.com,mansoura,Non-stick Frying Pan 28cm,1,840.0,Vodafone Cash,DELIVERED
+ord10983,2026-02-24,Nada Naguib,01570325062,nada.naguib11@yahoo.com,alexandria,Storage Basket Set,1,365.0,COD,DELIVERED
+ord11161,2026-02-11,  Mennatallah   Hanna ,00201061045700,mennatallah.hanna12@yahoo.com,ALEXANDRIA,Non-stick Frying Pan 28cm,1,890.0,Cash on Delivery,Delivered
+ORD-10199,2026-01-31,Habiba Ali,012 8252 3968,habiba.ali56@yahoo.com,cairo,Shower Curtain,2,320.0,cash,Delivered
+ORD-10696,2026-02-28,Nada Samir,+201281029073,nada.samir33.gmail.com,cairo,Cotton Bed Sheet Set,1,1400.0,Cash on Delivery,Delivered
+ORD 10753,2026-02-24,amr kamal,+201110043277,amr.kamal61@yahoo.com,alexandria,Ceramic Dinner Set (24 pcs),2,2300.0,Visa,Completed
+ORD 10918,2026-02-07,Dina Girgis,N/A,dina.girgis33@yahoo.com,Alexandria,Shower Curtain,1 pcs,420.0,mobile wallet,Canceled
+ord10298,2026-01-27,Nour Samir,1213492385,nour.samir25@yahoo.com,El Giza,LED Desk Lamp,3,540.0,cash,Completed
+10959,2026-02-08,  Laila   Ibrahim ,+20 154-670-2542,laila.ibrahim53@yahoo.com,ALEXANDRIA,LED Desk Lamp,2,540.0,COD,returned
+ORD-11021,2026-02-07,Nada Nasr,011 9340 3697,nada.nasr67@yahoo.com,Cairo,LED Desk Lamp,3,490.0,cash,Completed
+ord10203,2026-01-27,Fady Hassan,00201542103092,,Mansoura,Non-stick Frying Pan 28cm,1,990.0,Vodafone Cash,DELIVERED
+10785,2026-02-14,Nour Farouk,011 1163 1697,,Giza,Ceramic Dinner Set (24 pcs),2,2300.0,Cash on Delivery,Completed
+ord10702,2026-02-04,  Yasmin   Ramadan ,+20 126-351-9947,yasmin.ramadan71@outlook.com,Alexandria,Ceramic Dinner Set (24 pcs),1,2300.0,Card,cancelled
+ord11249,2026-02-21,  Fatma   Ramadan ,00201055137801,fatma.ramadan46@outlook.com,El Mansoura,Storage Basket Set,2 pcs,465.0,Vodafone Cash,delivered
+ord10747,2026-02-11,Sara Kamal,01025176902,sara.kamal67@yahoo.com,tanta,Storage Basket Set,1,465.0,Cash on Delivery,Completed
+ORD 10192,2026-01-27,mostafa nasr,015 4692 0514,mostafa.nasr4@yahoo.com,Cairo,Wall Clock,1,410.0,Cash on Delivery,delivered
+ord10732,2026-02-13,Rana Shehata,+20 106-036-2235,rana.shehata74@outlook.com,Giza,Memory Foam Pillow,1,650.0,cash,DELIVERED
+10865,2026-02-22,Rana Ramadan,+20 118-261-3013,rana.ramadan73@yahoo.com,El Mansoura,Storage Basket Set,2,465.0,cash,Delivered
+ORD-10766,2026-02-09,Reem Samir,01188429450,reem.samir11@yahoo.com,TANTA,Non-stick Frying Pan 28cm,1,890.0,COD,cancelled
+ORD 10964,2026-02-13,Fatma Naguib,1003808225,fatma.naguib11@gmail.com,TANTA,Shower Curtain,2,270.0,cash,delivered
+11145,2026-02-24,karim girgis,+20 108-884-2638,karim.girgis44@outlook.com,El Giza,Electric Kettle 1.7L,4,1150.0,cash,delivered
+ORD-10743,2026-02-04,mostafa saeed,012 6030 6604,mostafa.saeed66@gmail.com,Mansoura,Storage Basket Set,1,365.0,Cash on Delivery,DELIVERED
+11032,2026-02-27,Aya Shehata,+201559345683,aya.shehata87@gmail.com,tanta,Bath Towel Pack (4),1,780.0,COD,In Progress
+ord10851,2026-02-26,Dina Kamal,+20 157-214-4402,dina.kamal86@gmail.com,GIZA,Wall Clock,1,360.0,Card,DELIVERED
+10717,2026-02-25,Mina Saeed,010 8180 4602, MINA.SAEED49@OUTLOOK.COM,El Giza,Memory Foam Pillow,1,600.0,COD,Delivered
+10914,2026-02-07,Yasmine Fathy,00201085726382,yasmin.fathy38@yahoo.com,Tanta,Electric Kettle 1.7L,1,1250.0,Credit Card,delivered
+ORD 11018,2026-02-27,Yasmin Fayez,01149370777,yasmin.fayez87@outlook.com,mansoura,Ceramic Dinner Set (24 pcs),1,2300.0,Cash on Delivery,Delivered
+11235,2026-02-14,TAREK GIRGIS,01253423225,tarek.girgis41@outlook.com,Alexandria,Non-stick Frying Pan 28cm,2,990.0,COD,delivered
+ORD-11289,2026-02-19,omar zaki,1208846539,omar.zaki43@gmail.com,tanta,Ceramic Dinner Set (24 pcs),1,2300.0,Credit Card,returned
+ord10332,2026-01-28,Rana Ramadan,1182613013, RANA.RAMADAN73@YAHOO.COM,El Mansoura,Electric Kettle 1.7L,3,1150.0,mobile wallet,Delivered
+ORD-11211,2026-02-08,Sara Naguib,+20 154-515-0390, SARA.NAGUIB4@YAHOO.COM,Alex,Shower Curtain,4,420.0,cash,delivered
+ORD 11012,2026-02-06,Habiba Ramadan,1284183695, HABIBA.RAMADAN41@GMAIL.COM,mansoura,Bath Towel Pack (4),2,730.0,cash,Refunded
+ORD 11171,2026-02-04,hana fawzy,01294196727,hana.fawzy88@outlook.com,Cairo,Wall Clock,2,360.0,COD,Delivered
+ORD-11198,2026-02-16,Mina Saeed,1081804602,mina.saeed49@outlook.com,El Giza,LED Desk Lamp,2,540.0,COD,Canceled
+ORD-10395,2026-01-27,tarek gamal,010 1436 6125, TAREK.GAMAL96@OUTLOOK.COM,giza ,Non-stick Frying Pan 28cm,2,890.0,Vodafone Cash,Delivered
+ord10917,2026-02-24,Hassan Samir,00201125708194,hassan.samir28@outlook.com,mansoura,Cotton Bed Sheet Set,1,1450.0,cash,delivered
+ord10868,2026-02-15,MARYAM SHEHATA,+20 125-677-5103,mariam.shehata90@outlook.com,tanta,Non-stick Frying Pan 28cm,1,990.0,Card,DELIVERED
+ORD 11119,2026-02-20,Dina Hanna,01095482622,dina.hanna67@gmail.com,Alexandria,LED Desk Lamp,1,490.0,Cash on Delivery,Completed
+ord10725,2026-02-19,sara kamal,010 2517 6902,sara.kamal67@yahoo.com,TANTA,Storage Basket Set,2,365.0,Credit Card,Completed
+ord11027,2026-02-23,Mina Samir,+20 158-701-1385,mina.samir33@outlook.com,GIZA,Cotton Bed Sheet Set,2,1450.0,Vodafone Cash,Completed
+ORD-10295,2026-01-28,Hassan Samir,+201125708194, HASSAN.SAMIR28@OUTLOOK.COM,Mansoura,Wall Clock,2,510.0,COD,Completed
+ORD 10939,2026-02-23,  Nour   Ali ,010 7427 0583,nour.ali38@outlook.com,El Giza,Non-stick Frying Pan 28cm,1,890.0,Card,delivered
+ord11231,2026-02-27,  Mostafa   Adel ,010 4818 1396,mostafa.adel45@outlook.com,Alex,Shower Curtain,1,420.0,Credit Card,Delivered
+ORD-10381,2026-01-26,laila naguib,00201131163805,laila.naguib60@outlook.com,Alex,Non-stick Frying Pan 28cm,0,890.0,Cash on Delivery,DELIVERED
+ORD-10222,2026-01-28,  Dina   Kamal ,1572144402,,Giza,Cotton Bed Sheet Set,1,1450.0,Credit Card,DELIVERED
+11053,2026-02-08,KARIM FAWZY,011 3552 0201,karim.fawzy85@gmail.com,Giza,Wall Clock,1,360.0,mobile wallet,Completed
+ORD 11164,2026-02-06,Fatma Ramadan,+201055137801,fatma.ramadan46@outlook.com,mansoura,Ceramic Dinner Set (24 pcs),2 pcs,2300.0,Cash on Delivery,DELIVERED
+ORD 11172,2026-02-05,Hassan Hassan,+20 123-286-8828,hassan.hassan29@gmail.com,Cairo,Shower Curtain,3,270.0,cash,Delivered
+ORD 11188,2026-02-14,Karim Fawzy,00201135520201,karim.fawzy85@gmail.com,giza ,Wall Clock,1 pcs,410.0,cash,Completed
+ord11341,2026-02-24,Khaled Hassan,012 1329 8711,khaled.hassan92@outlook.com,Alexandria,Wall Clock,1,410.0,Cash on Delivery,delivered
+10829,2026-02-01,nour soliman,+201196316277,nour.soliman44@gmail.com,ALEXANDRIA,Bath Towel Pack (4),2,780.0,Card,In Progress
+ORD-11312,2026-02-01,Mostafa Saeed,00201260306604,mostafa.saeed66@gmail.com,Mansoura,Storage Basket Set,3,365.0,Credit Card,DELIVERED
+ORD-11296,2026-02-04,Nada Ezzat,00201051700055,nada.ezzat74@gmail.com,alexandria,Wall Clock,1,410.0,COD,Delivered
+11344,2026-02-15,Nada Mahmoud,+201217463800,nada.mahmoud72@gmail.com,TANTA,Wall Clock,1 pcs,360.0,cash,Delivered
+ORD-10500,2026-01-30,Aya Mahmoud,1569067939,aya.mahmoud1@outlook.com,Tanta,Cotton Bed Sheet Set,4,1450.0,Vodafone Cash,Delivered
+ORD-10542,2026-01-29,amro hanna,+201514923247,amr.hanna37@gmail.com,Alexandria,LED Desk Lamp,1,540.0,Credit Card,delivered
+ORD 11327,2026-02-26,Hassan Ali,+201156348030,hassan.ali82@outlook.com,mansoura,Electric Kettle 1.7L,2 pcs,1250.0,Cash on Delivery,delivered
+ORD 10883,2026-02-17,Amr Nasr,+201163560289,amr.nasr86@gmail.com,Tanta,Storage Basket Set,2,465.0,COD,Returned
+ORD-11242,2026-02-18,Tarek Gamal,01014366125,tarek.gamal96@outlook.com,Giza,Storage Basket Set,2,465.0,Cash on Delivery,DELIVERED
+ORD 11077,2026-02-04,Yasmin Naguib,1540987442,yasmin.naguib73@outlook.com,Cairo City,Cotton Bed Sheet Set,1,1450.0,Wallet,Completed
+ORD 10654,2026-01-28,Youssef Abdelrahman,+201012315507, YOUSSEF.ABDELRAHMAN96@OUTLOOK.COM,giza ,Ceramic Dinner Set (24 pcs),1,2300.0,Credit Card,Delivered
+11187,2026-02-12,Mostafa Ramadan,01186128115, MOSTAFA.RAMADAN82@OUTLOOK.COM,Al Qahirah,Cotton Bed Sheet Set,2,1450.0,cash,Completed
+11184,2026-02-16,Aya Mahmoud,1044012664,aya.mahmoud85@yahoo.com,ALEXANDRIA,Wall Clock,1,410.0,Credit Card,DELIVERED
+ord10981,2026-02-16,OMAR ZAKI,012 0884 6539,omar.zaki43@gmail.com,tanta,Storage Basket Set,1,315.0,COD,DELIVERED
+ord11034,2026-02-17,LAILA GIRGIS,+20 120-609-5815,laila.girgis29@yahoo.com,Tanta,Shower Curtain,2,320.0,cash,Completed
+ord11183,2026-02-05,Reem Fayez,1138553376,reem.fayez42@yahoo.com, CAIRO ,Bath Towel Pack (4),3,780.0,cash,Completed
+10848,2026-02-08,karim girgis,+201088842638,karim.girgis44@outlook.com,El Giza,Cotton Bed Sheet Set,1,1550.0,COD,DELIVERED
+ord10825,2026-02-07,Yasmine Fayez,1149370777,yasmin.fayez87@outlook.com,Mansoura,Cotton Bed Sheet Set,2,1450.0,Visa,Delivered
+11303,2026-02-20,Tarek Soliman,+201593717532,tarek.soliman63@gmail.com,Al Qahirah,Ceramic Dinner Set (24 pcs),1,2300.0,Cash on Delivery,Completed
+ord10879,2026-02-28,AHMED RAMADAN,01536840133, AHMED.RAMADAN2@OUTLOOK.COM,Al Qahirah,Ceramic Dinner Set (24 pcs),1,2400.0,COD,Delivered
+ORD 10557,2026-01-26,  Ahmad   Ramadan ,015 3684 0133,ahmed.ramadan2@outlook.com,cairo,Bath Towel Pack (4),1 pcs,730.0,Cash on Delivery,Completed
+ord11048,2026-02-22,Youssef Fayez,01584743076,youssef.fayez39@yahoo.com,Tanta,Bath Towel Pack (4),1,780.0,Credit Card,delivered
+ORD 10990,2026-02-05,LAILA FAWZY,+20 111-846-3709,laila.fawzy20@gmail.com,Alexandria,LED Desk Lamp,2,540.0,Cash on Delivery,Completed
+ORD 10804,2026-02-15,Salma Ali,+20 104-004-9524,salma.ali73@outlook.com,cairo,Memory Foam Pillow,1,650.0,cash,delivered
+ord11345,2026-02-27,Youssef Adel,01509943140,youssef.adel74@outlook.com,cairo,Ceramic Dinner Set (24 pcs),2,2400.0,Card,Delivered
+10944,2026-02-27,  Kirollos   Fayez ,+20 153-733-3543,kirollos.fayez24@outlook.com,El Mansoura,Ceramic Dinner Set (24 pcs),3,2250.0,Cash on Delivery,Cancelled
+ord10993,2026-02-07,Habiba Ramadan,00201284183695,habiba.ramadan41@gmail.com,El Mansoura,Wall Clock,2,510.0,Credit Card,Delivered
+11004,2026-02-28,MOHAMED SAMIR,1239597485,mohamed.samir73@outlook.com,GIZA,Bath Towel Pack (4),1,780.0,mobile wallet,Delivered
+10786,2026-02-14,Reem Samir,011 8842 9450,reem.samir11@yahoo.com,Tanta,Ceramic Dinner Set (24 pcs),1,2300.0,COD,delivered
+ORD-11237,2026-02-17,fady adel,,fady.adel9@yahoo.com,ALEXANDRIA,Electric Kettle 1.7L,2,1150.0,cash,Delivered
+11276,2026-02-08,Laila Hassan,00201274359498,laila.hassan74@yahoo.com,Mansoura,Bath Towel Pack (4),1,780.0,COD,DELIVERED
+11019,2026-02-20,Youssef Ramadan,+201548762794,youssef.ramadan66@outlook.com,El Giza,Electric Kettle 1.7L,1 pcs,1150.0,COD,Completed
+ord11142,2026-02-12,Amr Abdelrahman,+201211432787,amr.abdelrahman32@gmail.com,tanta,Storage Basket Set,2,365.0,Cash on Delivery,delivered
+ORD 10713,2026-02-19,Karim Ali,1597739173,karim.ali44@gmail.com,GIZA,Wall Clock,1,510.0,Cash on Delivery,Delivered
+ORD 10824,2026-02-01,Ibrahim Shehata,1249512272,ibrahim.shehata22@outlook.com,tanta,Ceramic Dinner Set (24 pcs),1,2250.0,COD,Completed
+ORD 11190,2026-02-03,habiba ali,+201548895439, HABIBA.ALI87@OUTLOOK.COM,giza ,Storage Basket Set,2,365.0,Cash on Delivery,Completed
+ord10898,2026-02-12,Ibrahim Hanna,012 8888 2576,,El Mansoura,Shower Curtain,1,420.0,cash,Delivered
+ORD 10953,2026-02-23,Khaled Hassan,1213298711,khaled.hassan92@outlook.com,Alex,LED Desk Lamp,1,640.0,mobile wallet,DELIVERED
+10138,2026-01-30,  Amr   Hassan ,01032862209,amr.hassan61@outlook.com,Cairo,Shower Curtain,1,270.0,mobile wallet,Delivered
+ORD-11043,2026-02-22,Dina Mahmoud,1277054398,dina.mahmoud29@yahoo.com,Tanta,Bath Towel Pack (4),1,730.0,Vodafone Cash,In Progress
+ORD 10765,2026-02-16,Habiba Ezzat,00201522366682,habiba.ezzat89@yahoo.com,ALEXANDRIA,Cotton Bed Sheet Set,1,1400.0,cash,DELIVERED
+ORD-10685,2026-01-28,Laila Hassan,+201274359498,laila.hassan74@yahoo.com,mansoura,LED Desk Lamp,1,540.0,Cash on Delivery,delivered
+ORD 11319,2026-02-07,Aya Gamal,+201189889098,aya.gamal92@yahoo.com,GIZA,Bath Towel Pack (4),1,780.0,Wallet,delivered
+11011,2026-02-22,SARA IBRAHIM,01135507920,sara.ibrahim81.outlook.com,giza ,Cotton Bed Sheet Set,2,1450.0,COD,Completed
+ORD 11174,2026-02-16,  Marina   Farouk ,+20 155-580-4273,marina.farouk8@gmail.com,mansoura,Memory Foam Pillow,4,650.0,Vodafone Cash,Completed
+ORD-11214,2026-02-19,Ibrahim Naguib,1131272553,ibrahim.naguib43@gmail.com,Tanta,Electric Kettle 1.7L,1,1100.0,Credit Card,Delivered
+ORD-11091,2026-02-20,YOUSSEF RAMADAN,+201548762794,youssef.ramadan66@outlook.com,El Giza,Bath Towel Pack (4),1 pcs,730.0,COD,Completed
+ORD-11349,2026-02-13,NADA SHEHATA,+201155541117,nada.shehata44@yahoo.com,mansoura,Electric Kettle 1.7L,2,1100.0,Credit Card,Delivered
+10878,2026-02-05,  Aya   Adel ,01274411983,aya.adel17@gmail.com,Mansoura,Storage Basket Set,1,365.0,Visa,Completed
+ORD-10221,2026-01-28,Yasmin Gamal,00201116194158,yasmin.gamal93@gmail.com,Alex,Non-stick Frying Pan 28cm,2,890.0,Cash on Delivery,DELIVERED
+ord10285,2026-01-29,Mariam Shehata,+201226738452,mariam.shehata50@yahoo.com,cairo,Storage Basket Set,1,365.0,Credit Card,delivered
+ORD 11196,2026-02-09,Aya Ibrahim,1061510041,aya.ibrahim80@outlook.com, CAIRO ,Ceramic Dinner Set (24 pcs),1,2300.0,COD,Delivered
+ORD 10858,2026-02-02,Youssef Ramadan,1548762794,youssef.ramadan66@outlook.com,Giza,Memory Foam Pillow,1 pcs,650.0,Cash on Delivery,delivered
+ORD 10707,2026-02-23,Dina Saeed,012 0189 8961,dina.saeed91@outlook.com,Giza,Ceramic Dinner Set (24 pcs),1,2300.0,Cash on Delivery,DELIVERED
+ord10861,2026-02-17,AMRO HANNA,1049555330,amr.hanna75@outlook.com,giza ,Shower Curtain,2,320.0,Cash on Delivery,delivered
+10900,2026-02-09,Nada Naguib,+20 157-032-5062,nada.naguib11@yahoo.com,Alexandria,Wall Clock,1,510.0,COD,Pending
+ORD-10378,2026-01-27,Nour Abdelrahman,+20 128-246-7167,nour.abdelrahman69@gmail.com,Tanta,Wall Clock,1 pcs,410.0,Card,pending
+11357,2026-02-09,nada ezzat,1051700055,nada.ezzat74@gmail.com,alexandria,Wall Clock,2,510.0,COD,pending
+10907,2026-02-04,rana soliman,+20 129-713-7886,rana.soliman85.outlook.com,El Giza,Cotton Bed Sheet Set,1,1450.0,COD,Completed
+ord11025,2026-02-17,Mostafa Saeed,+201260306604,mostafa.saeed66@gmail.com,El Mansoura,Bath Towel Pack (4),2 pcs,780.0,Visa,Completed
+ORD-10689,2026-02-14,Khaled Fayez,011 3663 2757,khaled.fayez56@yahoo.com, CAIRO ,Electric Kettle 1.7L,1,,COD,Delivered
+ORD-11265,2026-02-04,Yasmin Ramadan,+201263519947,yasmin.ramadan71@outlook.com,alexandria,Bath Towel Pack (4),1,780.0,Visa,delivered
+10528,2026-01-26,SARA SAEED,1034917589,sara.saeed49@yahoo.com,giza ,LED Desk Lamp,3,540.0,mobile wallet,Delivered
+ORD-11118,2026-02-13,Yasmin Ramadan,01263519947,yasmin.ramadan71@outlook.com,Alex,Storage Basket Set,3,465.0,cash,cancelled
+ord10741,2026-02-02,Omar Zaki,00201208846539,omar.zaki43@gmail.com,TANTA,Bath Towel Pack (4),2,780.0,Vodafone Cash,Delivered
+ord11332,2026-02-10,Sherif Adel,+201076460539,sherif.adel32@outlook.com,TANTA,Electric Kettle 1.7L,1,1150.0,COD,delivered
+ORD-10919,2026-02-23,Kirollos Abdelrahman,+201571481992,kirollos.abdelrahman91@gmail.com,Tanta,Non-stick Frying Pan 28cm,4,890.0,cash,Delivered
+10171,2026-01-30,DINA GIRGIS,+201042831009,dina.girgis31.yahoo.com,Al Qahirah,Bath Towel Pack (4),1 pcs,780.0,Card,DELIVERED
+ORD-10815,2026-02-05,  Amro   Kamal ,1110043277,amr.kamal61@yahoo.com,alexandria,Ceramic Dinner Set (24 pcs),2 pcs,2400.0,Card,Delivered
+ORD-10810,2026-02-05,HANA ALI,+201537028180,hana.ali25@gmail.com,El Mansoura,Storage Basket Set,2,365.0,Cash on Delivery,DELIVERED
+ord10981,2026-02-16,OMAR ZAKI,012 0884 6539,omar.zaki43@gmail.com,tanta,Storage Basket Set,1,315.0,COD,DELIVERED
+10692,2026-02-09,  Amr   Kamal ,+20 111-004-3277,amr.kamal61@yahoo.com,alexandria,Ceramic Dinner Set (24 pcs),4,2300.0,Card,Delivered
+10270,2026-01-28,Nour Farouk,+201272498004,nour.farouk11@gmail.com,giza ,LED Desk Lamp,1,540.0,cash,Delivered
+ORD-10385,2026-01-27,Sara Ibrahim,1135507920,sara.ibrahim81@outlook.com,El Giza,Non-stick Frying Pan 28cm,2,890.0,COD,delivered
+ORD 11221,2026-02-21,Habiba Ezzat,01522366682,habiba.ezzat89@yahoo.com,Alex,LED Desk Lamp,3,540.0,COD,Completed
+ord11052,2026-02-28,TAREK RAMADAN,1086707983,tarek.ramadan86@yahoo.com,TANTA,Wall Clock,1 pcs,410.0,Cash on Delivery,Pending
+ORD 10095,2026-01-27,Mohamed Gamal,011 1744 7248,mohamed.gamal70@yahoo.com,giza ,Wall Clock,1,360.0,COD,Completed
+ORD 11121,2026-02-16,Mahmoud Mansour,+201588787891,mahmoud.mansour48@gmail.com,Tanta,Shower Curtain,1,420.0,COD,Refunded
+ORD 10358,2026-01-26,  Aya   Adel ,1260896652,aya.adel65@outlook.com,Mansoura,LED Desk Lamp,1,640.0,cash,delivered
+ORD 11326,2026-02-10,Khaled Girgis,+20 107-532-9037,khaled.girgis26@outlook.com,tanta,LED Desk Lamp,1,490.0,COD,delivered
+10862,2026-02-02,Reem Mahmoud,+201100695441, REEM.MAHMOUD71@GMAIL.COM,El Mansoura,Memory Foam Pillow,3,650.0,Visa,Delivered
+10731,2026-02-26,AHMED ABDELRAHMAN,01504670638,ahmed.abdelrahman17@gmail.com,El Giza,Bath Towel Pack (4),1,730.0,Vodafone Cash,In Progress
+11258,2026-02-05,Laila Fathy,01268299645,laila.fathy91@yahoo.com,El Mansoura,Memory Foam Pillow,1,650.0,COD,delivered
+ORD 10174,2026-01-30,REEM GIRGIS,015 1999 0477,reem.girgis78@outlook.com,Giza,Bath Towel Pack (4),1,780.0,COD,DELIVERED
+ORD-10802,2026-02-25,Reem Shehata,+20 101-063-3503,,El Giza,Non-stick Frying Pan 28cm,2,890.0,Credit Card,Completed
+ORD-10832,2026-02-14,Mina Naguib,1122978158,mina.naguib85@outlook.com,Tanta,Cotton Bed Sheet Set,1 pcs,1400.0,Card,Delivered
+ORD 10457,2026-01-30,  Salma   Shehata ,+201062907576,salma.shehata89@yahoo.com,Mansoura,Wall Clock,1,410.0,cash,delivered
+ORD 11282,2026-02-03,Dina Hassan,01241455302,,alexandria,Cotton Bed Sheet Set,1,1450.0,cash,delivered
+ORD 10510,2026-01-29,KARIM FAROUK,1067719420,karim.farouk83.gmail.com,cairo,Non-stick Frying Pan 28cm,1,890.0,mobile wallet,DELIVERED
+ORD 11371,2026-02-13,Hana Ali,01537028180,hana.ali25@gmail.com,El Mansoura,Electric Kettle 1.7L,1,1150.0,cash,Pending
+ORD 10784,2026-02-23,Nour Ezzat,015 6239 4301,nour.ezzat56@outlook.com,tanta,Non-stick Frying Pan 28cm,1 pcs,890.0,COD,Delivered
+ORD 10485,2026-01-31,Mina Mansour,00201237969333,mina.mansour50@yahoo.com,ALEXANDRIA,Wall Clock,1,360.0,mobile wallet,delivered
+10752,2026-02-24,Rana Abdelrahman,00201104237322, RANA.ABDELRAHMAN74@OUTLOOK.COM,Al Qahirah,Storage Basket Set,1,365.0,COD,Completed
+ORD 11079,2026-02-21,Reem Fayez,+201138553376,reem.fayez42@yahoo.com,Cairo City,Electric Kettle 1.7L,1,1100.0,Cash on Delivery,delivered
+ORD 11024,2026-02-13,Marina Kamal,+20 101-682-1075, MARINA.KAMAL41@OUTLOOK.COM,cairo,Memory Foam Pillow,1,,Visa,Pending
+ord11325,2026-02-01,Karim Farouk,00201067719420,karim.farouk83@gmail.com,Cairo,Electric Kettle 1.7L,1,1150.0,COD,cancelled
+ord10992,2026-02-22,SARA KAMAL,1025176902,sara.kamal67@yahoo.com,tanta,Cotton Bed Sheet Set,1,1450.0,Card,Delivered
+ord10905,2026-02-18,Maryam Abdelrahman,00201199990728,mariam.abdelrahman72@outlook.com,Alex,Memory Foam Pillow,3,650.0,cash,Delivered
+11277,2026-02-18,Sherif Fathy,011 4170 8177,sherif.fathy71@gmail.com,TANTA,Memory Foam Pillow,2,600.0,Credit Card,delivered
+ord10920,2026-02-21,Rana Abdelrahman,+20 110-423-7322,rana.abdelrahman74@outlook.com,Cairo City,Memory Foam Pillow,1,650.0,cash,Completed
+ord11274,2026-02-12,SHERIF SAEED,+201021009452,sherif.saeed1@yahoo.com,El Mansoura,Ceramic Dinner Set (24 pcs),1,2300.0,Card,delivered
+ORD-11143,2026-02-05,Ibrahim Kamal,00201598762406, IBRAHIM.KAMAL94@GMAIL.COM,Giza,Memory Foam Pillow,2,600.0,Vodafone Cash,Completed
+ORD 10212,2026-01-28,Dina Saeed,00201201898961,dina.saeed91@outlook.com,El Giza,Memory Foam Pillow,1,650.0,COD,Delivered
+10279,2026-01-27,  Aya   Naguib ,1007061037,aya.naguib20@gmail.com,tanta,Ceramic Dinner Set (24 pcs),1,2400.0,COD,Completed
+ORD 10884,2026-02-06,Rana Gamal,00201585320121,rana.gamal47@gmail.com,Alexandria,Wall Clock,1,410.0,Visa,Delivered
+10093,2026-01-26,nada samir,1247219209,nada.samir90@yahoo.com,alexandria,Cotton Bed Sheet Set,1,1450.0,Cash on Delivery,Completed
+ord11026,2026-02-24,Reem Soliman,+20 103-106-8214,reem.soliman37@outlook.com,ALEXANDRIA,Shower Curtain,1,270.0,COD,In Progress
+11056,2026-02-28,Hassan Samir,+201125708194,hassan.samir28@outlook.com,mansoura,Bath Towel Pack (4),3,880.0,cash,delivered
+10788,2026-02-23,Ibrahim Abdelrahman,015 3009 7636,ibrahim.abdelrahman14@yahoo.com,TANTA,Bath Towel Pack (4),2,780.0,Visa,Completed
+ord11192,2026-02-24,  Kirollos   Fayez ,+201549304469, KIROLLOS.FAYEZ67@YAHOO.COM, CAIRO ,Ceramic Dinner Set (24 pcs),0,2300.0,Card,DELIVERED
+11243,2026-02-28,Salma Farouk,00201001037490,,El Mansoura,Electric Kettle 1.7L,1,1150.0,Cash on Delivery,Completed
+ORD-11144,2026-02-07,omar mansour,1041662236,omar.mansour60@yahoo.com,Cairo City,Non-stick Frying Pan 28cm,3,840.0,Visa,In Progress
+ORD 10977,2026-02-18,omar hassan,+201140455821, OMAR.HASSAN28@GMAIL.COM,alexandria,Ceramic Dinner Set (24 pcs),1,2250.0,Wallet,delivered
+11180,2026-02-13,Omar Mansour,010 4166 2236,omar.mansour60@yahoo.com, CAIRO ,Ceramic Dinner Set (24 pcs),2,2300.0,Cash on Delivery,Cancelled
+ORD-11300,2026-02-15,MARINA NAGUIB,+20 115-568-4858,marina.naguib84@gmail.com,mansoura,Wall Clock,1,510.0,COD,delivered
+11008,2026-02-07,HASSAN NAGUIB,1552953249,hassan.naguib45@gmail.com,ALEXANDRIA,Shower Curtain,1,420.0,COD,pending
+ORD 11278,2026-02-11,Mina Ibrahim,1546381032,mina.ibrahim76@yahoo.com,El Mansoura,Shower Curtain,1,270.0,COD,cancelled
+ORD-11010,2026-02-25,khaled ramadan,+201207507864,khaled.ramadan30@gmail.com,Alexandria,Electric Kettle 1.7L,1,1150.0,COD,Delivered
+ORD-10794,2026-02-02,Mariam Ali,00201080070438,mariam.ali56@yahoo.com,ALEXANDRIA,Bath Towel Pack (4),1,780.0,mobile wallet,Completed
+ord11047,2026-02-21,Mariam Shehata,+201226738452,mariam.shehata50@yahoo.com, CAIRO ,Cotton Bed Sheet Set,1,1450.0,mobile wallet,Refunded
+ORD 11116,2026-02-16,Amr Ibrahim,12345,amr.ibrahim80@outlook.com,Tanta,Shower Curtain,1,270.0,Visa,Delivered
+ORD-10115,2026-01-28,kerollos abdelrahman,015 7148 1992,kirollos.abdelrahman91@gmail.com,TANTA,Memory Foam Pillow,2,650.0,cash,DELIVERED
+ord10705,2026-02-23,OMAR FAROUK,+201116901217,, CAIRO ,Electric Kettle 1.7L,1 pcs,1150.0,Credit Card,Refunded
+ord10297,2026-01-31,ibrahim ezzat,012 9314 4504,ibrahim.ezzat63@gmail.com, CAIRO ,Bath Towel Pack (4),1,780.0,mobile wallet,Delivered
+ORD-11096,2026-02-23,HASSAN SAMIR,+201063920651,hassan.samir58@yahoo.com,tanta,Non-stick Frying Pan 28cm,1,990.0,cash,Delivered
+ORD 10534,2026-01-30,Karim Girgis,,karim.girgis44@outlook.com,GIZA,LED Desk Lamp,2,540.0,Credit Card,delivered
+ORD-11226,2026-02-02,NOUR HANNA,00201069340535,nour.hanna25.gmail.com,giza ,Non-stick Frying Pan 28cm,3,890.0,Credit Card,delivered
+ord10844,2026-02-04,fatma hanna,01219363237, FATMA.HANNA26@OUTLOOK.COM,TANTA,Memory Foam Pillow,2,600.0,cash,Canceled
+ord11269,2026-02-06,Nour Farouk,011 1163 1697,nour.farouk36@yahoo.com,El Giza,Electric Kettle 1.7L,4 pcs,1150.0,COD,Delivered
+ord11343,2026-02-04,Fady Ali,01105624520,fady.ali41@yahoo.com,Tanta,Storage Basket Set,1,365.0,Cash on Delivery,DELIVERED
+ORD-11058,2026-02-10,mahmoud ezzat,1056267415,mahmoud.ezzat85@outlook.com,tanta,Memory Foam Pillow,1,650.0,Vodafone Cash,delivered
+ORD 11206,2026-02-01,Habiba Kamal,015 6233 6371,habiba.kamal27@yahoo.com,TANTA,Ceramic Dinner Set (24 pcs),2,2300.0,Vodafone Cash,delivered
+10916,2026-02-09,Fady Shehata,1240962024,fady.shehata30@gmail.com, CAIRO ,Shower Curtain,2,320.0,Cash on Delivery,Completed
+11245,2026-02-01,karim shehata,1182558242,karim.shehata6@outlook.com,Tanta,Shower Curtain,2,420.0,Vodafone Cash,Delivered
+ORD-11287,2026-02-23,Tarek Abdelrahman,01573793389,tarek.abdelrahman22@yahoo.com,tanta,Cotton Bed Sheet Set,1,1400.0,Wallet,DELIVERED
+10797,2026-02-02,Amr Nasr,+201163560289,amr.nasr86@gmail.com,TANTA,LED Desk Lamp,1,540.0,COD,DELIVERED
+10961,2026-02-12,Mariam Hanna,01091306093,mariam.hanna93@gmail.com,TANTA,Memory Foam Pillow,1,650.0,Cash on Delivery,delivered
+ORD 10970,2026-02-11,Habiba Kamal,+20 156-233-6371,habiba.kamal27@yahoo.com,TANTA,Electric Kettle 1.7L,1,1100.0,Cash on Delivery,pending
+ORD-10368,2026-01-30,Sherif Fawzy,01206530784,sherif.fawzy7@yahoo.com,El Mansoura,LED Desk Lamp,1,490.0,Cash on Delivery,Completed
+ORD-10994,2026-02-13,  Karim   Zaki ,00201059549527,karim.zaki22@outlook.com,alexandria,Memory Foam Pillow,1,750.0,Visa,Completed
+ord11218,2026-02-17,Rana Shehata,+201060362235,rana.shehata74@outlook.com,El Giza,Shower Curtain,1,270.0,Visa,delivered
+10798,2026-02-23,TAREK RAMADAN,12345,tarek.ramadan86@yahoo.com,TANTA,Ceramic Dinner Set (24 pcs),1,2300.0,cash,delivered
+ord11266,2026-02-09,Laila Zaki,01506927215,laila.zaki27@yahoo.com,TANTA,Ceramic Dinner Set (24 pcs),1,2250.0,Credit Card,Delivered
+ORD-11085,2026-02-25,Sara Naguib,01545150390,sara.naguib4@yahoo.com,ALEXANDRIA,Memory Foam Pillow,4,600.0,Visa,delivered
+ORD 10886,2026-02-28,Mina Hanna,1121931511,mina.hanna60@yahoo.com,Alex,LED Desk Lamp,1,540.0,Wallet,Delivered
+ord11132,2026-02-28,Kirollos Fayez,+201537333543,kirollos.fayez24@outlook.com,Mansoura,Memory Foam Pillow,4 pcs,650.0,COD,delivered
+11290,2026-02-21,Omar Mansour,00201041662236,omar.mansour60@yahoo.com,cairo,Shower Curtain,2,420.0,Credit Card,DELIVERED
+10882,2026-02-03,Hassan Saeed,01214508768,hassan.saeed75@gmail.com,ALEXANDRIA,Wall Clock,4 pcs,510.0,cash,DELIVERED
+ORD 10853,2026-02-13,NADA EZZAT,010 5164 2594,nada.ezzat49@outlook.com,El Mansoura,Cotton Bed Sheet Set,2,1450.0,COD,Refunded
+10207,2026-01-30,Mahmoud Hassan,00201217558317,mahmoud.hassan82@yahoo.com,Giza,Memory Foam Pillow,1 pcs,600.0,Wallet,Cancelled
+ORD 11193,2026-02-26,REEM FAWZY,1172286705,reem.fawzy35@outlook.com,ALEXANDRIA,LED Desk Lamp,2,540.0,COD,Completed
+10562,2026-01-26,Karim Ramadan,01163280554,karim.ramadan4@outlook.com,tanta,Storage Basket Set,1,365.0,Credit Card,delivered
+ord11216,2026-02-19,Dina Hanna,1095482622,dina.hanna67@gmail.com,Alexandria,Memory Foam Pillow,1,650.0,Wallet,DELIVERED
+ORD-10464,2026-01-27,Youssef Hanna,00201167898694,youssef.hanna34@gmail.com,Alex,Storage Basket Set,1,365.0,Card,Completed
+ORD-11138,2026-02-23,Omar Hassan,011 4045 5821,omar.hassan28@gmail.com,alexandria,Bath Towel Pack (4),1,730.0,Cash on Delivery,Delivered
+ORD 10934,2026-02-19,Kirollos Kamal,+201104877451,kirollos.kamal51@yahoo.com,Giza,Wall Clock,2,360.0,Visa,Delivered
+ORD 10619,2026-01-31,MAHMOUD RAMADAN,00201138840994,,Cairo City,LED Desk Lamp,1 pcs,490.0,Card,Completed
+11212,2026-02-04,salma zaki,00201277490893,salma.zaki25@outlook.com,Cairo,LED Desk Lamp,1,540.0,Wallet,Delivered
+ORD 10967,2026-02-14,laila girgis,+20 120-609-5815,laila.girgis29@yahoo.com,Tanta,Non-stick Frying Pan 28cm,1,890.0,Cash on Delivery,cancelled
+ORD-10728,2026-02-16,Yasmin Fathy,010 8572 6382,yasmin.fathy38@yahoo.com,Tanta,Memory Foam Pillow,1 pcs,650.0,Card,delivered
+ORD 11189,2026-02-13,mennatallah gamal,+20 102-831-7637,mennatallah.gamal73@outlook.com,alexandria,Ceramic Dinner Set (24 pcs),2,2300.0,Credit Card,Completed
+ORD-11348,2026-02-16,Laila Abdelrahman,+201572287061,laila.abdelrahman62@yahoo.com,Alexandria,LED Desk Lamp,1,490.0,COD,pending
+11368,2026-02-20,DINA GIRGIS,,dina.girgis26@gmail.com,El Giza,Bath Towel Pack (4),3,730.0,Credit Card,Completed
+,,,,,,,,,,
+ORD 11307,2026-02-12,Yasmine Nasr,01238789478,yasmin.nasr91@gmail.com,Mansoura,Non-stick Frying Pan 28cm,1,990.0,cash,Delivered
+ORD 10016,2026-01-27,Nour Abdelrahman,00201282467167,nour.abdelrahman69@gmail.com,tanta,Non-stick Frying Pan 28cm,1,990.0,Card,DELIVERED
+10690,2026-02-27,AYA ADEL,+201260896652, AYA.ADEL65@OUTLOOK.COM,El Mansoura,Ceramic Dinner Set (24 pcs),1,2300.0,Credit Card,Completed
+ord10843,2026-02-22,LAILA GAMAL,+201012388090,laila.gamal82@yahoo.com,Alex,Storage Basket Set,2,365.0,Wallet,cancelled
+11150,2026-02-16,Aya Mahmoud,+20 104-401-2664,aya.mahmoud85@yahoo.com,Alex,Shower Curtain,3,270.0,Visa,DELIVERED
+11029,2026-02-13,HABIBA KAMAL,+201562336371,habiba.kamal27@yahoo.com,TANTA,Shower Curtain,4,270.0,cash,Delivered
+ORD 11124,2026-02-22,  Karim   Abdelrahman ,00201226477373,karim.abdelrahman23@outlook.com,Giza,LED Desk Lamp,1,540.0,COD,Delivered
+ORD-11355,2026-02-09,  Salma   Ali ,1040049524,salma.ali73.outlook.com, CAIRO ,Ceramic Dinner Set (24 pcs),1,2300.0,Credit Card,DELIVERED
+10894,2026-02-21,MENNATALLAH RAMADAN,01203704481,mennatallah.ramadan15@yahoo.com,giza ,Wall Clock,1,410.0,Card,Completed
+ord10948,2026-02-21,Sherif Saeed,1021009452,sherif.saeed1@yahoo.com,Mansoura,Shower Curtain,3,420.0,mobile wallet,DELIVERED
+ORD 10870,2026-02-24,Laila Girgis,00201206095815, LAILA.GIRGIS29@YAHOO.COM,TANTA,LED Desk Lamp,2,540.0,COD,Delivered
+ORD 11101,2026-02-19,  Mostafa   Saeed ,00201260306604,mostafa.saeed66@gmail.com,mansoura,Electric Kettle 1.7L,1,1150.0,mobile wallet,Delivered
+ord11363,2026-02-05,yasmin nasr,1238789478,yasmin.nasr91@gmail.com,El Mansoura,Shower Curtain,1 pcs,320.0,COD,Delivered
+ORD 10876,2026-02-01,Fady Shehata,012 4096 2024,fady.shehata30@gmail.com,Cairo City,LED Desk Lamp,1,490.0,cash,Returned
+ORD 10002,2026-01-27,SHERIF MAHMOUD,1098740608,sherif.mahmoud24@yahoo.com,tanta,Cotton Bed Sheet Set,3,1450.0,COD,Completed
+ORD 11081,2026-02-16,LAILA ZAKI,01506927215,laila.zaki27@yahoo.com,tanta,Storage Basket Set,2,315.0,COD,Canceled
+ORD 10820,2026-02-11,  Youssef   Zaki ,01004164775,youssef.zaki32@gmail.com,Cairo City,Electric Kettle 1.7L,1,1100.0,Credit Card,DELIVERED
+ORD 11098,2026-02-04,Sherif Mahmoud,+20 109-874-0608,,Tanta,Wall Clock,1,410.0,cash,Delivered
+ord11340,2026-02-04,Mennatallah Soliman,015 0979 4273,mennatallah.soliman89@gmail.com,GIZA,Cotton Bed Sheet Set,2,1400.0,cash,DELIVERED
+ORD 10225,2026-01-27,KHALED SAMIR,010 7831 9168,khaled.samir62@gmail.com,tanta,Wall Clock,1,360.0,Wallet,DELIVERED
+ORD 11347,2026-02-27,Kerollos Kamal,+201104877451,kirollos.kamal51@yahoo.com,El Giza,Ceramic Dinner Set (24 pcs),1,2400.0,COD,DELIVERED
+11066,2026-02-26,MOSTAFA SOLIMAN,1255767881,mostafa.soliman23@gmail.com,Giza,Cotton Bed Sheet Set,1,1450.0,Vodafone Cash,Cancelled
+ord11323,2026-02-04,Nada Farouk,00201220868105,nada.farouk28@yahoo.com,Cairo,Electric Kettle 1.7L,1,1150.0,COD,delivered
+10712,2026-02-12,  Marina   Naguib ,+20 115-568-4858,marina.naguib84@gmail.com,Mansoura,Storage Basket Set,1,465.0,Card,Canceled
+ord11141,2026-02-11,Mostafa Ramadan,+201186128115,mostafa.ramadan82@outlook.com,Al Qahirah,Ceramic Dinner Set (24 pcs),2,2300.0,Card,DELIVERED
+ORD 10715,2026-02-17,Rana Abdelrahman,01124272734,rana.abdelrahman89@outlook.com,El Giza,Non-stick Frying Pan 28cm,1,990.0,Credit Card,Completed
+ORD-11065,2026-02-16,IBRAHIM HANNA,1288882576,,El Mansoura,Storage Basket Set,2,365.0,mobile wallet,delivered
+10746,2026-02-26,Nour Samir,+20 121-349-2385,nour.samir25@yahoo.com,El Giza,Shower Curtain,2,270.0,Credit Card,Delivered
+ORD-11186,2026-02-07,Mahmoud Ramadan,1138840994,mahmoud.ramadan11@gmail.com,Cairo City,Cotton Bed Sheet Set,1,1450.0,Vodafone Cash,Pending
+10740,2026-02-03,Nada Mansour,1555177213, NADA.MANSOUR60@OUTLOOK.COM,Cairo,Storage Basket Set,3 pcs,315.0,Cash on Delivery,Completed
+ORD 11153,2026-02-09,Aya Zaki,1572613940,aya.zaki5@outlook.com,cairo,Wall Clock,3,410.0,Card,Delivered
+11337,2026-02-02,  Fatma   Ramadan ,00201055137801,fatma.ramadan46@outlook.com,Mansoura,Electric Kettle 1.7L,1,1100.0,Card,Delivered
+11162,2026-02-12,Fatma Ibrahim,1190301106, FATMA.IBRAHIM40@GMAIL.COM,Giza,Shower Curtain,3,270.0,cash,delivered
+ord10909,2026-02-26,Yasmin Gamal,011 1619 4158,yasmin.gamal93@gmail.com,Alexandria,Electric Kettle 1.7L,1,,Cash on Delivery,pending
+ORD-11284,2026-02-23,Karim Farouk,+201067719420,karim.farouk83@gmail.com,Cairo City,Electric Kettle 1.7L,1,1100.0,Wallet,Canceled
+11204,2026-02-17,rana adel,+201110200074,rana.adel76@outlook.com,El Giza,Shower Curtain,1,320.0,mobile wallet,Delivered
+ord11253,2026-02-01,fady hassan,+20 154-210-3092, FADY.HASSAN54@GMAIL.COM,mansoura,Shower Curtain,2,320.0,Card,delivered
+ORD 11194,2026-02-20,hana soliman,015 5624 0084,,TANTA,Cotton Bed Sheet Set,1,1400.0,cash,Delivered
+11304,2026-02-21,SARA IBRAHIM,01135507920,sara.ibrahim81@outlook.com,El Giza,Cotton Bed Sheet Set,4,1450.0,mobile wallet,DELIVERED
+10949,2026-02-26,  Amr   Hassan ,1032862209,amr.hassan61@outlook.com,Al Qahirah,Electric Kettle 1.7L,1,1100.0,COD,DELIVERED
+ord11014,2026-02-27,nour ezzat,+201562394301,nour.ezzat56@outlook.com,tanta,Wall Clock,1,360.0,Cash on Delivery,delivered
+ORD 10767,2026-02-02,  Tarek   Girgis ,00201536619573,tarek.girgis25@gmail.com,Alexandria,Storage Basket Set,2,315.0,Card,DELIVERED
+ord11210,2026-02-12,Khaled Samir,1078319168,khaled.samir62@gmail.com,TANTA,Electric Kettle 1.7L,3,1150.0,Card,Delivered
+11362,2026-02-20,Ibrahim Hanna,+20 128-888-2576,ibrahim.hanna62@outlook.com,Mansoura,Bath Towel Pack (4),2,780.0,Card,Delivered
+10783,2026-02-23,Dina Kamal,1599765071,dina.kamal57@yahoo.com,alexandria,Cotton Bed Sheet Set,1,1450.0,COD,cancelled
+ord10842,2026-02-25,SALMA SOLIMAN,011 9553 7400,,Giza,Cotton Bed Sheet Set,1,1450.0,Wallet,cancelled
+ORD-10119,2026-01-28,YASMIN RAMADAN,1263519947,yasmin.ramadan71@outlook.com,Alexandria,LED Desk Lamp,1 pcs,490.0,cash,DELIVERED
+ORD-11002,2026-02-04,Habiba Ali,+201282523968, HABIBA.ALI56@YAHOO.COM,Al Qahirah,LED Desk Lamp,2,640.0,Vodafone Cash,Delivered
+ORD-11361,2026-02-02,  Mennatallah   Girgis ,01006080513,mennatallah.girgis5@gmail.com,Alexandria,Memory Foam Pillow,1,600.0,cash,Canceled
+ORD 10873,2026-02-04,nour saeed,12345,,El Giza,Shower Curtain,1 pcs,320.0,COD,delivered
+10430,2026-01-30,SHERIF ADEL,1277149951,sherif.adel38@outlook.com,Alex,Electric Kettle 1.7L,1,1100.0,COD,Completed
+ord10790,2026-02-20,Mennatallah Ramadan,+20 102-480-0912,mennatallah.ramadan18@yahoo.com,Alexandria,Bath Towel Pack (4),4,880.0,Visa,delivered
+ORD-11339,2026-02-20,Youssef Nasr,1238250360,youssef.nasr21@yahoo.com,TANTA,Bath Towel Pack (4),2,880.0,COD,Delivered
+ORD 10762,2026-02-25,SALMA MANSOUR,01088010774,salma.mansour43@yahoo.com, CAIRO ,Storage Basket Set,1,315.0,cash,DELIVERED
+ORD 10854,2026-02-10,Omar Hassan,+201140455821,omar.hassan28@gmail.com,alexandria,Wall Clock,1,510.0,Card,Returned
+ORD-11222,2026-02-13,Nada Naguib,00201570325062,nada.naguib11@yahoo.com,alexandria,Memory Foam Pillow,1,650.0,Cash on Delivery,DELIVERED
+ord10846,2026-02-23,Habiba Ramadan,012 8418 3695,habiba.ramadan41@gmail.com,mansoura,Electric Kettle 1.7L,2,1150.0,COD,delivered
+ord10813,2026-02-22,HASSAN SAMIR,011 2570 8194,hassan.samir28@outlook.com,mansoura,LED Desk Lamp,2,540.0,cash,pending
+10141,2026-01-31,  Ahmed   Ezzat ,012 0388 6030,ahmed.ezzat24@yahoo.com,alexandria,Cotton Bed Sheet Set,1,1450.0,Credit Card,Returned
+10901,2026-02-21,  Khaled   Ramadan ,00201090232106,khaled.ramadan35.outlook.com,Al Qahirah,Bath Towel Pack (4),4 pcs,780.0,Credit Card,DELIVERED
+ORD-10199,2026-01-31,Habiba Ali,012 8252 3968,habiba.ali56@yahoo.com,cairo,Shower Curtain,2,320.0,cash,Delivered
+ORD 10708,2026-02-03,Rana Gamal,1585320121, RANA.GAMAL47@GMAIL.COM,Alexandria,Memory Foam Pillow,2,650.0,COD,delivered
+11321,2026-02-09,Ahmed Ali,+201207532195,ahmed.ali38@yahoo.com,Alexandria,Shower Curtain,1,420.0,Cash on Delivery,DELIVERED
+ORD 11020,2026-02-10,Yasmin Shehata,010 0816 3847,yasmin.shehata62@yahoo.com,mansoura,LED Desk Lamp,0,540.0,Cash on Delivery,delivered
+10962,2026-02-24,Dina Kamal,1572144402, DINA.KAMAL86@GMAIL.COM,giza ,Electric Kettle 1.7L,2,1150.0,Wallet,Delivered
+ord11358,2026-02-27,  Fatma   Mansour ,,fatma.mansour19@outlook.com,Mansoura,Storage Basket Set,1,315.0,Cash on Delivery,Canceled
+ORD-11239,2026-02-12,rana farouk,015 9719 7979, RANA.FAROUK22@YAHOO.COM,giza ,Shower Curtain,1,320.0,COD,delivered
+ord11147,2026-02-12,mohamed gamal,+201117447248,mohamed.gamal70@yahoo.com,Giza,Wall Clock,1,360.0,COD,pending
+ord11017,2026-02-13,  Khaled   Adel ,00201194813972,khaled.adel28@gmail.com,mansoura,Shower Curtain,1,320.0,Credit Card,delivered
+ORD-10931,2026-02-06,Karim Fawzy,1135520201,karim.fawzy85@gmail.com,giza ,LED Desk Lamp,1,490.0,cash,DELIVERED
+ord10986,2026-02-17,Ahmed Ramadan,00201536840133, AHMED.RAMADAN2@OUTLOOK.COM, CAIRO ,Memory Foam Pillow,1,650.0,COD,Completed
+11351,2026-02-21,  Reem   Mahmoud ,+20 110-069-5441,reem.mahmoud71@gmail.com,mansoura,Cotton Bed Sheet Set,3,1550.0,Wallet,Completed
+ord11311,2026-02-06,yasmin fathy,+20 108-572-6382,yasmin.fathy38@yahoo.com,tanta,Memory Foam Pillow,2,600.0,Vodafone Cash,Delivered
+ord11023,2026-02-10,  Hassan   Naguib ,00201552953249, HASSAN.NAGUIB45@GMAIL.COM,alexandria,LED Desk Lamp,4,490.0,COD,DELIVERED
+11292,2026-02-23,mina ali,00201024941004,mina.ali9@outlook.com,Al Qahirah,Electric Kettle 1.7L,1,1150.0,Visa,Delivered
+ORD 10932,2026-02-17,REEM MAHMOUD,011 0069 5441,reem.mahmoud71@gmail.com,Mansoura,Shower Curtain,2,320.0,Cash on Delivery,Delivered
+ORD 10759,2026-02-11,Reem Soliman,01014428014,reem.soliman56@gmail.com,ALEXANDRIA,Memory Foam Pillow,1,600.0,COD,Returned
+ORD-10908,2026-02-25,Marina Ibrahim,1115228493,marina.ibrahim60@gmail.com,GIZA,Cotton Bed Sheet Set,2,1450.0,Visa,Delivered
+11354,2026-02-12,Mostafa Zaki,01171826922,mostafa.zaki95.outlook.com, CAIRO ,Ceramic Dinner Set (24 pcs),2,2300.0,Wallet,DELIVERED
+ORD-11111,2026-02-22,Hana Nasr,015 2514 0847,hana.nasr86@outlook.com,cairo,Shower Curtain,3 pcs,320.0,COD,Delivered
+ORD 10707,2026-02-23,Dina Saeed,012 0189 8961,dina.saeed91@outlook.com,Giza,Ceramic Dinner Set (24 pcs),1,2300.0,Cash on Delivery,DELIVERED
+ORD 11213,2026-02-16,youssef hanna,+20 116-789-8694,youssef.hanna34@gmail.com,ALEXANDRIA,Memory Foam Pillow,1,650.0,COD,In Progress
+ORD-10714,2026-02-10,Rana Naguib,+201077267850,rana.naguib49@yahoo.com,Cairo,Non-stick Frying Pan 28cm,3,990.0,Visa,DELIVERED
+ord10146,2026-01-28,Karim Zaki,+20 105-954-9527,karim.zaki22@outlook.com,alexandria,Shower Curtain,1,420.0,COD,Completed
+ord11165,2026-02-15,  Reem   Fawzy ,+20 117-228-6705,reem.fawzy35@outlook.com,Alexandria,Non-stick Frying Pan 28cm,4,840.0,Cash on Delivery,Completed
+10242,2026-01-31,Salma Zaki,00201277490893,salma.zaki25@outlook.com, CAIRO ,Bath Towel Pack (4),3,880.0,Credit Card,delivered
+ord10744,2026-02-06,Reem Girgis,1519990477,reem.girgis78@outlook.com,El Giza,Bath Towel Pack (4),1,780.0,Visa,DELIVERED
+ORD-10968,2026-02-19,Mariam Ali,010 8007 0438,mariam.ali56@yahoo.com,Alexandria,Ceramic Dinner Set (24 pcs),1,2250.0,Credit Card,delivered
+ORD 10958,2026-02-14,Hassan Ramadan,00201017690330,hassan.ramadan2@yahoo.com,El Giza,Shower Curtain,2,320.0,COD,Delivered
+ORD 10896,2026-02-18,Aya Ezzat,01567292380, AYA.EZZAT20@GMAIL.COM,mansoura,Shower Curtain,1,320.0,Credit Card,In Progress
+ord10980,2026-02-15,Reem Nasr,+20 155-463-4663,reem.nasr25@gmail.com,Cairo City,Ceramic Dinner Set (24 pcs),2,2400.0,COD,Cancelled
+ORD 10915,2026-02-01,sara ibrahim,1277277086,sara.ibrahim55@outlook.com,Mansoura,LED Desk Lamp,2,490.0,COD,Cancelled
+ORD 10837,2026-02-20,sara naguib,01545150390,sara.naguib4@yahoo.com,alexandria,Ceramic Dinner Set (24 pcs),1 pcs,2250.0,COD,Completed
+ORD 11353,2026-02-17,Hassan Ali,01156348030,hassan.ali82@outlook.com,Mansoura,Bath Towel Pack (4),1 pcs,880.0,cash,Completed
+ord10806,2026-02-05,Nour Hanna,1069340535,nour.hanna25@gmail.com,giza ,Storage Basket Set,3,365.0,cash,delivered
+ORD 11045,2026-02-01,reem soliman,+201014428014,reem.soliman56@gmail.com,Alexandria,Ceramic Dinner Set (24 pcs),1,2400.0,Card,DELIVERED
+ORD 11074,2026-02-04,YASMINE FATHY,+20 108-572-6382,yasmin.fathy38@yahoo.com,TANTA,Storage Basket Set,2,365.0,Wallet,Completed
+11046,2026-02-12,AYA EZZAT,015 6729 2380,aya.ezzat20@gmail.com,mansoura,Non-stick Frying Pan 28cm,2,890.0,Credit Card,delivered
+ord10058,2026-01-26,Ahmad Ramadan,01536840133,ahmed.ramadan2@outlook.com, CAIRO ,Storage Basket Set,3 pcs,315.0,COD,delivered
+10957,2026-02-19,Sara Hassan,00201267187530,sara.hassan98@gmail.com,TANTA,Non-stick Frying Pan 28cm,1,990.0,Cash on Delivery,delivered
+ord10921,2026-02-27,  Nada   Mahmoud ,011 8692 4061,,giza ,Bath Towel Pack (4),1,780.0,Cash on Delivery,Delivered
+ORD-10954,2026-02-21,Nada Ezzat,+20 105-164-2594,,mansoura,Storage Basket Set,1,365.0,COD,Delivered
+ORD 11228,2026-02-17,MARINA FAYEZ,01192692016,marina.fayez61@outlook.com,El Mansoura,Shower Curtain,2,320.0,Cash on Delivery,Delivered
+ORD 11057,2026-02-21,Hassan Naguib,+201552953249,hassan.naguib45@gmail.com,alexandria,Shower Curtain,2,320.0,COD,cancelled
+ORD 10777,2026-02-28,  Rana   Ezzat ,015 3332 2272,rana.ezzat21@yahoo.com,TANTA,Ceramic Dinner Set (24 pcs),2,2300.0,mobile wallet,delivered
+ORD 11268,2026-02-22,Marina Ibrahim,12345,marina.ibrahim60@gmail.com,Giza,Non-stick Frying Pan 28cm,4 pcs,840.0,Credit Card,DELIVERED
+ord10576,2026-01-30,Hana Ibrahim,1599595101,hana.ibrahim6@yahoo.com,Cairo City,Storage Basket Set,2,365.0,Credit Card,Delivered
+ORD-11264,2026-02-20,Maryam Abdelrahman,N/A,mariam.abdelrahman72@outlook.com,Alex,Non-stick Frying Pan 28cm,1,990.0,COD,Completed
+ORD-11167,2026-02-05,Sara Ibrahim,+201135507920,sara.ibrahim81@outlook.com,GIZA,Cotton Bed Sheet Set,2,1450.0,Credit Card,Completed
+ord11059,2026-02-19,Hassan Ramadan,00201017690330,hassan.ramadan2@yahoo.com,El Giza,Memory Foam Pillow,1,650.0,Credit Card,In Progress
+ORD-10919,2026-02-23,Kirollos Abdelrahman,+201571481992,kirollos.abdelrahman91@gmail.com,Tanta,Non-stick Frying Pan 28cm,4,890.0,cash,Delivered
+ORD 11037,2026-02-15,Rana Abdelrahman,+201104237322,rana.abdelrahman74@outlook.com,Cairo,Shower Curtain,3,270.0,cash,returned
+ORD 10688,2026-02-03,dina girgis,01042831009,dina.girgis31@yahoo.com,Cairo,Bath Towel Pack (4),2 pcs,730.0,Credit Card,DELIVERED
+10760,2026-02-22,KIROLLOS KAMAL,+201104877451,kirollos.kamal51@yahoo.com,giza ,Bath Towel Pack (4),3,780.0,Visa,In Progress
+ORD 11293,2026-02-23,Mariam Shehata,012 5677 5103,mariam.shehata90@outlook.com,tanta,Non-stick Frying Pan 28cm,1,890.0,Cash on Delivery,DELIVERED
+ORD 11215,2026-02-16,  Nour   Girgis ,+201558755000,nour.girgis11@outlook.com,Cairo,Electric Kettle 1.7L,2,1150.0,COD,Completed
+ord10978,2026-02-05,Nour Farouk,01111631697,nour.farouk36@yahoo.com,El Giza,Non-stick Frying Pan 28cm,1,890.0,Card,Completed
+ORD-10871,2026-02-05,Dina Gamal,010 4792 8328,dina.gamal9@yahoo.com,Giza,LED Desk Lamp,3,490.0,COD,Completed
+10738,2026-02-12,Laila Zaki,01286155337,laila.zaki39@yahoo.com,GIZA,Bath Towel Pack (4),1,780.0,Cash on Delivery,Completed
+11168,2026-02-26,Nada Farouk,+20 122-086-8105,nada.farouk28@yahoo.com,Cairo,Cotton Bed Sheet Set,4,1400.0,Credit Card,delivered
+ORD-11305,2026-02-09,Marina Ezzat,+201170138498,marina.ezzat49@yahoo.com,mansoura,Storage Basket Set,1,315.0,Wallet,Completed
+ORD-11044,2026-02-01,Sherif Fathy,+201558978194,sherif.fathy68@outlook.com,Tanta,Memory Foam Pillow,3,650.0,mobile wallet,Delivered
+ORD 11205,2026-02-11,Rana Kamal,+201545754284,rana.kamal21@yahoo.com,Alexandria,Memory Foam Pillow,3,750.0,Visa,Completed
+ORD 11051,2026-02-26,  Youssef   Mahmoud ,01580092958, YOUSSEF.MAHMOUD69@GMAIL.COM,TANTA,Storage Basket Set,1,365.0,cash,Cancelled
+ORD 11120,2026-02-04,Khaled Girgis,+201075329037,khaled.girgis26@outlook.com,Tanta,Bath Towel Pack (4),1,780.0,COD,Completed
+ord10816,2026-02-03,Amr Mansour,00201172394227,,tanta,Wall Clock,1,510.0,cash,delivered
+ord11201,2026-02-25,Ahmed Ali,01207532195,ahmed.ali38@yahoo.com,alexandria,Cotton Bed Sheet Set,1,1450.0,COD,Delivered
+10818,2026-02-24,FATMA SOLIMAN,+201586075494, FATMA.SOLIMAN70@OUTLOOK.COM,mansoura,Memory Foam Pillow,-1,650.0,cash,cancelled
+ord10811,2026-02-16,Mennatallah Hanna,+20 106-104-5700,mennatallah.hanna12@yahoo.com,Alexandria,Shower Curtain,1,320.0,COD,Delivered
+10821,2026-02-14,Habiba Ezzat,015 2236 6682,habiba.ezzat89@yahoo.com,Alex,Memory Foam Pillow,1,650.0,Cash on Delivery,DELIVERED
+ORD-10952,2026-02-12,Reem Shehata,010 1063 3503,reem.shehata3@yahoo.com,El Giza,Wall Clock,1,410.0,cash,DELIVERED
+ORD-11329,2026-02-08,yasmin fathy,+20 108-572-6382,,tanta,Bath Towel Pack (4),2,780.0,mobile wallet,DELIVERED
+ORD-11075,2026-02-02,Youssef Nasr,00201238250360,youssef.nasr21@yahoo.com,TANTA,Ceramic Dinner Set (24 pcs),1,2300.0,COD,Completed
+ord10754,2026-02-21,Nour Ezzat,015 6239 4301,nour.ezzat56@outlook.com,Tanta,Memory Foam Pillow,2,650.0,Visa,Cancelled
+10940,2026-02-26,Yasmin Shehata,+20 100-816-3847,yasmin.shehata62@yahoo.com,El Mansoura,Bath Towel Pack (4),1,780.0,Cash on Delivery,Cancelled
+ORD 11270,2026-02-24,Sara Kamal,+201025176902, SARA.KAMAL67@YAHOO.COM,Tanta,Storage Basket Set,2,465.0,Cash on Delivery,Delivered
+ORD-11279,2026-02-14,nour saeed,1051343880,nour.saeed5@yahoo.com,giza ,Electric Kettle 1.7L,1,1150.0,Visa,Completed
+ORD-10856,2026-02-15,Mahmoud Soliman,+201046488123,mahmoud.soliman57@outlook.com,Alex,Shower Curtain,1,420.0,Visa,Delivered
+ORD 11207,2026-02-06,Sara Kamal,01196414756,sara.kamal90@yahoo.com,El Mansoura,Electric Kettle 1.7L,2,1100.0,cash,Refunded
+ORD-11315,2026-02-09,Tarek Girgis,1536619573, TAREK.GIRGIS25@GMAIL.COM,Alexandria,Wall Clock,1,410.0,Card,Completed
+ord10864,2026-02-28,Rana Ezzat,1533322272,rana.ezzat21@yahoo.com,Tanta,Wall Clock,1,410.0,Credit Card,Delivered
+10562,2026-01-26,Karim Ramadan,01163280554,karim.ramadan4@outlook.com,tanta,Storage Basket Set,1,365.0,Credit Card,delivered
+ord10985,2026-02-16,Omar Ramadan,010 3652 1025, OMAR.RAMADAN57@OUTLOOK.COM,mansoura,Non-stick Frying Pan 28cm,4,990.0,cash,Delivered
+ord11259,2026-02-27,SARA NAGUIB,01545150390,sara.naguib4@yahoo.com,Alex,Bath Towel Pack (4),1,780.0,cash,Cancelled
+ORD-11139,2026-02-07,FADY EZZAT,00201109369750,,Alex,Bath Towel Pack (4),1,880.0,COD,delivered
+11273,2026-02-12,Ibrahim Abdelrahman,00201530097636,ibrahim.abdelrahman14@yahoo.com,tanta,Wall Clock,1,410.0,cash,cancelled
+ord11297,2026-02-17,sara fathy,+20 115-845-0095,sara.fathy23@outlook.com,Tanta,Storage Basket Set,2,365.0,Cash on Delivery,Completed
+ord10719,2026-02-10,sherif fathy,01558978194,sherif.fathy68@outlook.com,TANTA,Shower Curtain,2,320.0,Card,Completed
+ORD 10709,2026-02-19,Omar Nasr,00201004216175,omar.nasr43@gmail.com,TANTA,Wall Clock,1,410.0,Cash on Delivery,Completed
+ORD 10763,2026-02-11,Mennatallah Soliman,+201509794273,mennatallah.soliman89.gmail.com,El Giza,Bath Towel Pack (4),2,780.0,cash,In Progress
+ORD-11361,2026-02-02,  Mennatallah   Girgis ,01006080513,mennatallah.girgis5@gmail.com,Alexandria,Memory Foam Pillow,1,600.0,cash,Canceled
+ORD-11329,2026-02-08,yasmin fathy,+20 108-572-6382,,tanta,Bath Towel Pack (4),2,780.0,mobile wallet,DELIVERED
+ORD 11148,2026-02-17,HASSAN ALI,+20 115-634-8030,hassan.ali82@outlook.com,El Mansoura,Shower Curtain,2,320.0,Visa,Completed
+11106,2026-02-23,Sara Ibrahim,00201135507920,,giza ,Bath Towel Pack (4),2,780.0,COD,DELIVERED
+ORD 10697,2026-02-12,SHERIF GAMAL,015 1039 9639,sherif.gamal92.yahoo.com,giza ,Ceramic Dinner Set (24 pcs),1,2300.0,mobile wallet,delivered
+11263,2026-02-20,tarek girgis,+201253423225,tarek.girgis41@outlook.com,Alexandria,Storage Basket Set,1,465.0,Wallet,DELIVERED
+10792,2026-02-18,Sara Hassan,012 6718 7530,sara.hassan98@gmail.com,tanta,Ceramic Dinner Set (24 pcs),1 pcs,2300.0,cash,DELIVERED
+ord10972,2026-02-07,Nada Mahmoud,+20 121-746-3800,nada.mahmoud72@gmail.com,Tanta,Shower Curtain,1,320.0,cash,delivered
+10556,2026-01-28,Aya Ezzat,+20 122-181-0655,aya.ezzat51@outlook.com,Alex,Ceramic Dinner Set (24 pcs),1,2300.0,Visa,delivered
+ORD 11364,2026-02-08,Sara Fathy,00201158450095,sara.fathy23@outlook.com,tanta,Electric Kettle 1.7L,2,1150.0,Visa,cancelled
+ord10903,2026-02-21,Mostafa Naguib,015 0426 5799,mostafa.naguib4@gmail.com,Giza,Ceramic Dinner Set (24 pcs),2,2250.0,Card,returned
+11209,2026-02-21,Mennatallah Hanna,01533999198,mennatallah.hanna5@outlook.com,El Giza,Storage Basket Set,3,365.0,Cash on Delivery,Completed
+ORD-10376,2026-01-30,  Fatma   Mansour ,+20 102-434-7841,fatma.mansour19@outlook.com,El Mansoura,LED Desk Lamp,1,,COD,Completed
+ORD-10655,2026-01-28,Fady Hassan,1542103092,fady.hassan54@gmail.com,El Mansoura,Cotton Bed Sheet Set,1,1450.0,Cash on Delivery,Completed
+ORD-10647,2026-01-27,RANA SOLIMAN,1297137886,rana.soliman85@outlook.com,giza ,LED Desk Lamp,1,540.0,COD,DELIVERED
+ORD-10840,2026-02-06,HASSAN ALI,+201156348030,hassan.ali82@outlook.com,mansoura,Ceramic Dinner Set (24 pcs),1,2250.0,cash,DELIVERED
+11179,2026-02-26,MOSTAFA NAGUIB,1504265799,mostafa.naguib4@gmail.com,El Giza,Memory Foam Pillow,3,650.0,COD,Delivered
+ord11322,2026-02-04,Nada Naguib,+201570325062, NADA.NAGUIB11@YAHOO.COM,alexandria,Storage Basket Set,2,465.0,Credit Card,pending
+ORD 10967,2026-02-14,laila girgis,+20 120-609-5815,laila.girgis29@yahoo.com,Tanta,Non-stick Frying Pan 28cm,1,890.0,Cash on Delivery,cancelled
+10262,2026-01-26,SALMA FAROUK,+20 100-103-7490,salma.farouk64@outlook.com,mansoura,LED Desk Lamp,2 pcs,540.0,Card,Completed
+ord11089,2026-02-08,Amr Kamal,01110043277,amr.kamal61@yahoo.com,alexandria,Cotton Bed Sheet Set,1,1550.0,cash,Returned
+ord10502,2026-01-28,Mina Mansour,+20 123-796-9333,mina.mansour50@yahoo.com,alexandria,Bath Towel Pack (4),3,780.0,COD,DELIVERED
+ORD 10824,2026-02-01,Ibrahim Shehata,1249512272,ibrahim.shehata22@outlook.com,tanta,Ceramic Dinner Set (24 pcs),1,2250.0,COD,Completed
+11338,2026-02-15,Nada Fawzy,00201195690391,nada.fawzy40@yahoo.com,Alex,Wall Clock,1,410.0,Visa,cancelled
+ORD 10955,2026-02-10,hana ibrahim,015 9959 5101,,cairo,Non-stick Frying Pan 28cm,3 pcs,990.0,Visa,DELIVERED
+ord10819,2026-02-23,fatma mahmoud,+20 151-338-3077,fatma.mahmoud68@yahoo.com,cairo,Shower Curtain,1,320.0,cash,delivered
+ORD 11152,2026-02-07,Nour Shehata,+20 111-890-8276, NOUR.SHEHATA13@GMAIL.COM,ALEXANDRIA,Storage Basket Set,2,465.0,Visa,Completed
+ORD-11170,2026-02-11,Habiba Ezzat,1260254091,habiba.ezzat30@outlook.com,giza ,Electric Kettle 1.7L,1,1100.0,Cash on Delivery,Delivered
+ord10989,2026-02-16,  Rana   Soliman ,12345,rana.soliman85@outlook.com,El Giza,LED Desk Lamp,1 pcs,640.0,Card,Completed
+ord10742,2026-02-01,DINA HASSAN,00201241455302,dina.hassan24@gmail.com,ALEXANDRIA,Electric Kettle 1.7L,1,1150.0,Cash on Delivery,DELIVERED
+10205,2026-01-30,Mahmoud Samir,015 7197 1316,mahmoud.samir16.yahoo.com, CAIRO ,LED Desk Lamp,2,640.0,Credit Card,delivered
+ORD 10976,2026-02-01,Rana Naguib,+201077267850,rana.naguib49@yahoo.com,Cairo City,Wall Clock,1,410.0,mobile wallet,DELIVERED
+ORD-10325,2026-01-28,  Rana   Hanna ,010 3513 5070,rana.hanna34@outlook.com,El Mansoura,Cotton Bed Sheet Set,1,1550.0,Visa,Completed
+ord11345,2026-02-27,Youssef Adel,01509943140,youssef.adel74@outlook.com,cairo,Ceramic Dinner Set (24 pcs),2,2400.0,Card,Delivered
+ord10150,2026-01-30,Fatma Ramadan,00201055137801,fatma.ramadan46@outlook.com,mansoura,Bath Towel Pack (4),2,780.0,Cash on Delivery,Delivered
+ord11197,2026-02-08,NADA MAHMOUD,1217463800,nada.mahmoud72@gmail.com,tanta,Cotton Bed Sheet Set,1,1550.0,cash,Completed
+ord11125,2026-02-04,IBRAHIM SHEHATA,1249512272,ibrahim.shehata22@outlook.com,Tanta,Non-stick Frying Pan 28cm,1,890.0,Visa,Completed
+11224,2026-02-05,DINA HASSAN,+20 124-145-5302,dina.hassan24@gmail.com,Alexandria,Wall Clock,1 pcs,410.0,COD,DELIVERED
+ORD-11154,2026-02-08,AMRO MANSOUR,1172394227,amr.mansour68@gmail.com,TANTA,Ceramic Dinner Set (24 pcs),1,2300.0,Cash on Delivery,DELIVERED
+ORD 10065,2026-01-31,mina ibrahim,015 4638 1032, MINA.IBRAHIM76@YAHOO.COM,mansoura,Shower Curtain,1,320.0,Credit Card,pending
+ord11040,2026-02-22,laila zaki,+201286155337,laila.zaki39@yahoo.com,Giza,Cotton Bed Sheet Set,2,1400.0,cash,Delivered
+ord11003,2026-02-11,IBRAHIM HANNA,01288882576,ibrahim.hanna62@outlook.com,Mansoura,Storage Basket Set,2,365.0,Credit Card,delivered
+ORD 10179,2026-01-27,Khaled Fayez,01136632757,khaled.fayez56@yahoo.com,Cairo City,Storage Basket Set,1 pcs,365.0,Visa,Delivered
+ord11294,2026-02-15,Nada Shehata,00201155541117,nada.shehata44@yahoo.com,mansoura,Non-stick Frying Pan 28cm,1,840.0,Credit Card,Completed
+10835,2026-02-20,Kirollos Kamal,+20 110-487-7451,kirollos.kamal51@yahoo.com,giza ,Bath Towel Pack (4),1,780.0,cash,Completed
