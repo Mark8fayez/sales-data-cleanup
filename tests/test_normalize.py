@@ -67,3 +67,10 @@ def test_text_fields():
 def test_unknown_column_is_flagged():
     assert nz.column_name("Order ID") == "order_id"
     assert nz.column_name("Discount Code") is None
+
+
+@pytest.mark.parametrize("raw, expected", [
+    ("", 0.0), ("0", 0.0), ("50", 50.0), ("EGP 100", 100.0), ("150 EGP", 150.0), ("-20", None),
+])
+def test_discount(raw, expected):
+    assert nz.discount(raw) == expected

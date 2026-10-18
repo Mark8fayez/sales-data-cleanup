@@ -16,14 +16,14 @@ log = logging.getLogger(__name__)
 
 REQUIRED = ["order_id", "order_date", "product", "quantity", "unit_price", "status"]
 CLEAN_COLUMNS = ["order_id", "order_date", "customer_name", "phone", "email", "city", "product",
-                 "quantity", "unit_price", "line_total", "payment_method", "status", "source_file"]
+                 "quantity", "unit_price", "discount", "line_total", "payment_method", "status", "source_file"]
 
 # column -> function that cleans one value
 CLEANERS = {
     "order_id": nz.order_id, "order_date": nz.order_date, "customer_name": nz.person_name,
     "phone": nz.phone, "email": nz.email, "city": nz.city, "product": nz._text,
     "quantity": nz.quantity, "unit_price": nz.price, "payment_method": nz.payment_method,
-    "status": nz.status,
+    "status": nz.status, "discount": nz.discount,
 }
 
 
@@ -61,7 +61,7 @@ def drop_empty_rows(raw: pd.DataFrame) -> tuple[pd.DataFrame, int]:
     return raw[~is_empty].copy(), int(is_empty.sum())
 
 
-NUMERIC = {"quantity", "unit_price"}
+NUMERIC = {"quantity", "unit_price", "discount"}
 
 
 def _is_plain_number(s) -> bool:
@@ -132,7 +132,8 @@ def deduplicate(valid: pd.DataFrame) -> tuple[pd.DataFrame, dict]:
 
 def build_orders(final: pd.DataFrame) -> pd.DataFrame:
     orders = final.copy()
-    orders["line_total"] = (orders["quantity"] * orders["unit_price"]).round(2)
+    orders["discount"] = orders["discount"].fillna(0).astype(float)
+    orders["line_total"] = (orders["quantity"] * orders["unit_price"] - orders["discount"]).round(2)
     return orders[CLEAN_COLUMNS].reset_index(drop=True)
 
 

@@ -16,6 +16,7 @@ Six months of order exports from three different tools, merged into **one clean,
 - Customer names are typed in different cases, with extra spaces and different spellings (`Mohamed`, `Mohammed`, `Muhammad`)
 - The last days of each month are exported again in the next month's file, sometimes with an updated status
 - Prices arrive as `2,300.00 EGP` or `EGP 2,400`, quantities as `2 pcs`, and some rows are empty or broken
+- The new POS system (May, Jun) adds a Discount column, written as `EGP 100`, `150 EGP`, `50`, blank, or even negative
 
 ## Result
 
@@ -23,11 +24,12 @@ Six months of order exports from three different tools, merged into **one clean,
 | --- | ---: |
 | Raw rows in 6 files | 4,698 |
 | Clean, unique orders | **3,855** |
-| Duplicate rows removed | 664 (130 inside a file, 534 re-exported in a later file) |
-| Rows rejected and logged with a reason | 136 (36 of those orders kept from a valid copy elsewhere) |
-| Phone numbers standardized to `+20…` | 3,771 |
-| Customers whose name was spelled more than one way, merged by phone | 66 of 350 |
-| Orders whose status was updated in a later export (latest kept) | 28 |
+| Duplicate rows removed | 667 (131 inside a file, 536 re-exported in a later file) |
+| Rows rejected and logged with a reason | 133 (34 of those orders kept from a valid copy elsewhere) |
+| Phone numbers standardized to `+20…` | 3,777 |
+| Customers whose name was spelled more than one way, merged by phone | 70 of 350 |
+| Orders whose status was updated in a later export (latest kept) | 31 |
+| Invalid (negative) discounts set to 0 and logged in the report | 188 rows |
 | Time to rerun on new exports | one command, about 1 second |
 
 The full breakdown is in [`reports/data_quality_report.md`](reports/data_quality_report.md).

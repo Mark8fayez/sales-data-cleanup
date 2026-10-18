@@ -8,7 +8,7 @@ LABELS = {
     "order_id": "Order ID", "order_date": "Order date", "customer_name": "Customer name",
     "phone": "Phone", "email": "Email", "city": "City", "product": "Product",
     "quantity": "Quantity", "unit_price": "Unit price", "payment_method": "Payment method",
-    "status": "Status",
+    "status": "Status", "discount": "Discount",
 }
 
 

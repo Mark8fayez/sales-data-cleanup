@@ -21,6 +21,7 @@ COLUMN_MAP = {
     "unit price (egp)": "unit_price", "price": "unit_price",
     "payment": "payment_method", "payment_method": "payment_method", "pay method": "payment_method",
     "status": "status", "order_status": "status",
+        "discount": "discount",
 }
 
 DATE_FORMATS = ["%Y-%m-%d", "%d/%m/%Y", "%b %d, %Y"]
@@ -152,3 +153,16 @@ def price(value) -> float | None:
     except ValueError:
         return None
     return p if p > 0 else None
+
+
+def discount(value) -> float | None:
+    """'EGP 100', '150 EGP', '50' -> float. Empty means no discount -> 0.0. Negative -> None."""
+    s = _text(value)
+    if s is None:
+        return 0.0
+    s = s.upper().replace("EGP", "").replace(",", "").strip()
+    try:
+        d = float(s)
+    except ValueError:
+        return None
+    return d if d >= 0 else None

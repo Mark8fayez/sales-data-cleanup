@@ -70,7 +70,7 @@ SCHEMAS = {
     "pos": {  # May, June
         "ext": "csv",
         "cols": ["OrderID", "Date", "Client", "Phone Number", "Email Address", "Governorate",
-                 "Product Name", "Units", "Price", "Pay Method", "Status"],
+                 "Product Name", "Units", "Price", "Pay Method", "Status", "Discount"],
         "date_fmt": "%b %d, %Y",
     },
 }
@@ -190,13 +190,16 @@ def build_orders(customers: list[dict], orders_per_month: int) -> list[dict]:
             next_id += 1
     return orders
 
+def messy_discount() -> object:
+    """Most orders have no discount; the rest are written in different ways."""
+    return random.choice(["", "", "", "0", "50", "EGP 100", "150 EGP", "-20"])
 
 def to_row(o: dict, schema: str, reexport: bool = False) -> list:
     c = o["customer"]
     order_status = o["status"]
     if reexport and order_status == "pending" and random.random() < 0.6:
         order_status = "delivered"  # the later export carries the newer status
-    return [
+    row = [
         messy_order_id(o["order_num"]),
         o["date"].strftime(SCHEMAS[schema]["date_fmt"]),
         messy_name(c["name"]),
@@ -209,7 +212,9 @@ def to_row(o: dict, schema: str, reexport: bool = False) -> list:
         random.choice(PAYMENT_VARIANTS[o["payment"]]),
         random.choice(STATUS_VARIANTS[order_status]),
     ]
-
+    if schema == "pos":
+        row.append(messy_discount())
+    return row
 
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
