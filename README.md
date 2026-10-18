@@ -60,7 +60,7 @@ python scripts/generate_messy_data.py --out data/raw   # optional: recreate the 
 python clean.py --input data/raw --output data/clean --report reports
 ```
 
-Run the tests with `python -m pytest`. Regenerate the image with `python scripts/make_before_after.py`.
+To see each step with its output, open `notebooks/walkthrough.ipynb`. Run the tests with `python -m pytest`. Regenerate the image with `python scripts/make_before_after.py`.
 
 ## Using it on new data
 
@@ -89,4 +89,5 @@ cleaning/report.py            data quality report (Markdown + JSON)
 scripts/generate_messy_data.py   creates the messy sample exports
 scripts/make_before_after.py     draws docs/before_after.png
 tests/test_normalize.py       35 tests for the field cleaners
+notebooks/walkthrough.ipynb   runs the pipeline step by step and shows each result
 ```
